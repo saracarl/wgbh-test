@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "27c380f4-9e70-4c23-990c-58eb4f3ee65e": {
+      "label": "black and white test video",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://cdn01.cimediacloud.com/cifiles/9537d62babcc453cb05d228d1e479323/cpb-aacip-120-70zpcgr3.mp4.mp4?response-content-disposition=attachment%3Bfilename%3D%22cpb-aacip-120-70zpcgr3.mp4.mp4%22&u=16a555d05c60439a8243a3d6c349fd8b&a=9537d62babcc453cb05d228d1e479323&ct=033353dcb7f94511973247db2c0479f0&et=download&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NkbjAxLmNpbWVkaWFjbG91ZC5jb20vY2lmaWxlcy85NTM3ZDYyYmFiY2M0NTNjYjA1ZDIyOGQxZTQ3OTMyMy9jcGItYWFjaXAtMTIwLTcwenBjZ3IzLm1wNC5tcDQ~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCZmlsZW5hbWUlM0QlMjJjcGItYWFjaXAtMTIwLTcwenBjZ3IzLm1wNC5tcDQlMjImdT0xNmE1NTVkMDVjNjA0MzlhODI0M2EzZDZjMzQ5ZmQ4YiZhPTk1MzdkNjJiYWJjYzQ1M2NiMDVkMjI4ZDFlNDc5MzIzJmN0PTAzMzM1M2RjYjdmOTQ1MTE5NzMyNDdkYjJjMDQ3OWYwJmV0PWRvd25sb2FkIiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifSwiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTAyODA3MzV9fX1dfQ__&Signature=e7Gpgea-nTeW6RagcLtsXQsFgyGVLV1WSiExnU5A3~RAP2GBKVJxR6Q-5-Ei16FESuU6uZ~dWbNkpzSlsoq0vY6WddMwq8JuEJiER755PnZJ-s7YkDaOi0HpT7rccicW5dEdJDxgHhLbwVjnNbrRGcefDnMKBtCRrnomYEKcMQY_&Key-Pair-Id=APKAJNUSFH4IKQRZ44WA",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "test video",
+  "created_at": "2025-06-18T19:41:02.068Z",
+  "created_by": "saracarl",
+  "updated_at": "2025-06-18T19:41:02.068Z",
+  "updated_by": "saracarl"
+}
