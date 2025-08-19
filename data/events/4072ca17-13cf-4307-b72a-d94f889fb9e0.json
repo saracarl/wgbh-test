@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "d51713af-5c6f-4d73-9a8d-18f43da88cf1": {
+      "label": "AV File 1",
+      "file_url": "https://aapb-demo.wgbh-mla.org/media/cpb-aacip-15-qj77s7j383/download",
+      "duration": 3547
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "now with type Video"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-08-19T17:08:19.205Z",
+  "created_by": "saracarl",
+  "item_type": "Video",
+  "label": "The Evening Compass; September in Boston",
+  "updated_at": "2025-08-19T17:08:19.205Z",
+  "updated_by": "saracarl"
+}
