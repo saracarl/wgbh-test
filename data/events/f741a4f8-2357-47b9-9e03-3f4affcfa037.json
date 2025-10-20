@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "8df6ba70-55d4-4e1f-bc6d-b91bfd87b93a": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/134/041/original/SW020-a-cleaned.wav?1661177188",
+      "duration": 2695.3259,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Alberta manifest"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-20T15:14:28.818Z",
+  "created_by": "saracarl",
+  "label": "Media File 1 of 1 - SW020-a-cleaned.wav",
+  "updated_at": "2025-10-20T15:14:28.818Z",
+  "updated_by": "saracarl",
+  "rights_statement": ""
+}
