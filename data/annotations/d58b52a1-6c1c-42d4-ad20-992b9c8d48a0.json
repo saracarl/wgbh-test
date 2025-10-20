@@ -1,0 +1,452 @@
+{
+  "event_id": "8b41c048-8dfc-4d58-8fc4-da97aff26c96",
+  "source_id": "f0a51614-9dee-4055-a8bd-d66c950dfaba",
+  "set": "Rafal Wnuk Critical Edition [Transcript]",
+  "annotations": [
+    {
+      "start_time": 63,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gora Kalwaria [Góra Kalwaria], a small city located now part of but then near Warsaw on the left bank of the Vistula River and known in Yiddish as Ger. Gora Kalwaria was the seat of a well-known dynasty of "
+            },
+            {
+              "text": "tzaddikim",
+              "italic": true
+            },
+            {
+              "text": ", founded by Meir Rotemberg Alter (1789-1866), who stressed the importance of religious studies and promoted Orthodox religiosity, but were also active in the political sphere. Today the tzaddikim from Ger live in Israel and in the US."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bd3205d1-698d-48d1-8eae-06b8192e4874"
+    },
+    {
+      "start_time": 146,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The father of Henryk Prajs was Jankiel Prajs."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "98475dac-bfc6-4414-a065-95d5f71a49b9"
+    },
+    {
+      "start_time": 420,
+      "end_time": 464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sholem Aleichem (pen name of Shalom Rabinovich, 1859-1916) was a Yiddish author and humorist, a prolific writer of novels, stories, feuilletons, critical reviews, and poems in Yiddish, Hebrew and Russian. He also contributed regularly to Yiddish dailies and weeklies. He founded a literary Yiddish annual called "
+            },
+            {
+              "text": "Di Yidishe Folksbibliotek",
+              "italic": true
+            },
+            {
+              "text": " (The Popular Jewish Library), with which he wanted both to raise the denigrated Yiddish literature from its low status and at the same time combat authors of trash literature, whom he saw as dragging the Yiddish literature down to the lowest popular level. His writings have been translated into most European languages."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3f159477-c901-48e6-b0e5-89b87a17f7e6"
+    },
+    {
+      "start_time": 420,
+      "end_time": 464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prajs refers to the head of the Chassidic court of Ger, Avraham Mordechai Alter (1864‒1948)."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f7c9102f-ceef-4c97-bb2f-a459d2cb97ec"
+    },
+    {
+      "start_time": 465,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kozienice, a small town in the Radom region, Mazovia Province ["
+            },
+            {
+              "text": "województwo mazowieckie",
+              "italic": true
+            },
+            {
+              "text": "]. In 1939, the town had slightly less than 9,000 inhabitants, roughly half of whom were Jews. Geoffrey P. Megargee, Martin Dean and Mel Hacker (eds.), "
+            },
+            {
+              "text": "Encyclopedia of Camps and Ghettos, 1933–1945",
+              "italic": true
+            },
+            {
+              "text": ", vol. II, "
+            },
+            {
+              "text": "Ghettos in German-Occupied Eastern Europe",
+              "italic": true
+            },
+            {
+              "text": ", Part A (Bloomington: United States Holocaust Memorial Museum, 2012), 249."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5e4770ba-e6be-49b0-beab-bb06746672b5"
+    },
+    {
+      "start_time": 465,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kock, a small town in Lublin Province ["
+            },
+            {
+              "text": "województwo lubelskie",
+              "italic": true
+            },
+            {
+              "text": "]. In 1937, its population of 4,463 residents included 2,213 Jews. Ibid, 527."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bf9b514c-68e5-49db-a803-59760acba04f"
+    },
+    {
+      "start_time": 499,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lodz [Łódź] lies 137 kilometers (85 miles) southwest of Warsaw. In 1931, its 604,629 residents included 356,987 Poles, 191,720 Jews, and 53,562 Germans. On the eve of World War II, its Jewish community, numbering around 235,000 members, was the second largest in Europe. Ibid, 75."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "95a35890-9295-453d-b4d3-a0098d514d90"
+    },
+    {
+      "start_time": 499,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Krakow [Kraków] is a city in south Poland. In 1931, the population of the city was approximately 250,000, including 56,800 Jews. Ibid, 527."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e87f87a7-56c7-46a5-8247-61abcb7a1f11"
+    },
+    {
+      "start_time": 674,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ONR Falanga ("
+            },
+            {
+              "text": "Obóz Narodowo-Radykalny Falanga",
+              "italic": true
+            },
+            {
+              "text": ", ONR), the National Radical Camp, was founded in 1934 by young nationalist activists convinced that the platform and manner of operation of the National Camp – the main right-wing party in Poland at that time – was insufficiently revolutionary. The ONR was anti-democratic, anti-capitalist, anti-communist, antisemitic, and radically nationalist. Declared illegal by the Second Republic of Poland after a few months’ operation, the organization went underground and continued its activities illegally with the support of extremist nationalist groups.1935 saw a split between the ‘moderate’ ONR, known as ‘ABC,’ and the ‘radical’ ONR known as ‘Falanga.’ The ONR exploited calls for an economic boycott during the severe economic crisis of the 1930s to drum up support among the masses and develop opposition to Pilsudski's government. The ONR drew most of its support from young urban residents and students. Szymon Rudnicki, "
+            },
+            {
+              "text": "Obóz Narodowo Radykalny. Geneza i działalność",
+              "italic": true
+            },
+            {
+              "text": " (Warsaw: Czytelnik, 1995), 291-293."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0eba1592-ce01-48d3-adb7-5ea97b3f6e77"
+    },
+    {
+      "start_time": 674,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Warka, Grójec, Karczew and Otwock are small towns near Gora Kalwaria."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "74f92e2d-17b3-4321-881d-b8d7fac21603"
+    },
+    {
+      "start_time": 674,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Katyn massacre was a series of mass executions of interned officers of the Polish Army, Polish Police, and Polish political prisoners. The executions were carried out by the NKVD (People's Commissariat for Internal Affairs, the Soviet secret police) in April and May 1940. See Natalia Lebiediewa, "
+            },
+            {
+              "text": "Zbrodnia katyńska: Proces odkrywania prawdy i jej upamiętniania",
+              "italic": true
+            },
+            {
+              "text": ", in Adam D. Rodfeld and Anatolij W. Torkunow (eds.), "
+            },
+            {
+              "text": "Białe plamy – czarne plamy: Sprawy trudne w polsko-rosyjskich stosunkach 1918-2008",
+              "italic": true
+            },
+            {
+              "text": " (Warsaw: IPMS 2010), 333-361."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "702c936d-7167-47ea-97fb-a855353e7f71"
+    },
+    {
+      "start_time": 1044,
+      "end_time": 1090,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suwałki is a town in Podlasie Province (województwo podlaskie – Białystok region) on the pre-war Polish-German border."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1e3b346a-af61-4eec-abe1-6b92378fcb71"
+    },
+    {
+      "start_time": 1168,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sieradz is a town in Łódź Province."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "becf4593-2fea-4521-a575-ddd5f0c5c8ab"
+    },
+    {
+      "start_time": 1168,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Czerwony Bór is a large forest in the Białystok region."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4f46f3ac-dd96-4e65-a5e4-dd4eeb294d22"
+    },
+    {
+      "start_time": 1294,
+      "end_time": 1310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Polish Autocephalous Orthodox Church ("
+            },
+            {
+              "text": "Polski Autokefaliczny Kościół Prawosławny",
+              "italic": true
+            },
+            {
+              "text": ") is one of the autocephalous Eastern Orthodox churches. The church was established in 1924. Members of this church were mainly ethnic Ukrainians and Belarusians."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a9897c13-281d-46e8-9ee0-d9a17fcb725a"
+    },
+    {
+      "start_time": 1294,
+      "end_time": 1310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prajs refers to the Evangelical Church Augsburg Confession in Poland (Polish: "
+            },
+            {
+              "text": "Kościół Ewangelicko-Augsburski w Rzeczypospolitej Polskiej",
+              "italic": true
+            },
+            {
+              "text": "), the largest Protestant body in Poland. Members of this church were mainly ethnic Poles and Germans."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cda80fee-8a65-497f-9dd5-921adc0adc88"
+    },
+    {
+      "start_time": 1327,
+      "end_time": 1343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prajs refers to prayers sung morning and evening in the Polish Army in the pre-war period."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb5388af-7abf-4cd3-a093-eedc3ca9d409"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Józef Beck (1894-1944) was the Polish Minister of Foreign Affairs from 1932 to 1939."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1387d396-9eb2-42fa-90f7-da8fa1a0325b"
+    },
+    {
+      "start_time": 1502,
+      "end_time": 1533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The United Kingdom and France declared war on Germany on September 3, 1939, two days after Germany invaded Poland."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d703dbc9-bb57-4bf1-8d5e-cf50d24e9999"
+    },
+    {
+      "start_time": 1637,
+      "end_time": 1697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hapoel HaMizrachi was a political party formed in Jerusalem in 1922. It was a religious Zionist organization that supported the founding of "
+            },
+            {
+              "text": "kibbutzim",
+              "italic": true
+            },
+            {
+              "text": " and "
+            },
+            {
+              "text": "moshavim",
+              "italic": true
+            },
+            {
+              "text": " (villages)."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ca2fa1c8-427c-4543-9bca-f44a7784c8ea"
+    },
+    {
+      "start_time": 1637,
+      "end_time": 1697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poale Zion (the Jewish Social-Democratic Workers' Party: Workers of Zion; Yiddish: "
+            },
+            {
+              "text": "Yidishe Socialistish-Demokratishe Arbeiter Partei: Poale Syon",
+              "italic": true
+            },
+            {
+              "text": "). A political party formed in 1905 in the Kingdom of Poland, and operating throughout the Polish state from 1918. The party's main aim was to create an independent socialist Jewish state in Palestine. In 1920, during a conference in Vienna, the party split, forming the Poale Zion Right (the Jewish Socialist Workers' Party of Zion), which became part of the Socialist Workers’ International and the World Zionist Organization, and the radical Poale Zion Left (the Jewish Social-Democratic Workers’ Party of Zion), which sympathized with the Bolsheviks. "
+            },
+            {
+              "text": "Poalej Syjon in Polin: Wirtualny sztetl, https://sztetl.org.pl/pl/slownik/poalej-syjon.",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c0cfbd07-273e-41e4-89c1-0716689bf04b"
+    }
+  ]
+}

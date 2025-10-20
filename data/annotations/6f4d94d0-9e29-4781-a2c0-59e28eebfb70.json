@@ -1,0 +1,2691 @@
+{
+  "event_id": "a19e808d-d744-4dd7-93b9-ec20bcabee6b",
+  "source_id": "2f9885c6-0eeb-4a8a-b4b7-856788bede90",
+  "set": "English Transcript [Transcript]",
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "annotation": [
+        {
+          "text": "Interviewer: So in July 1940 you moved to the ghetto?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c193297-332e-4c76-9239-6e083bad6592"
+    },
+    {
+      "start_time": 7,
+      "end_time": 16,
+      "annotation": [
+        {
+          "text": "Subject: We were already inside the ghetto in July 1940. The surroundings of the ghetto and the ghetto itself were sealed off completely."
+        }
+      ],
+      "tags": [],
+      "uuid": "7f5d9cbd-8f67-4f1e-ab6a-a77e7867e5bc"
+    },
+    {
+      "start_time": 16,
+      "end_time": 20,
+      "annotation": [
+        {
+          "text": "Interviewer: But how was it in your case?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5d521065-843a-487a-9451-91bbb5572bed"
+    },
+    {
+      "start_time": 20,
+      "end_time": 21,
+      "annotation": [
+        {
+          "text": "Subject: Well, normal."
+        }
+      ],
+      "tags": [],
+      "uuid": "9f030234-78ae-4ff6-8ce8-07b44d66e9e8"
+    },
+    {
+      "start_time": 21,
+      "end_time": 23,
+      "annotation": [
+        {
+          "text": "Interviewer: Because you were living at home?"
+        }
+      ],
+      "tags": [],
+      "uuid": "413d2df8-3aac-41d4-b745-4bc1d2883c87"
+    },
+    {
+      "start_time": 23,
+      "end_time": 27,
+      "annotation": [
+        {
+          "text": "Subject: I liv… I continued to live in the same place because the ghetto was located where I lived."
+        }
+      ],
+      "tags": [],
+      "uuid": "c8d9347c-85cc-4f02-9ff2-1c0221c7c33d"
+    },
+    {
+      "start_time": 27,
+      "end_time": 28,
+      "annotation": [
+        {
+          "text": "Interviewer: I see."
+        }
+      ],
+      "tags": [],
+      "uuid": "b151795e-c411-459d-b048-33d4562affcd"
+    },
+    {
+      "start_time": 28,
+      "end_time": 29,
+      "annotation": [
+        {
+          "text": "Subject: Yes, it was."
+        }
+      ],
+      "tags": [],
+      "uuid": "5f7a84b7-6dd5-4b66-9a4d-31d0a792cede"
+    },
+    {
+      "start_time": 29,
+      "end_time": 30,
+      "annotation": [
+        {
+          "text": "Interviewer: That's good."
+        }
+      ],
+      "tags": [],
+      "uuid": "cdb8ab5f-34e8-4aec-b0bf-a3b89af60619"
+    },
+    {
+      "start_time": 30,
+      "end_time": 36,
+      "annotation": [
+        {
+          "text": "Subject: I didn't have to move anywhere. Nonetheless, it was a tragedy. Others came. We had to take them in."
+        }
+      ],
+      "tags": [],
+      "uuid": "76da3700-c216-48cc-8680-f2568f594acd"
+    },
+    {
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "text": "Interviewer: Whom?"
+        }
+      ],
+      "tags": [],
+      "uuid": "02c6b52c-de3d-47e8-a9af-5c4a44346924"
+    },
+    {
+      "start_time": 37,
+      "end_time": 38,
+      "annotation": [
+        {
+          "text": "Subject: Well, other... Jews."
+        }
+      ],
+      "tags": [],
+      "uuid": "894afaab-4607-4b31-b262-b1d53f424b9f"
+    },
+    {
+      "start_time": 38,
+      "end_time": 40,
+      "annotation": [
+        {
+          "text": "Interviewer: From Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0b3de5f2-d660-4c5a-a34e-a074b615e120"
+    },
+    {
+      "start_time": 40,
+      "end_time": 53,
+      "annotation": [
+        {
+          "text": "Subject: Yes, only from Gora Kalwaria. They came from the neighboring villages. There was a number of families, they lived in Czersk, Potycz, they all travelled to Gora Kalwaria, and we had to take them all in."
+        }
+      ],
+      "tags": [],
+      "uuid": "299ccb82-3bcd-4be0-964c-ab4159c98d6c"
+    },
+    {
+      "start_time": 53,
+      "end_time": 55,
+      "annotation": [
+        {
+          "text": "Interviewer: What did the ghetto look like?"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd54835f-0c46-42f1-869e-4cd5146f796b"
+    },
+    {
+      "start_time": 55,
+      "end_time": 103,
+      "annotation": [
+        {
+          "text": "Subject: The ghetto... You would have to see for yourselves what it looked like. Because the whole area was fenced... that dedicated part [of the town]. It was in Gora Kalwaria, an area made of a section of Dominikanska Street, the market square, the whole market square, Strazacka Street as well as a short section of Pijarska Street. It had a shape of a wedge, more or less, and Kalwaryjska Street. Yes, the Jews were not allowed to go any further, they could just get to that point [inaudible] and it was not locked up at all, only fenced, with barbed wire in one place, and where the street was, that street was passable, open. However, you were not allowed to venture out. If you did, you paid with your life."
+        }
+      ],
+      "tags": [],
+      "uuid": "80d4d6c4-0971-4efb-8bf3-52dbda9a017a"
+    },
+    {
+      "start_time": 103,
+      "end_time": 106,
+      "annotation": [
+        {
+          "text": "Interviewer: Well, was there a gate to be crossed?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e83f2e29-67ad-4ec1-a0dc-b578f613c670"
+    },
+    {
+      "start_time": 106,
+      "end_time": 114,
+      "annotation": [
+        {
+          "text": "Subject: No gate, there was no gate because it was impossible to build a gate there. After all, it was Gora Kalwaria with open streets."
+        }
+      ],
+      "tags": [],
+      "uuid": "427227b5-4165-4375-b629-68d88004d859"
+    },
+    {
+      "start_time": 114,
+      "end_time": 115,
+      "annotation": [
+        {
+          "text": "Interviewer: Well, you said there was a fence?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3df7f064-9506-44f8-89db-c8df6cd3fe19"
+    },
+    {
+      "start_time": 115,
+      "end_time": 126,
+      "annotation": [
+        {
+          "text": "Subject: The area was fenced off in one place only, in Strazacka Street so that you could not go in the direction of the Vistula river. This is why the fence was there. That's correct."
+        }
+      ],
+      "tags": [],
+      "uuid": "63831cf6-6090-4433-8244-73aaf4cf741f"
+    },
+    {
+      "start_time": 126,
+      "end_time": 130,
+      "annotation": [
+        {
+          "text": "Interviewer: But you said that you were living in which street at the time, Dominikanska Street?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2605cf81-c2bc-491b-8e0c-d0f6d71d9469"
+    },
+    {
+      "start_time": 130,
+      "end_time": 132,
+      "annotation": [
+        {
+          "text": "Subject: I used to live, no, I lived in Pilsudskiego Street."
+        }
+      ],
+      "tags": [],
+      "uuid": "a660445d-908d-468e-8daa-ac51bfc62d60"
+    },
+    {
+      "start_time": 132,
+      "end_time": 133,
+      "annotation": [
+        {
+          "text": "Interviewer: OK."
+        }
+      ],
+      "tags": [],
+      "uuid": "7a16e59e-f8c8-4a55-8d4f-333575f44fe9"
+    },
+    {
+      "start_time": 133,
+      "end_time": 153,
+      "annotation": [
+        {
+          "text": "Subject: That's right. And that is precisely where the ghetto was. Poles lived in my neighborhood, for instance, Catholics, not Poles but Catholics. Wozniak, Rytko and Jarosz lived there. And they and they had to move to other Jewish flats and the Jews moved into their flats instead."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e4241ce-8456-422a-9afd-e8a0c1a04bb7"
+    },
+    {
+      "start_time": 153,
+      "end_time": 156,
+      "annotation": [
+        {
+          "text": "Interviewer: Was anyone moved also into your flat?"
+        }
+      ],
+      "tags": [],
+      "uuid": "15ede8f3-e8e2-475c-b791-6bdf229018ad"
+    },
+    {
+      "start_time": 156,
+      "end_time": 161,
+      "annotation": [
+        {
+          "text": "Subject: One person from the countryside was also placed in my flat as an additional resident."
+        }
+      ],
+      "tags": [],
+      "uuid": "554316d7-8e30-417f-891d-9911effeb523"
+    },
+    {
+      "start_time": 161,
+      "end_time": 164,
+      "annotation": [
+        {
+          "text": "Interviewer: So there were already four of you, right?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cb36616b-138d-4393-a80c-c583f4579f05"
+    },
+    {
+      "start_time": 164,
+      "end_time": 166,
+      "annotation": [
+        {
+          "text": "Subject: Yes, four, four."
+        }
+      ],
+      "tags": [],
+      "uuid": "a69986d0-cd2e-4f4b-a761-f3a8b0ac609e"
+    },
+    {
+      "start_time": 166,
+      "end_time": 168,
+      "annotation": [
+        {
+          "text": "Interviewer: I mean, your family?"
+        }
+      ],
+      "tags": [],
+      "uuid": "904a955d-d9f3-405b-a567-9a4129886ca4"
+    },
+    {
+      "start_time": 168,
+      "end_time": 168,
+      "annotation": [
+        {
+          "text": "Subject: Five persons."
+        }
+      ],
+      "tags": [],
+      "uuid": "4fe5b21d-bf2b-4d80-8627-9f15e30d23c6"
+    },
+    {
+      "start_time": 168,
+      "end_time": 169,
+      "annotation": [
+        {
+          "text": "Interviewer: There were five of you already there, right?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5288a1f0-a658-4633-9fd2-2bd3fd575a2c"
+    },
+    {
+      "start_time": 169,
+      "end_time": 179,
+      "annotation": [
+        {
+          "text": "Subject: We were five in that one small flat. The flat was probably a 6 to 5 meter room. And so we had to squeeze in there until the 25th, 25 February 1941."
+        }
+      ],
+      "tags": [],
+      "uuid": "dea94b36-ca0d-4cd2-a0f4-e3f3fe6b7691"
+    },
+    {
+      "start_time": 179,
+      "end_time": 182,
+      "annotation": [
+        {
+          "text": "Interviewer: What was that period of seven months like?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a96f4259-9f7b-4008-9931-669cde7770a5"
+    },
+    {
+      "start_time": 182,
+      "end_time": 241,
+      "annotation": [
+        {
+          "text": "Subject: Dreadful. In general, that period was... With 10 persons squeezed into every single flat, people started to [inaudible] from a severe illness. Typhoid fever came and there were no medications. In general, there was very little food. Poor people could only go to the kitchen in the commune and eat a meal, they would get a small piece of bread. And that's how they got by. There was no help. Those better off Jews had to make contr... contributions because they had to build a bath house for those, for not, for the Jewish population even, they had to build it and had to allocate their own money toward the construction.  Once the bath house was built and ready, Jews were forcibly relocated. They were forced to relocate."
+        }
+      ],
+      "tags": [],
+      "uuid": "4d5a1abe-8239-42c4-94fa-20a796665d19"
+    },
+    {
+      "start_time": 241,
+      "end_time": 244,
+      "annotation": [
+        {
+          "text": "Interviewer: Was there also a Jewish police force in the ghetto or was it set up?"
+        }
+      ],
+      "tags": [],
+      "uuid": "757fd242-0c7c-485f-87d7-eb26840d3719"
+    },
+    {
+      "start_time": 244,
+      "end_time": 254,
+      "annotation": [
+        {
+          "text": "Subject: There was a Jewish police force. Yes, there was. They could hardly be called the police. It wasn't exactly the police. They more more like security staff."
+        }
+      ],
+      "tags": [],
+      "uuid": "62f83c61-f0ee-4647-a57c-f9fca7f40340"
+    },
+    {
+      "start_time": 254,
+      "end_time": 255,
+      "annotation": [
+        {
+          "text": "Interviewer: Responsible for keeping order."
+        }
+      ],
+      "tags": [],
+      "uuid": "45c5711d-655c-451d-802f-fd09331de909"
+    },
+    {
+      "start_time": 255,
+      "end_time": 268,
+      "annotation": [
+        {
+          "text": "Subject: Right.  But they did not beat anyone. They normally designated people [for work] and came to flats and summoned people to work. That was their task. They were appointed by the Jewish commune."
+        }
+      ],
+      "tags": [],
+      "uuid": "d9a25968-5908-4cbc-ac47-946eaf8f67a6"
+    },
+    {
+      "start_time": 268,
+      "end_time": 279,
+      "annotation": [
+        {
+          "text": "Interviewer: Please tell me one thing, in your case personally or possibly in the case of your family, what was the change between the period before the ghetto and the period after the ghetto? Because you lived in the same flat, didn't you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c73bfd1d-4af7-46c3-ade8-340a16695dff"
+    },
+    {
+      "start_time": 279,
+      "end_time": 281,
+      "annotation": [
+        {
+          "text": "Subject: In the same flat."
+        }
+      ],
+      "tags": [],
+      "uuid": "51d18686-e059-4af1-abf1-e18d71da27e2"
+    },
+    {
+      "start_time": 281,
+      "end_time": 284,
+      "annotation": [
+        {
+          "text": "Interviewer: Even though they placed an additional person in your flat."
+        }
+      ],
+      "tags": [],
+      "uuid": "f6b239e3-e0ed-476e-ae59-26c8dec569d0"
+    },
+    {
+      "start_time": 284,
+      "end_time": 297,
+      "annotation": [
+        {
+          "text": "Subject: That's right. That man had to live with us. There was a storage unit next to our flat. We made a room out of that storage unit so that the man could live there. That's how it was, unfortunately."
+        }
+      ],
+      "tags": [],
+      "uuid": "dd12e315-2cab-468c-a1ce-aa0649c4ea57"
+    },
+    {
+      "start_time": 297,
+      "end_time": 301,
+      "annotation": [
+        {
+          "text": "Interviewer: In what sense did the situation take a turn for the worse?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f42acd98-9ba0-4056-a80b-31c6b9c995dd"
+    },
+    {
+      "start_time": 301,
+      "end_time": 334,
+      "annotation": [
+        {
+          "text": "Subject: The situation deteriorated by full 100%. We could not go out. We were not allowed to. Nobody, no one could come to see us. We couldn't do anything. Hunger got to the point, how do you say it, it got to the point that was unimaginable.  So people started dying. A lot of people died during that period. Very many people. They could still be buried. That was not forbidden by the Germans. When someone died, they still allowed for him to be taken to the cemetery. So the conditions were dire."
+        }
+      ],
+      "tags": [],
+      "uuid": "ec5669b0-bdcb-4a58-9266-e0a7d17daafb"
+    },
+    {
+      "start_time": 334,
+      "end_time": 340,
+      "annotation": [
+        {
+          "text": "Interviewer: I understand that you were in contact with your friends, with the Poles? With Catholics?"
+        }
+      ],
+      "tags": [],
+      "uuid": "79398661-6f46-44df-81ec-32d645421ecb"
+    },
+    {
+      "start_time": 340,
+      "end_time": 347,
+      "annotation": [
+        {
+          "text": "Subject: With the Poles no. If only... if they could give us bread, they would do so during the night and even then in total secrecy."
+        }
+      ],
+      "tags": [],
+      "uuid": "38ba5613-fdec-4ed4-8ddf-aa49e1ee5260"
+    },
+    {
+      "start_time": 347,
+      "end_time": 351,
+      "annotation": [
+        {
+          "text": "Interviewer: But when you went back to Kalwaria, Gora Kalwaria..."
+        }
+      ],
+      "tags": [],
+      "uuid": "b7869314-5073-42dd-b5f5-7e03d90f5ff2"
+    },
+    {
+      "start_time": 351,
+      "end_time": 352,
+      "annotation": [
+        {
+          "text": "Subject: Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "ed685a89-daaa-481f-841b-e560fc75acab"
+    },
+    {
+      "start_time": 352,
+      "end_time": 356,
+      "annotation": [
+        {
+          "text": "Interviewer: You obviously turned to your friends, colleagues and so on in December 1939."
+        }
+      ],
+      "tags": [],
+      "uuid": "f49e1418-d9bd-4633-9d9e-16fdec249246"
+    },
+    {
+      "start_time": 356,
+      "end_time": 377,
+      "annotation": [
+        {
+          "text": "Subject: Yes, I did. Very much so, I was was very... we are still friends very much. Many persons felt sorry for me, after all, and they would come to me even during that period, for instance, Jozek Lewandowski would come and bring me firewood. He brought me firewood. Already somewhere during 1939."
+        }
+      ],
+      "tags": [],
+      "uuid": "d7eb83d0-3ed6-4fbe-8008-11eaec48cabd"
+    },
+    {
+      "start_time": 377,
+      "end_time": 379,
+      "annotation": [
+        {
+          "text": "Interviewer: I understand. And that was until July?"
+        }
+      ],
+      "tags": [],
+      "uuid": "861a95f5-1636-4c88-9044-adf589a1fb5c"
+    },
+    {
+      "start_time": 379,
+      "end_time": 406,
+      "annotation": [
+        {
+          "text": "Subject: As late as July. And they brought firewood even in 1940. The people we knew brought us potatoes. They gave them to us. As far as hunger is concerned, my family had everything they needed, together with me. We did not experience hunger. We did not have any delicacies but no hunger either, there was no situation where we would have nothing to eat, no potatoes or some groats to put into the pot. We had those. We could even support that man living next to us."
+        }
+      ],
+      "tags": [],
+      "uuid": "a8d0e06b-51b3-4bae-ba34-d6e9b77c23bc"
+    },
+    {
+      "start_time": 406,
+      "end_time": 408,
+      "annotation": [
+        {
+          "text": "Interviewer: With the help of your friends?"
+        }
+      ],
+      "tags": [],
+      "uuid": "1a8b07f7-6ee5-49c9-b642-d9b45e6a41c4"
+    },
+    {
+      "start_time": 408,
+      "end_time": 414,
+      "annotation": [
+        {
+          "text": "Subject: Well, with the help of my Catholic friends, the Poles."
+        }
+      ],
+      "tags": [],
+      "uuid": "58716896-5ce9-4c1e-847a-8ed101890651"
+    },
+    {
+      "start_time": 414,
+      "end_time": 417,
+      "annotation": [
+        {
+          "text": "Interviewer: And in July 1941 you felt you were cut off from them?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e3058165-0763-418f-aea1-967460b98fe5"
+    },
+    {
+      "start_time": 417,
+      "end_time": 426,
+      "annotation": [
+        {
+          "text": "Subject: Back in 1940, any contact was out of the question. The Poles were not allowed into the ghetto and we had completely different conditions in general. It was bad already."
+        }
+      ],
+      "tags": [],
+      "uuid": "b8aef9f3-1efc-46c2-bee0-e8012f740811"
+    },
+    {
+      "start_time": 426,
+      "end_time": 430,
+      "annotation": [
+        {
+          "text": "Interviewer: So you were sort of isolated at the time, right?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ffe7d2f-b92e-4d6e-8750-ea380a51cc84"
+    },
+    {
+      "start_time": 430,
+      "end_time": 451,
+      "annotation": [
+        {
+          "text": "Subject: We were already cut off from the outside world. Exiting the ghetto was punishable by death in general. And some paid with their life. Some who escaped altogether and did not even go out [of the ghetto] to seek help from friends. Those who did not manage to return, as we used to say, on time, were shot dead in the street."
+        }
+      ],
+      "tags": [],
+      "uuid": "9d3366e7-6f76-4cd0-a2d1-61e128667bdf"
+    },
+    {
+      "start_time": 451,
+      "end_time": 454,
+      "annotation": [
+        {
+          "text": "Interviewer: Were the Germans wandering through the ghetto also?"
+        }
+      ],
+      "tags": [],
+      "uuid": "49671cb7-be8a-4a49-b394-3964b0c0bb44"
+    },
+    {
+      "start_time": 454,
+      "end_time": 464,
+      "annotation": [
+        {
+          "text": "Subject: The Germans did not venture into the ghetto at all because they were afraid of typhoid fever. But they did go round the ghetto. There was usually the blue police inside the ghetto."
+        }
+      ],
+      "tags": [],
+      "uuid": "9bef05b0-74a0-4cf7-88f6-6209b5f6e4ea"
+    },
+    {
+      "start_time": 464,
+      "end_time": 467,
+      "annotation": [
+        {
+          "text": "Interviewer: Did you have any family outside Gora Kalwaria? In Warsaw, for instance?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ee7f6b89-c026-4701-8c15-39503d8581a8"
+    },
+    {
+      "start_time": 467,
+      "end_time": 468,
+      "annotation": [
+        {
+          "text": "Subject: What did it look like?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf699296-3998-48fc-98bd-a5ab10197603"
+    },
+    {
+      "start_time": 468,
+      "end_time": 470,
+      "annotation": [
+        {
+          "text": "Interviewer: No, did you have any family in Warsaw, for instance?"
+        }
+      ],
+      "tags": [],
+      "uuid": "86e06266-2100-4eb0-bba6-4b8bf0fd97bc"
+    },
+    {
+      "start_time": 470,
+      "end_time": 472,
+      "annotation": [
+        {
+          "text": "Subject: I had family in Warsaw. I had an uncle."
+        }
+      ],
+      "tags": [],
+      "uuid": "4059b19d-5310-41b9-be89-ea5edee2d9fa"
+    },
+    {
+      "start_time": 472,
+      "end_time": 474,
+      "annotation": [
+        {
+          "text": "Interviewer: And there were contacts?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e9c46819-44fd-456b-97bb-1c22dc08af70"
+    },
+    {
+      "start_time": 474,
+      "end_time": 474,
+      "annotation": [
+        {
+          "text": "Subject: No."
+        }
+      ],
+      "tags": [],
+      "uuid": "e3d4e5c0-103a-4e66-aff9-af278788b129"
+    },
+    {
+      "start_time": 474,
+      "end_time": 476,
+      "annotation": [
+        {
+          "text": "Interviewer: There was absolutely nothing?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2df8a4c0-d1bf-4b80-91cf-d7ebc76f2b0a"
+    },
+    {
+      "start_time": 476,
+      "end_time": 481,
+      "annotation": [
+        {
+          "text": "Subject: No, there was no contact already. We could write but at the time [inaudible] there was no more contact."
+        }
+      ],
+      "tags": [],
+      "uuid": "87adbde8-4b33-4909-bdb5-4ec56981c2b4"
+    },
+    {
+      "start_time": 481,
+      "end_time": 484,
+      "annotation": [
+        {
+          "text": "Interviewer: I see."
+        }
+      ],
+      "tags": [],
+      "uuid": "799b9f7c-af88-47b5-8e47-f1fa74bc7f3f"
+    },
+    {
+      "start_time": 484,
+      "end_time": 493,
+      "annotation": [
+        {
+          "text": "Subject: When I came back from the army, I managed to visit my uncle. When I returned to Warsaw. I went to Gora Kalwaria on my way from his place."
+        }
+      ],
+      "tags": [],
+      "uuid": "cf804f8e-9be0-4f91-91b4-eb2274734eb1"
+    },
+    {
+      "start_time": 493,
+      "end_time": 499,
+      "annotation": [
+        {
+          "text": "Interviewer: Did you know more or less what was happening in Warsaw during that period? Did you know?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b0a2cbfb-94a5-4bfd-8a68-432a1ac6c3b2"
+    },
+    {
+      "start_time": 499,
+      "end_time": 500,
+      "annotation": [
+        {
+          "text": "Subject: About what?"
+        }
+      ],
+      "tags": [],
+      "uuid": "18b79f6c-8cc7-4ebc-ab88-4219e8f16659"
+    },
+    {
+      "start_time": 500,
+      "end_time": 503,
+      "annotation": [
+        {
+          "text": "Interviewer: What was happening in general, about the ghetto uprising?"
+        }
+      ],
+      "tags": [],
+      "uuid": "fb1be7ea-9006-4327-9fb7-fcdc81940383"
+    },
+    {
+      "start_time": 503,
+      "end_time": 506,
+      "annotation": [
+        {
+          "text": "Subject: There was no ghetto in Warsaw yet. The ghetto was established starting from October."
+        }
+      ],
+      "tags": [],
+      "uuid": "66f69788-7b54-4710-96f7-cf0dd91b0710"
+    },
+    {
+      "start_time": 506,
+      "end_time": 507,
+      "annotation": [
+        {
+          "text": "Interviewer: Right."
+        }
+      ],
+      "tags": [],
+      "uuid": "b4ed9562-c553-4558-8d41-c894437cd730"
+    },
+    {
+      "start_time": 507,
+      "end_time": 522,
+      "annotation": [
+        {
+          "text": "Subject: Of course, we knew. What do you think? We still knew. The Jews were being persecuted from day one. Street arrests, homicides. In general, everybody knew from the very start.  All sensible Jews were aware of that."
+        }
+      ],
+      "tags": [],
+      "uuid": "e941f708-7564-4d02-8513-d48bbf41eecc"
+    },
+    {
+      "start_time": 522,
+      "end_time": 531,
+      "annotation": [
+        {
+          "text": "Interviewer: Do you recall any direct contact with the Germans from that initial period, let's say until February 1941?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4683242c-f48c-493e-a69a-867adf562d8f"
+    },
+    {
+      "start_time": 531,
+      "end_time": 533,
+      "annotation": [
+        {
+          "text": "Subject: Myself, direct [contact] with the Germans?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7386beda-f7df-4ac9-b1d9-36b750773f71"
+    },
+    {
+      "start_time": 533,
+      "end_time": 535,
+      "annotation": [
+        {
+          "text": "Interviewer: Yes, when you encountered or saw a German for the first time?"
+        }
+      ],
+      "tags": [],
+      "uuid": "795c776e-5ec5-4486-8514-1af3a7cf3d36"
+    },
+    {
+      "start_time": 535,
+      "end_time": 557,
+      "annotation": [
+        {
+          "text": "Subject: Not really, except went I went to work on the embankment. We were building an embankment there in that, Podleze. There, I came into contact with a German. When I arrived, [he would say] 'Nimm die Muetze ab' [Take your cap off]. [He told me] to take [my cap] off so I did. Other than that, I had no contact with them."
+        }
+      ],
+      "tags": [],
+      "uuid": "1ef50599-c6a5-471c-bdd2-2c89731f8919"
+    },
+    {
+      "start_time": 557,
+      "end_time": 559,
+      "annotation": [
+        {
+          "text": "Interviewer: They never came into your home?"
+        }
+      ],
+      "tags": [],
+      "uuid": "efa3cde5-bbb8-474d-95d9-cf16d88f225c"
+    },
+    {
+      "start_time": 559,
+      "end_time": 594,
+      "annotation": [
+        {
+          "text": "Subject: Not into ours. There were robberies. Rich Jews were robbed by the Volksdeutsche. I mean Polizeischutz, the Volksdeutsche, were the robbers. They stole everything, clothes, cash, cigarettes and valuables from rich Jews.  Regular robbery. They would come... in horse-drawn carriages and they would take everything. And that was it. We experienced nothing of the kind because we had nothing."
+        }
+      ],
+      "tags": [],
+      "uuid": "f368cc46-cb8c-406a-9dfa-9f79bd3f60fd"
+    },
+    {
+      "start_time": 594,
+      "end_time": 594,
+      "annotation": [
+        {
+          "text": "Interviewer: I understand."
+        }
+      ],
+      "tags": [],
+      "uuid": "a1616314-c880-44fb-bc0c-dd222ca3844f"
+    },
+    {
+      "start_time": 594,
+      "end_time": 600,
+      "annotation": [
+        {
+          "text": "Subject: We had nothing but poverty and that one machine standing at home."
+        }
+      ],
+      "tags": [],
+      "uuid": "d581882b-f2fd-40f8-b10b-fb5d86d39525"
+    },
+    {
+      "start_time": 600,
+      "end_time": 601,
+      "annotation": [
+        {
+          "text": "Interviewer: Sewing machine?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5286eec1-72a4-4bd9-8242-2da6daf19fc2"
+    },
+    {
+      "start_time": 601,
+      "end_time": 603,
+      "annotation": [
+        {
+          "text": "Subject: Sewing machine, a Singer."
+        }
+      ],
+      "tags": [],
+      "uuid": "7da39ac1-3020-489b-bd8e-3d83a6bb382e"
+    },
+    {
+      "start_time": 603,
+      "end_time": 604,
+      "annotation": [
+        {
+          "text": "Interviewer: Did you use it?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cc9f31f6-bc34-485a-b44d-0c8a8390630b"
+    },
+    {
+      "start_time": 604,
+      "end_time": 612,
+      "annotation": [
+        {
+          "text": "Subject: Yes, I still managed to use it. My mother took it to Warsaw if I am not mistaken."
+        }
+      ],
+      "tags": [],
+      "uuid": "4fc086f5-d64d-48d7-b46f-c0032b9c993f"
+    },
+    {
+      "start_time": 612,
+      "end_time": 614,
+      "annotation": [
+        {
+          "text": "Interviewer: That was in February 1941."
+        }
+      ],
+      "tags": [],
+      "uuid": "8ec0cc86-ee0f-4ed0-bd67-85544a3eddf6"
+    },
+    {
+      "start_time": 614,
+      "end_time": 615,
+      "annotation": [
+        {
+          "text": "Subject: In 1941."
+        }
+      ],
+      "tags": [],
+      "uuid": "7d5e1c97-d3db-4b84-a228-81a43ecdd696"
+    },
+    {
+      "start_time": 615,
+      "end_time": 617,
+      "annotation": [
+        {
+          "text": "Interviewer: Forced relocation to Warsaw."
+        }
+      ],
+      "tags": [],
+      "uuid": "3deb2560-74c4-4f02-ae10-49e18a5be1f4"
+    },
+    {
+      "start_time": 617,
+      "end_time": 619,
+      "annotation": [
+        {
+          "text": "Subject: Yes, there was forced relocation to Warsaw."
+        }
+      ],
+      "tags": [],
+      "uuid": "261bcc5d-9f76-4086-902a-afc7f45e0819"
+    },
+    {
+      "start_time": 619,
+      "end_time": 621,
+      "annotation": [
+        {
+          "text": "Interviewer: How did they announce that forced relocation?"
+        }
+      ],
+      "tags": [],
+      "uuid": "113b7f75-7f00-4ae3-9244-d7c49cc5bc16"
+    },
+    {
+      "start_time": 621,
+      "end_time": 664,
+      "annotation": [
+        {
+          "text": "Subject: The usual way. There was an order from the Judenrat that all Jews, children, older persons and the sick alike, whoever it was, were to report in front of the town hall at 7 am on [February] 25th, their number specified, and on the 26th, their number specified again, and they were to take with them only a small package as hand luggage and were not permitted to carry anything else. People cried a lot. It was unimaginable. All those things happening at the time. But that was nothing. And it was the blue police, not the gendarmerie, that led the Jews to the train. It was the so-called ciuchcia [tank locomotive]. Jews boarded the train's cars and were taken to Warsaw. And from there they walked."
+        }
+      ],
+      "tags": [],
+      "uuid": "d32bccc0-f058-4206-86e0-c8e16c4a675f"
+    },
+    {
+      "start_time": 664,
+      "end_time": 666,
+      "annotation": [
+        {
+          "text": "Interviewer: Did everybody know that [the train was going] to Warsaw?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b5902e93-1706-49e7-8ed8-19382f7586ab"
+    },
+    {
+      "start_time": 666,
+      "end_time": 667,
+      "annotation": [
+        {
+          "text": "Subject: To Warsaw."
+        }
+      ],
+      "tags": [],
+      "uuid": "47c76284-8591-43eb-925a-5ca782863bdf"
+    },
+    {
+      "start_time": 667,
+      "end_time": 669,
+      "annotation": [
+        {
+          "text": "Interviewer: What were you thinking at the time? I mean not now but then?"
+        }
+      ],
+      "tags": [],
+      "uuid": "30622810-893a-4909-b8d7-026d3770da44"
+    },
+    {
+      "start_time": 669,
+      "end_time": 679,
+      "annotation": [
+        {
+          "text": "Subject: I wasn't there any more. I ran away to Magnuszow probably two or three days earlier. Because there were still Jews in Magnuszow. The Jews were not relocated from Magnuszow until 1942."
+        }
+      ],
+      "tags": [],
+      "uuid": "a7fb52ba-408e-4f80-a819-b8cdc326d257"
+    },
+    {
+      "start_time": 679,
+      "end_time": 682,
+      "annotation": [
+        {
+          "text": "Interviewer: Why did you run away?"
+        }
+      ],
+      "tags": [],
+      "uuid": "84743260-c150-450b-8b03-bfbd49d41c2d"
+    },
+    {
+      "start_time": 682,
+      "end_time": 714,
+      "annotation": [
+        {
+          "text": "Subject: Why did I run away? Because I felt that, maybe I knew that there were still Jews in Magnuszow. I was a tailor by profession so I thought that I could manage somehow to reach them and that was what actually happened. When travelling on foot from Gora Kalwaria, I stayed at some Polish flats. I have to admit that they offered me shelter because they were not yet threatened with death penalty at the time.  They offered me shelter."
+        }
+      ],
+      "tags": [],
+      "uuid": "5ec7599d-89c6-4b11-8a44-c2dc684f570e"
+    },
+    {
+      "start_time": 714,
+      "end_time": 716,
+      "annotation": [
+        {
+          "text": "Interviewer: You mean you ran away to Magnuszow?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a114d314-de1a-4f39-934d-50f6268ecb94"
+    },
+    {
+      "start_time": 716,
+      "end_time": 717,
+      "annotation": [
+        {
+          "text": "Subject: Yes, to Magnuszow. And I lived there, too."
+        }
+      ],
+      "tags": [],
+      "uuid": "923eb77c-5ab7-42d6-85d2-480190671f3c"
+    },
+    {
+      "start_time": 717,
+      "end_time": 719,
+      "annotation": [
+        {
+          "text": "Interviewer: So as not to be forcibly relocated to Warsaw, right? It was that?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a836cc69-1fb7-4aa7-973f-4ae736e75eaa"
+    },
+    {
+      "start_time": 719,
+      "end_time": 725,
+      "annotation": [
+        {
+          "text": "Subject: No, I didn't want to end up in the ghetto because I felt that there are still some Jews out there and I can still manage."
+        }
+      ],
+      "tags": [],
+      "uuid": "c5ee9221-ccc0-4c62-94be-3402aadeea81"
+    },
+    {
+      "start_time": 725,
+      "end_time": 730,
+      "annotation": [
+        {
+          "text": "Interviewer: Because you had been told, your family had been told that the trip to Warsaw was in fact a trip to the ghetto, is that correct?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cc82387d-e401-485e-bbb7-71d6e38e7a68"
+    },
+    {
+      "start_time": 730,
+      "end_time": 759,
+      "annotation": [
+        {
+          "text": "Subject: That it was [a trip] to the ghetto. We all knew that it was a trip to the ghetto right from the start. The Warsaw ghetto had already been in place since October.  And the ghetto in Gora Kalwaria had been operating since July. We knew they were going to the ghetto. At the time, my sister, my brother and my mother went there. Me being slightly more..., how do you say. They were telling me that I didn't look like a Jew, that I could move freely and that I could escape. And that is what happened."
+        }
+      ],
+      "tags": [],
+      "uuid": "f9f76c05-eefe-474c-9d7c-eaa32c850717"
+    },
+    {
+      "start_time": 759,
+      "end_time": 762,
+      "annotation": [
+        {
+          "text": "Interviewer: Why didn't you run away earlier? You spoke Polish. You looked..."
+        }
+      ],
+      "tags": [],
+      "uuid": "3e1bff48-2a4f-4421-a244-c1f3adb1277c"
+    },
+    {
+      "start_time": 762,
+      "end_time": 766,
+      "annotation": [
+        {
+          "text": "Subject: How could I run away with my family around? Why would I run away when still [inaudible]?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ad86c4dd-3f6e-4480-a2e8-d70d03193bdd"
+    },
+    {
+      "start_time": 766,
+      "end_time": 767,
+      "annotation": [
+        {
+          "text": "Interviewer: You felt responsible for your family?"
+        }
+      ],
+      "tags": [],
+      "uuid": "adc8301a-fe65-4d65-a882-0fd62d8d0c7b"
+    },
+    {
+      "start_time": 767,
+      "end_time": 774,
+      "annotation": [
+        {
+          "text": "Subject: Well, it would have been a pity to leave my mother behind. I didn't want to leave my sister and my brother behind. It would have been a pity."
+        }
+      ],
+      "tags": [],
+      "uuid": "5628b170-ebd5-4631-b084-ae9e3d6c93af"
+    },
+    {
+      "start_time": 774,
+      "end_time": 777,
+      "annotation": [
+        {
+          "text": "Interviewer: How much younger than you was your brother?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b33e003c-bd5a-44f7-bad8-32913561fa09"
+    },
+    {
+      "start_time": 777,
+      "end_time": 785,
+      "annotation": [
+        {
+          "text": "Subject: He was three years younger than me. My sister was two years older than me. She was born in 1914."
+        }
+      ],
+      "tags": [],
+      "uuid": "f07ee8bb-cbed-415f-b408-dbcc6f36f6d5"
+    },
+    {
+      "start_time": 785,
+      "end_time": 786,
+      "annotation": [
+        {
+          "text": "Interviewer: They couldn't escape?"
+        }
+      ],
+      "tags": [],
+      "uuid": "47d9a4f1-f9c1-44c3-bd40-26248e2c01aa"
+    },
+    {
+      "start_time": 786,
+      "end_time": 793,
+      "annotation": [
+        {
+          "text": "Subject: Golda and David, my brother. No, they couldn't. Where were they supposed to escape to? They could have run away to Russia in 1939."
+        }
+      ],
+      "tags": [],
+      "uuid": "37d9a46e-d158-43ca-bb1e-d7a58ba3b337"
+    },
+    {
+      "start_time": 793,
+      "end_time": 795,
+      "annotation": [
+        {
+          "text": "Interviewer: No, I'm talking about escaping from the ghetto."
+        }
+      ],
+      "tags": [],
+      "uuid": "efb3afe9-f910-4279-ac1f-a544bac5d052"
+    },
+    {
+      "start_time": 795,
+      "end_time": 816,
+      "annotation": [
+        {
+          "text": "Subject: Oh, no. They couldn't escape. It was the same story everywhere. They were poor children. They didn't have money to escape. Their clothes were all they had. Running away wasn't that easy either. I could just only manage because I had that profession. I can say that I survived owing to the fact that I was a tailor by profession."
+        }
+      ],
+      "tags": [],
+      "uuid": "e8f2a5c4-ca35-4a21-85b6-8d319092d92c"
+    },
+    {
+      "start_time": 816,
+      "end_time": 819,
+      "annotation": [
+        {
+          "text": "Interviewer: So you ran away to Magnuszow?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5192695f-f54c-4006-90c2-fee31f1851cf"
+    },
+    {
+      "start_time": 819,
+      "end_time": 820,
+      "annotation": [
+        {
+          "text": "Subject: To Magnuszow."
+        }
+      ],
+      "tags": [],
+      "uuid": "cc830186-a81e-4f73-8302-6aa3570513da"
+    },
+    {
+      "start_time": 820,
+      "end_time": 824,
+      "annotation": [
+        {
+          "text": "Interviewer: And what is that Magnuszow? Is it a town?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b96cc4b7-45f9-4dbe-8310-de56c5a546c7"
+    },
+    {
+      "start_time": 824,
+      "end_time": 838,
+      "annotation": [
+        {
+          "text": "Subject: It's, it's in the Radom province. It will probably be the Radom province right now.   It's situated 19 km to the south of Gora Kalwaria, near Kozienice."
+        }
+      ],
+      "tags": [],
+      "uuid": "c5a9cd53-b0bc-489c-90e2-5796d3553ec6"
+    },
+    {
+      "start_time": 838,
+      "end_time": 841,
+      "annotation": [
+        {
+          "text": "Interviewer: You said that you had decided to travel to Magnuszow because there were Jews there."
+        }
+      ],
+      "tags": [],
+      "uuid": "6cca95bf-5971-442e-9d51-064b9886922c"
+    },
+    {
+      "start_time": 841,
+      "end_time": 856,
+      "annotation": [
+        {
+          "text": "Subject: Yes. I rented a little flat there from Wojtas. I lived there, I rented a flat from Edward Wojtas. He was a blacksmith and owned a small flat. I worked there as a tailor for a whole year until the forced relocation."
+        }
+      ],
+      "tags": [],
+      "uuid": "51cbccb5-0898-40aa-ac9d-eaee99740321"
+    },
+    {
+      "start_time": 856,
+      "end_time": 859,
+      "annotation": [
+        {
+          "text": "Interviewer: As who? As a Pole, as a Catholic or as a Jew?"
+        }
+      ],
+      "tags": [],
+      "uuid": "79b18409-93c4-485b-ad82-bdf27b410702"
+    },
+    {
+      "start_time": 859,
+      "end_time": 864,
+      "annotation": [
+        {
+          "text": "Subject: As, no, normally still as a Jew. Because Jews were still there as before."
+        }
+      ],
+      "tags": [],
+      "uuid": "c3f649a1-8731-4816-9a6d-5ac65c1c7b60"
+    },
+    {
+      "start_time": 864,
+      "end_time": 870,
+      "annotation": [
+        {
+          "text": "Interviewer: I have to admit that there is one thing I don't understand. You were in the army. You said you were a cavalry man."
+        }
+      ],
+      "tags": [],
+      "uuid": "1ee00faa-8939-4c24-bbf3-4a32e30861aa"
+    },
+    {
+      "start_time": 870,
+      "end_time": 872,
+      "annotation": [
+        {
+          "text": "Subject: Later, later, later, we will come to that."
+        }
+      ],
+      "tags": [],
+      "uuid": "697e0e63-be8f-426d-9c4c-9155024e63b5"
+    },
+    {
+      "start_time": 872,
+      "end_time": 875,
+      "annotation": [
+        {
+          "text": "Interviewer: No, why didn't you choose to identify as a Pole?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9a0ea5c0-3a9b-4286-9bdf-08a4e14042d1"
+    },
+    {
+      "start_time": 875,
+      "end_time": 876,
+      "annotation": [
+        {
+          "text": "Subject: Well..."
+        }
+      ],
+      "tags": [],
+      "uuid": "3b632f21-7f7d-4853-a5f7-80e810b046a0"
+    },
+    {
+      "start_time": 876,
+      "end_time": 880,
+      "annotation": [
+        {
+          "text": "Interviewer: Instead of choosing a Jewish identity? Why didn't you escape passing yourself for a Pole and not a Jew?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5afd819d-efef-4873-b835-d11de553ece6"
+    },
+    {
+      "start_time": 880,
+      "end_time": 891,
+      "annotation": [
+        {
+          "text": "Subject: At the time when I emigrated as a Jew, I even travelled from Gora Kalwaria to Magnuszow as a Jew. And I lived in Magnuszow, I lived there as a Jew."
+        }
+      ],
+      "tags": [],
+      "uuid": "45e66108-d1f0-4175-a6da-c279a868f2de"
+    },
+    {
+      "start_time": 891,
+      "end_time": 891,
+      "annotation": [
+        {
+          "text": "Interviewer: Why?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5434c792-2b15-44a7-9ad5-635c42fcba78"
+    },
+    {
+      "start_time": 891,
+      "end_time": 905,
+      "annotation": [
+        {
+          "text": "Subject: Because, why was I supposed to run away from my people? Why would I do it at a time when they were still there? I stayed with them as long as they were alive. The subsequent period had just began, the one I will talk about."
+        }
+      ],
+      "tags": [],
+      "uuid": "d390fcce-0ff8-4a64-b3c1-ca1b75567165"
+    },
+    {
+      "start_time": 905,
+      "end_time": 908,
+      "annotation": [
+        {
+          "text": "Interviewer: I understand. Good. Good."
+        }
+      ],
+      "tags": [],
+      "uuid": "659e3f68-d1ce-4fb1-8cb6-5a921910ef6f"
+    },
+    {
+      "start_time": 908,
+      "end_time": 912,
+      "annotation": [
+        {
+          "text": "Subject: Yes. So I was living in the flat rented from Wojtas."
+        }
+      ],
+      "tags": [],
+      "uuid": "b74ef5e3-d33b-4a7d-9b31-6ba9cba7216d"
+    },
+    {
+      "start_time": 912,
+      "end_time": 914,
+      "annotation": [
+        {
+          "text": "Interviewer: Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "27e841ab-77ab-44bf-a792-9a541c790670"
+    },
+    {
+      "start_time": 914,
+      "end_time": 935,
+      "annotation": [
+        {
+          "text": "Subject: People I knew would come to see me. I sewed pants, clothes and jackets for them until 1942. It went on until probably July or June. There was no ghetto there until July. Yes, in Magnuszow. In July..."
+        }
+      ],
+      "tags": [],
+      "uuid": "05fe4b4c-fd5e-402c-94e4-518c8a92755b"
+    },
+    {
+      "start_time": 935,
+      "end_time": 936,
+      "annotation": [
+        {
+          "text": "Interviewer: And were there armbands?"
+        }
+      ],
+      "tags": [],
+      "uuid": "73585210-dcad-43ca-85c1-06e9d8b8c89b"
+    },
+    {
+      "start_time": 936,
+      "end_time": 955,
+      "annotation": [
+        {
+          "text": "Subject: Yes, there were armbands. Armbands were obligatory. The same as everywhere. They opened the ghetto in July. And the ghetto was in place for two months only in the whole of Magnuszow. That ghetto did not operate any longer."
+        }
+      ],
+      "tags": [],
+      "uuid": "6a7294d6-27b1-4560-94e3-ddce3192dbf7"
+    },
+    {
+      "start_time": 955,
+      "end_time": 969,
+      "annotation": [
+        {
+          "text": "Subject: I had friends. I had friends. One of them was Jan[?] Cwyl, a Pole, a close friend of mine."
+        }
+      ],
+      "tags": [],
+      "uuid": "556434d1-6647-4df0-8838-46fd33e3bfca"
+    },
+    {
+      "start_time": 969,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "text": "Subject: He advised me to get a birth certificate. I went, what is the name of that place, to Osiecko to a Roman Catholic parish to see the priest and I asked for a birth certificate and the priest provided me with a birth certificate issued in the name of Feliks Zoladek. I had draft registration cards and a Kennkarte issued . Roman Szczedlinski from Magnuszow had it issued for me. He had the Kennkarte issued for me. With the help of that Kennkarte I pretended to be a Pole by the name of Feliks Zoladek. I managed to get... and Jan Cwyl kept me at his home for around a month during that period. Later, he suggest... a mov... and I stayed with Wdowiak in the same neighborhood near Magnuszow. At Wdowiak's place, I sewed for them as a Pole already. They were aware of my heritage but I was already living as a Pole."
+        }
+      ],
+      "tags": [],
+      "uuid": "a71812f2-6650-4131-a53a-0f942a6998cf"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1039,
+      "annotation": [
+        {
+          "text": "Interviewer: And on what basis did the priest issue a birth certificate to you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4f34bb2e-61bc-4cb5-bfa2-1cb6364e3fb8"
+    },
+    {
+      "start_time": 1039,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "text": "Subject: The priest didn't want anything."
+        }
+      ],
+      "tags": [],
+      "uuid": "0faa5476-fbaa-439b-8834-eaadf660c601"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "text": "Interviewer: But on what bas... did the priest know that you were a Jew?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0e8e9ddc-c332-41e7-a722-9c711c4ae6d1"
+    },
+    {
+      "start_time": 1042,
+      "end_time": 1049,
+      "annotation": [
+        {
+          "text": "Subject: Sure, I did tell him who I was. He gave me a blessing and, how do you say it, said Godspeed."
+        }
+      ],
+      "tags": [],
+      "uuid": "7805e0d1-4329-4558-9436-583e4789708e"
+    },
+    {
+      "start_time": 1049,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "text": "Interviewer: And that Feliks Zoladek. Who was he?"
+        }
+      ],
+      "tags": [],
+      "uuid": "80382a8d-a02a-4c71-a956-c9b97f1dcd59"
+    },
+    {
+      "start_time": 1053,
+      "end_time": 1054,
+      "annotation": [
+        {
+          "text": "Subject: He was Polish."
+        }
+      ],
+      "tags": [],
+      "uuid": "6df0851b-0e1d-4482-835b-ca03866cc771"
+    },
+    {
+      "start_time": 1054,
+      "end_time": 1055,
+      "annotation": [
+        {
+          "text": "Interviewer: A Pole who was no longer alive?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0b0b4bca-56ca-49d2-90b6-7bb164e8a64c"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "text": "Subject: Yes, he was already dead and from that very parish. This is very characteristic."
+        }
+      ],
+      "tags": [],
+      "uuid": "7c24cf99-f04e-4d92-9f3e-fff9e36ab214"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1066,
+      "annotation": [
+        {
+          "text": "Interviewer: But you returned to the same, to the same place, to Magnuszew, didn't you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7d84d186-d35f-4799-81af-4f7c725d8851"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "text": "Subject: I didn't know those people at all. Then, I returned here."
+        }
+      ],
+      "tags": [],
+      "uuid": "0f7480cb-a8f5-4fbb-8756-a5c55126a815"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "text": "Interviewer: Just with another surname?"
+        }
+      ],
+      "tags": [],
+      "uuid": "156f0ae4-2b04-4097-872d-1006da1ce21f"
+    },
+    {
+      "start_time": 1072,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "text": "Subject: Well, the surname was of no use because when I arrived and lived among those people and I sewed for them whatever I could. They knew that I was Prajs [Prais], that I was Heniek, they knew it all.  But that [adopted] surname was used with the Germans so that the Poles wouldn't get into trouble. After all, they were threatened with death penalty. So that they could not be held responsible for me [inaudible]. 'He's a Pole. He arrived, had a Kennkarte so we took him in'."
+        }
+      ],
+      "tags": [],
+      "uuid": "bc0fd848-9935-4f89-90d0-237757dbdec8"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1105,
+      "annotation": [
+        {
+          "text": "Interviewer: And how many Jews were there in Magnuszow during that period?"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd39ddad-fd7b-4d45-95ae-09bcaa829722"
+    },
+    {
+      "start_time": 1105,
+      "end_time": 1109,
+      "annotation": [
+        {
+          "text": "Subject: They had already been forcibly relocated to Kozienice."
+        }
+      ],
+      "tags": [],
+      "uuid": "59a07fea-d485-42ab-ae45-0b6520a1c41b"
+    },
+    {
+      "start_time": 1109,
+      "end_time": 1111,
+      "annotation": [
+        {
+          "text": "Interviewer: They had been relocated and you saved yourself because of your surname?"
+        }
+      ],
+      "tags": [],
+      "uuid": "1ae34dd6-408b-4121-b647-aa2e6b57b44b"
+    },
+    {
+      "start_time": 1111,
+      "end_time": 1139,
+      "annotation": [
+        {
+          "text": "Subject: Yes, yes, exactly. Later, from there, from Magnuszow I went to Podwie…, no, no, not just yet. From Magnuszew, I went to Chmielew. There was still a camp. There, the Germans set up a forced labor camp where people would dig ditches. The only difference being they would do it in exchange for food. The Germans took various young Jews. They took them from Magnuszow to Chmielew. They took them, just like that."
+        }
+      ],
+      "tags": [],
+      "uuid": "2d7d8f1f-b33d-48c7-8dd0-119b7317eac1"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "text": "Interviewer: They took you, too?"
+        }
+      ],
+      "tags": [],
+      "uuid": "25b39f40-477d-4196-8fed-b2ba22c8b017"
+    },
+    {
+      "start_time": 1140,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "text": "Subject: Me too."
+        }
+      ],
+      "tags": [],
+      "uuid": "517a34f9-4a2f-467e-9784-b672012f0d5c"
+    },
+    {
+      "start_time": 1140,
+      "end_time": 1141,
+      "annotation": [
+        {
+          "text": "Interviewer: But"
+        }
+      ],
+      "tags": [],
+      "uuid": "4a08b8fc-ccdc-404f-a61b-8fe4fd6e4e02"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1147,
+      "annotation": [
+        {
+          "text": "Subject: Already as, as, still as Prajs [Prais]. I didn't tell anybody about that, the Kennkarte. I didn't even tell the Jews."
+        }
+      ],
+      "tags": [],
+      "uuid": "06e912b5-c62e-48ce-a558-8345f60b1ac5"
+    },
+    {
+      "start_time": 1147,
+      "end_time": 1149,
+      "annotation": [
+        {
+          "text": "Interviewer: Despite the fact that you carried that forged Kennkarte?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6e70363b-fdc2-4c89-9e30-d5d6b8211804"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1183,
+      "annotation": [
+        {
+          "text": "Subject: I already had it. But I didn't tell them anything, no way, because I thought maybe I could rescue myself somehow, just maybe because... Everybody counted on the war not lasting too long. Well, nobody thought that the war would last. People kept saying that at the time England and France were already in it together with them, what do you call it, in the state of war. There were fights here and there, there were fights going on. We knew about it. I reached Chmielew.  I worked in Chmielew until December 1943, no, 194... 3, we are already in 1943."
+        }
+      ],
+      "tags": [],
+      "uuid": "e4be9bc8-ad1c-48f3-bd42-d0cb61412f5e"
+    },
+    {
+      "start_time": 1183,
+      "end_time": 1188,
+      "annotation": [
+        {
+          "text": "Interviewer: You worked in that Chmielew as who?"
+        }
+      ],
+      "tags": [],
+      "uuid": "22afd6ac-5c87-49af-af79-ad40b20600aa"
+    },
+    {
+      "start_time": 1188,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "text": "Subject: Normally, as a Jew."
+        }
+      ],
+      "tags": [],
+      "uuid": "c5cea46e-d6d9-4c48-b120-f1bdb0e3c9b3"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1191,
+      "annotation": [
+        {
+          "text": "Interviewer: Was it a labor camp?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5d803d28-8eab-4e3f-9e45-3cf7f1b393a4"
+    },
+    {
+      "start_time": 1191,
+      "end_time": 1203,
+      "annotation": [
+        {
+          "text": "Subject: Yes, it was. It was sort of, not necessarily a camp in the full meaning of the word, just a forced labor camp, and we lived at a fire station. In primitive conditions."
+        }
+      ],
+      "tags": [],
+      "uuid": "c1f5a4f5-6021-44f9-85af-138c19451126"
+    },
+    {
+      "start_time": 1203,
+      "end_time": 1206,
+      "annotation": [
+        {
+          "text": "Interviewer: Were there only Jews in that camp?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d14b0c82-c5d7-4d08-a86f-8d1f091a2ff8"
+    },
+    {
+      "start_time": 1206,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "text": "Subject: Jews only, Jews only."
+        }
+      ],
+      "tags": [],
+      "uuid": "9b3697ee-548b-406b-a2f7-b6296ae18c88"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1209,
+      "annotation": [
+        {
+          "text": "Interviewer: How many, how many were there, more or less?"
+        }
+      ],
+      "tags": [],
+      "uuid": "285669f3-95f1-498a-b1ea-4ddb6a56aea2"
+    },
+    {
+      "start_time": 1209,
+      "end_time": 1213,
+      "annotation": [
+        {
+          "text": "Subject: We could have been about 100."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e4c0032-979d-40ca-8f84-725db9b1c829"
+    },
+    {
+      "start_time": 1213,
+      "end_time": 1214,
+      "annotation": [
+        {
+          "text": "Interviewer: Where did you hide your Kennkarte?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4917ee8f-4f34-4070-9bec-1de65183e797"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1314,
+      "annotation": [
+        {
+          "text": "Subject: Well, I had it hidden there. I had a shirt, pants and a sweater. So I didn't tell anybody about it, not even the Jews. When the Germans forcibly relocated Jews from Chmielew to Kozienice, I went to Magnuszow. I had that Kennkarte and Janek Cwyl said to me, 'Heniek, come to my place'. That's what happened. I spent around one month at Cwyl's home and Janek Cwyl later took me to the Wdowiak family. I spent a few months there, too. I wish to point out that Wdowiak, in turn, because there was a German colony where Germans lived, spoke highly of that Kultz[?] and told me to go to that German and work for him. I was apprehensive at first and Wdowiak told me, 'Don't be afraid, I guarantee that German would not do you any harm'. So I worked for three months for that German. His name was Ferdynand Kultz [?]. I have nothing but great respect for him. He lived through the war and was asking around to find out whether I made it. He treated me very well. He gave me food, he gave me food. I sewed for him and his wife. I sewed whatever I could. After that period, he just told me 'I cannot keep you any longer' and he sent me back to Wdowiak. Wdowiak was afraid, too, and he told me, 'Listen, I will take you to the other side of the Vistula river'. To the right bank."
+        }
+      ],
+      "tags": [],
+      "uuid": "b092eb14-e46f-4428-b663-c804309fec7d"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "text": "Interviewer: Tell me, please, did you stay in Chmielew until December 1943?"
+        }
+      ],
+      "tags": [],
+      "uuid": "43255fe6-aac9-4c4f-97fc-28e4e213bbfe"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "text": "Subject: Yes, I did."
+        }
+      ],
+      "tags": [],
+      "uuid": "5cfddd71-9273-4d40-8c9b-7b90e5c12533"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "text": "Interviewer: In that camp?"
+        }
+      ],
+      "tags": [],
+      "uuid": "1a0ce31a-7ca4-4ee7-a9e7-3c3412c4b509"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "text": "Subject: Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "a4da2878-4db7-4e07-a994-2621a33373aa"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "text": "Interviewer: There, you lived through the Warsaw ghetto uprising and those other forced relocations?"
+        }
+      ],
+      "tags": [],
+      "uuid": "109b7f66-ae07-4fe4-8cb6-504df37ba076"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "text": "Subject: Yes, yes, yes, yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "57761cfa-9034-436a-8f09-435b2224e503"
+    },
+    {
+      "start_time": 1325,
+      "end_time": 1329,
+      "annotation": [
+        {
+          "text": "Interviewer: And your mother and brother and sister were in Warsaw at the time?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3fb152b1-8e1e-4f9f-84f5-2a9342b7e7e5"
+    },
+    {
+      "start_time": 1329,
+      "end_time": 1330,
+      "annotation": [
+        {
+          "text": "Subject: They were already in the ghetto."
+        }
+      ],
+      "tags": [],
+      "uuid": "343337a2-1c18-4f7a-a614-3e45f63d48a1"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "text": "Interviewer: Was there any contact?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7ca24734-b6f6-4bd9-b082-eaf9da9e7f62"
+    },
+    {
+      "start_time": 1332,
+      "end_time": 1347,
+      "annotation": [
+        {
+          "text": "Subject: No, no. I only knew for sure that my mother had died. Because my sister was also relocated, my sister was in Glowaczow. And she was tak... from there. I saw my sister afterward in that period because she was in Glowaczow near Magnuszow. There were still Jews there, too."
+        }
+      ],
+      "tags": [],
+      "uuid": "51a520f1-1c12-4087-9bbe-2c3e16ef76cc"
+    },
+    {
+      "start_time": 1347,
+      "end_time": 1349,
+      "annotation": [
+        {
+          "text": "Interviewer: Did she escape? Or?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3251d9d9-59d9-4501-a47d-9787ec52b11e"
+    },
+    {
+      "start_time": 1349,
+      "end_time": 1350,
+      "annotation": [
+        {
+          "text": "Subject: She escaped from the ghetto."
+        }
+      ],
+      "tags": [],
+      "uuid": "94667997-17a6-4626-b11c-0046f0353981"
+    },
+    {
+      "start_time": 1350,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "text": "Interviewer: From the ghetto."
+        }
+      ],
+      "tags": [],
+      "uuid": "581f1b87-453e-4591-b6e5-2bf1562a93f5"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1355,
+      "annotation": [
+        {
+          "text": "Subject: Yes, yes. And my brother was there, too, my brother, I saw my brother in January 1943."
+        }
+      ],
+      "tags": [],
+      "uuid": "a28242fe-f1f6-447a-a65f-2b67351e29c9"
+    },
+    {
+      "start_time": 1355,
+      "end_time": 1357,
+      "annotation": [
+        {
+          "text": "Interviewer: Were there any..."
+        }
+      ],
+      "tags": [],
+      "uuid": "ba01a3d4-9ce4-42f8-8d9a-80b409344545"
+    },
+    {
+      "start_time": 1357,
+      "end_time": 1385,
+      "annotation": [
+        {
+          "text": "Subject: He also escaped from the Warsaw ghetto. He travelled from one village to another. As a saddler. He had managed to survive over a longer period of time before he was handed over to the Germans. He was killed by the Germans at the cemetery in Gora Kalwaria in spring 1944 probably. He was buried there and I made a symbolic grave for him. It's there."
+        }
+      ],
+      "tags": [],
+      "uuid": "c5e20dc1-4531-4611-9803-65ae392913b3"
+    },
+    {
+      "start_time": 1385,
+      "end_time": 1387,
+      "annotation": [
+        {
+          "text": "Interviewer: So there was contact with your family in the ghetto?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d99914e7-9568-4cf3-9d4d-a9f783500f66"
+    },
+    {
+      "start_time": 1387,
+      "end_time": 1398,
+      "annotation": [
+        {
+          "text": "Subject: Yes, there was contact with my family later. With my sister but not with my mother. I didn't see my mother. When the relocation happened, once I left Gora Kalwaria two or three days before the relocation, I never saw my mother again."
+        }
+      ],
+      "tags": [],
+      "uuid": "bc928e64-d8d2-4ea1-91ca-45ea13a0a292"
+    },
+    {
+      "start_time": 1398,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "text": "Interviewer: Were there any letters? Nothing?"
+        }
+      ],
+      "tags": [],
+      "uuid": "28bc28a9-aec5-47bb-bc79-b37e61f57ba3"
+    },
+    {
+      "start_time": 1399,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "text": "Subject: Nothing."
+        }
+      ],
+      "tags": [],
+      "uuid": "6b136096-9066-461f-97d9-2eab9eae3804"
+    },
+    {
+      "start_time": 1399,
+      "end_time": 1400,
+      "annotation": [
+        {
+          "text": "Interviewer: There was nothing."
+        }
+      ],
+      "tags": [],
+      "uuid": "2f29340b-8158-43ba-b962-aa7bc58ff54d"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "text": "Subject: Once I sent some groats to my mother to the ghetto by a courier. Because I knew she was there but I had no letters."
+        }
+      ],
+      "tags": [],
+      "uuid": "fcdd453f-e8a3-481a-89a7-331db23a9c89"
+    },
+    {
+      "start_time": 1409,
+      "end_time": 1419,
+      "annotation": [
+        {
+          "text": "Interviewer: I'm a bit lost here. You said you were in Chmielew until December and then you returned to Magnuszow."
+        }
+      ],
+      "tags": [],
+      "uuid": "13ab59a9-f6cd-45c6-806d-1918f7c6a3d6"
+    },
+    {
+      "start_time": 1419,
+      "end_time": 1421,
+      "annotation": [
+        {
+          "text": "Subject: To Magnuszow. Then, I escaped from Magnuszew."
+        }
+      ],
+      "tags": [],
+      "uuid": "3ffd261c-2089-4410-8f22-e923782a753c"
+    },
+    {
+      "start_time": 1421,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "text": "Interviewer: Did you return to Magnuszow already as Feliks Zoladek?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5a4e810-66d1-4d8f-a0f6-853c6e8a3add"
+    },
+    {
+      "start_time": 1425,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "text": "Subject: No."
+        }
+      ],
+      "tags": [],
+      "uuid": "f3437d97-10d9-46e3-81c6-4fcb60fe32eb"
+    },
+    {
+      "start_time": 1425,
+      "end_time": 1428,
+      "annotation": [
+        {
+          "text": "Interviewer: Still under your own name?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8bf0006a-e0ee-4582-beb0-e6ce998df7ac"
+    },
+    {
+      "start_time": 1428,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "text": "Subject: Yes. Still because nobody knew. It was neither Zoladek nor Prajs [Prais]. I returned with all Jews to Magnuszow on foot. From there, Jews were taken to Kozienice, also on foot. Jews were walking all the time."
+        }
+      ],
+      "tags": [],
+      "uuid": "78b4037b-e0c5-4b06-8691-6bf46a9dbb0a"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1441,
+      "annotation": [
+        {
+          "text": "Interviewer: And where to? Kozienice, right?"
+        }
+      ],
+      "tags": [],
+      "uuid": "96cd3965-b016-4266-a120-662743d7e329"
+    },
+    {
+      "start_time": 1441,
+      "end_time": 1452,
+      "annotation": [
+        {
+          "text": "Subject: There was still some sort of a camp or such in Kozienice.  And from there, they took Jews, I don't know where, whether to Treblinka or Majdanek."
+        }
+      ],
+      "tags": [],
+      "uuid": "026e9a8d-6710-43b4-9a8f-cec490db27b3"
+    },
+    {
+      "start_time": 1452,
+      "end_time": 1453,
+      "annotation": [
+        {
+          "text": "Interviewer: And you yourself?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8afa2eef-7ea7-4051-a090-348dd791fdac"
+    },
+    {
+      "start_time": 1453,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "text": "Subject: Many of us escaped in Magnuszow. I had a friend called Cwyl."
+        }
+      ],
+      "tags": [],
+      "uuid": "e19e8915-3dfb-4488-b6f4-be018ac6956c"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "text": "Interviewer: Right."
+        }
+      ],
+      "tags": [],
+      "uuid": "102f6487-f36f-40dd-b0f7-066d80e4d65a"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1488,
+      "annotation": [
+        {
+          "text": "Subject: Yes. He helped me a little. He took me to a village and those who had no [friends] went wherever they could and those who could, escaped. Those who couldn't, were taken to Kozienice. I don't know at all what happened to them afterward. Whether they ever went to... Because there was also a camp in Kozienice and they merged them, or maybe deported Jews to Majdanek or Treblinka, one of those places, probably to Majdanek. They rather went to Majdanek from there."
+        }
+      ],
+      "tags": [],
+      "uuid": "53e6a410-a766-4dc5-bb72-970c8ecd17c9"
+    },
+    {
+      "start_time": 1488,
+      "end_time": 1489,
+      "annotation": [
+        {
+          "text": "Interviewer: Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "1c95390c-59d3-4174-a03f-d26a3e2c0f4e"
+    },
+    {
+      "start_time": 1489,
+      "end_time": 1495,
+      "annotation": [
+        {
+          "text": "Subject: Yes. It was then, as I later said, that Cwyl passed me over to Wdowiak and Wdowiak passed me over to that German, that German, in turn..."
+        }
+      ],
+      "tags": [],
+      "uuid": "746e6661-b3d9-40ea-b5cd-e9d007a39602"
+    },
+    {
+      "start_time": 1495,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "text": "Interviewer: He was German? He was a Volksdeutsche?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3b518097-64f5-4d73-b707-ded3e36c8a09"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1502,
+      "annotation": [
+        {
+          "text": "Subject: Yes, he was a Volksdeutsche and lived not far from Wdowiak. That's correct."
+        }
+      ],
+      "tags": [],
+      "uuid": "1d7eca7f-2357-4975-919e-ddbd08904d97"
+    },
+    {
+      "start_time": 1502,
+      "end_time": 1504,
+      "annotation": [
+        {
+          "text": "Interviewer: He knew you from before the war?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7ffdd8e0-b885-40af-a357-7e2a11bcf4e2"
+    },
+    {
+      "start_time": 1504,
+      "end_time": 1512,
+      "annotation": [
+        {
+          "text": "Subject: He, no, he didn't know me. Neither did Wdowiak. Only Cwyl knew me. Well, Cwyl didn't know me either. They only knew me from Magnuszow."
+        }
+      ],
+      "tags": [],
+      "uuid": "c01adde7-f8f0-442d-96b8-2bb8bd3d46a1"
+    },
+    {
+      "start_time": 1512,
+      "end_time": 1516,
+      "annotation": [
+        {
+          "text": "Interviewer: They knew you as whom? As a Jew?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f19529ba-4b75-48c6-a9ac-4aca0865b277"
+    },
+    {
+      "start_time": 1516,
+      "end_time": 1548,
+      "annotation": [
+        {
+          "text": "Subject: They knew me as a Jew. Yes, as a Jew. And only later when I had my Kennkarte issued also in Magnuszow, Roman Szczudlinski also learned that I was a Jew because he had to, he had to take a picture of me. And then when he, you understand, I just pretended to be Zoladek on the other side, on the right bank of the Vistula river. There, they didn't know about me at all. They were guessing but did not know. No one knew I was a Jew because I was no longer in hiding there. I moved freely and went to a [Catholic] church."
+        }
+      ],
+      "tags": [],
+      "uuid": "027d4f20-27d3-4c4d-9956-380fea8b7e4b"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1550,
+      "annotation": [
+        {
+          "text": "Interviewer: But that was later."
+        }
+      ],
+      "tags": [],
+      "uuid": "0bf2173b-f2f1-4f9e-b48a-bf9f6d47bbd1"
+    },
+    {
+      "start_time": 1550,
+      "end_time": 1551,
+      "annotation": [
+        {
+          "text": "Interviewer: Yes, that was later."
+        }
+      ],
+      "tags": [],
+      "uuid": "8b31438e-188a-40c5-b6eb-f48c449f221a"
+    },
+    {
+      "start_time": 1551,
+      "end_time": 1553,
+      "annotation": [
+        {
+          "text": "Interviewer: Please tell me, did you stay with that German?"
+        }
+      ],
+      "tags": [],
+      "uuid": "005e7347-862f-4402-a26e-3dbdf41b3372"
+    },
+    {
+      "start_time": 1553,
+      "end_time": 1555,
+      "annotation": [
+        {
+          "text": "Subject: Yes, I stayed for three months with that German."
+        }
+      ],
+      "tags": [],
+      "uuid": "8a6f8d54-47ef-4c5d-aef5-57947ac3ef6a"
+    },
+    {
+      "start_time": 1555,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "text": "Interviewer: But you were a tailor?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c98e0ad6-ac89-46f3-b321-bea1da5a65c8"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1557,
+      "annotation": [
+        {
+          "text": "Subject: A tailor, I sewed for them."
+        }
+      ],
+      "tags": [],
+      "uuid": "45d92542-7a7f-4f06-bd4d-de4ae34aae2b"
+    },
+    {
+      "start_time": 1557,
+      "end_time": 1559,
+      "annotation": [
+        {
+          "text": "Interviewer: For everybody? Or just for that German?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6384095-dde9-429c-b90b-efbf687907c9"
+    },
+    {
+      "start_time": 1559,
+      "end_time": 1572,
+      "annotation": [
+        {
+          "text": "Subject: Just for that German. And there was another one who knew about me. His name was Arn… Arnbrandt[?] or something like that. He also knew about me that I'm there but I didn't sew for him. I just did pants for his son. Arnbrandt[?]. This seems to me was his name."
+        }
+      ],
+      "tags": [],
+      "uuid": "d82f8554-516e-41eb-aef2-513025d4ffa0"
+    },
+    {
+      "start_time": 1572,
+      "end_time": 1576,
+      "annotation": [
+        {
+          "text": "Interviewer: Did you feel safe?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cbd50c5a-311b-41dc-b9f2-979da97284ae"
+    },
+    {
+      "start_time": 1576,
+      "end_time": 1579,
+      "annotation": [
+        {
+          "text": "Subject: I did at their house. I felt safe at their place."
+        }
+      ],
+      "tags": [],
+      "uuid": "6860ffb4-c061-476a-ac36-f6144b7ada6f"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1581,
+      "annotation": [
+        {
+          "text": "Interviewer: Did you also go to the town's center?"
+        }
+      ],
+      "tags": [],
+      "uuid": "43001b71-d128-45a7-83f9-b702de85f24f"
+    },
+    {
+      "start_time": 1581,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "text": "Subject: No. No way. Absolutely not."
+        }
+      ],
+      "tags": [],
+      "uuid": "31735ecc-6878-470b-9e8d-9c30dc91300e"
+    },
+    {
+      "start_time": 1583,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "text": "Interviewer: But why not?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6c228365-50e7-4450-b164-49859415a326"
+    },
+    {
+      "start_time": 1583,
+      "end_time": 1584,
+      "annotation": [
+        {
+          "text": "Subject: How could I go out?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0aeae050-7052-45e4-bf78-0949a9596c1f"
+    },
+    {
+      "start_time": 1584,
+      "end_time": 1585,
+      "annotation": [
+        {
+          "text": "Interviewer: Did everybody know you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "abb2d054-a830-4523-98f9-5b51cf3a7bc7"
+    },
+    {
+      "start_time": 1585,
+      "end_time": 1587,
+      "annotation": [
+        {
+          "text": "Subject: After all, we were in the countryside. This was no town. In the countryside."
+        }
+      ],
+      "tags": [],
+      "uuid": "8981e44c-9a37-4536-ae56-5492090138ed"
+    },
+    {
+      "start_time": 1587,
+      "end_time": 1588,
+      "annotation": [
+        {
+          "text": "Interviewer: In the countryside."
+        }
+      ],
+      "tags": [],
+      "uuid": "bd0ed838-9744-43bb-b1a9-30cce129c96b"
+    },
+    {
+      "start_time": 1588,
+      "end_time": 1590,
+      "annotation": [
+        {
+          "text": "Subject: In the countryside, yes. That was in Ostrów.  Ostrów."
+        }
+      ],
+      "tags": [],
+      "uuid": "91115586-74e1-46aa-b8eb-55ebaf78fa3b"
+    },
+    {
+      "start_time": 1590,
+      "end_time": 1591,
+      "annotation": [
+        {
+          "text": "Interviewer: Were you known there?"
+        }
+      ],
+      "tags": [],
+      "uuid": "aa0a10a3-341a-4246-8af1-6792f68cfdea"
+    },
+    {
+      "start_time": 1591,
+      "end_time": 1599,
+      "annotation": [
+        {
+          "text": "Subject: No. I was known only at Wdowiak's place and Cwyl's place but nobody knew me in that village and nobody betrayed me."
+        }
+      ],
+      "tags": [],
+      "uuid": "e2de4829-5fea-48ea-a56d-0e76ec4c1819"
+    },
+    {
+      "start_time": 1599,
+      "end_time": 1601,
+      "annotation": [
+        {
+          "text": "Interviewer: Let me tell you why I'm asking."
+        }
+      ],
+      "tags": [],
+      "uuid": "f54d495b-c88a-4ce7-be81-60fc10530fd2"
+    },
+    {
+      "start_time": 1601,
+      "end_time": 1606,
+      "annotation": [
+        {
+          "text": "Subject: Yes. It's characteristic that nobody betrayed me. I guess they liked me."
+        }
+      ],
+      "tags": [],
+      "uuid": "6f19cee3-f38c-433c-a00b-a7f8036e6135"
+    },
+    {
+      "start_time": 1606,
+      "end_time": 1610,
+      "annotation": [
+        {
+          "text": "Interviewer: There is one thing I don't understand."
+        }
+      ],
+      "tags": [],
+      "uuid": "7a35ac62-0c02-44f5-b109-07e95811157c"
+    },
+    {
+      "start_time": 1610,
+      "end_time": 1620,
+      "annotation": [
+        {
+          "text": "Subject: I'm one in a million who is lucky to have survived.  One in a a million because some others survived because they were in hiding.I didn't go to great lengths to hide."
+        }
+      ],
+      "tags": [],
+      "uuid": "ee0aa651-81ab-4b32-a46f-4d3c8ea7db00"
+    },
+    {
+      "start_time": 1620,
+      "end_time": 1647,
+      "annotation": [
+        {
+          "text": "Interviewer: You know when I talked, for instance in Israel, in Yad Vashem and in other places, to people who had survived the Holocaust, they would tell me, among other things, that they simply couldn't escape and they couldn't go to the countryside because they claimed they didn't 'look right' or their Polish was poor. But you served in the Polish army, 'looked right' and spoke good Polish without an accent. So why were you afraid to walk in the village, for example?"
+        }
+      ],
+      "tags": [],
+      "uuid": "25d6b377-2f44-4d89-b3e9-3e4851a1e6a4"
+    },
+    {
+      "start_time": 1647,
+      "end_time": 1681,
+      "annotation": [
+        {
+          "text": "Subject: Well, that was later, later I will talk about it toward the end. Later, Wdowiak knew... saw that people knew me in Ostrow, knew me from Magnuszow, as it is very close. They were apprehensive because terrible repressions were already in place and not only Jews but also many Poles were shot dead in 1943 and at the start of the year 1944 in Magnuszow. So Wdowiak told me, 'Listen Heniek, I would be better if you moved on. You can go to the other side [of the river] and find your way around there'. Right. As a Pole already, not any longer as Prajs [Prais] but Zoladek."
+        }
+      ],
+      "tags": [],
+      "uuid": "23dddb1b-a3a5-4535-8c81-0a469845534a"
+    },
+    {
+      "start_time": 1681,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "text": "Interviewer: But when? Was it already in 1943?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6bca359c-8a57-4265-9097-ffc42a587dbf"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1698,
+      "annotation": [
+        {
+          "text": "Subject: It was, it was probably in 1943 or 1944, toward the end of 1943 in fall or or at the start of 1944 in January. It was probably already in January or February 1944."
+        }
+      ],
+      "tags": [],
+      "uuid": "2cbc00e5-ecd4-468b-9547-0a5c93a8c7bd"
+    },
+    {
+      "start_time": 1698,
+      "end_time": 1702,
+      "annotation": [
+        {
+          "text": "Interviewer: Right. And where did you go?"
+        }
+      ],
+      "tags": [],
+      "uuid": "739c2cf9-4f8c-4777-bbb2-458aa6d115c8"
+    },
+    {
+      "start_time": 1702,
+      "end_time": 1793.96,
+      "annotation": [
+        {
+          "text": "Subject: I was generally in hiding at the time. I crossed the Vistula river and started hiding in bushes.  I had no idea where to go. It was already spring, I think. I met a woman. Initially, she was scared when she saw me. I told her, 'Don't be afraid of me. I am..., I escaped from Warsaw. My name's so and so. Could you give me shelter somewhere, please?' At the beginning, she was afraid but later she started talking to me and said, 'Listen, I'm very poor, I live very modestly but I have a good heart so I'll take you home. Come, come to my place'."
+        }
+      ],
+      "tags": [],
+      "uuid": "999d3030-b684-42f2-a54f-10035cf2cdd5"
+    }
+  ]
+}

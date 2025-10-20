@@ -1,0 +1,2229 @@
+{
+  "event_id": "1476b0d9-d527-4e22-bc93-a042c2ff9d93",
+  "source_id": "c091db62-b0c4-4d1a-9931-b76fe2920ba9",
+  "set": "English Captions [Transcript]",
+  "annotations": [
+    {
+      "start_time": 27,
+      "end_time": 32.248,
+      "annotation": [
+        {
+          "text": "Do you remember your last leave from the military in Gora Kalwaria before the war?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b17cf4fc-fcae-4e9b-958c-86811e05eef2"
+    },
+    {
+      "start_time": 33,
+      "end_time": 38.952,
+      "annotation": [
+        {
+          "text": "Yes, it was in 1938, at Christmas, in December. That’s when I came to Gora Kalwaria on leave."
+        }
+      ],
+      "tags": [],
+      "uuid": "ac884d99-b004-4200-b478-287904166377"
+    },
+    {
+      "start_time": 43,
+      "end_time": 44.34,
+      "annotation": [
+        {
+          "text": "Did you see your mother?"
+        }
+      ],
+      "tags": [],
+      "uuid": "31962ee0-6475-4a36-bb9b-7b9e22cf03e4"
+    },
+    {
+      "start_time": 44.341,
+      "end_time": 48.992,
+      "annotation": [
+        {
+          "text": "Well, I got a 14-day leave from the army as a good soldier, a soldier’s leave."
+        }
+      ],
+      "tags": [],
+      "uuid": "f8f5cf98-37d8-4ee6-81dc-3aafd4187f74"
+    },
+    {
+      "start_time": 53,
+      "end_time": 55,
+      "annotation": [
+        {
+          "text": "Did you stay with your mother?"
+        }
+      ],
+      "tags": [],
+      "uuid": "fad1ffee-1b55-41b3-9457-1bfc526740c7"
+    },
+    {
+      "start_time": 54,
+      "end_time": 62,
+      "annotation": [
+        {
+          "text": "I did, actually. My brother was there, too, and my sister; we were all there and they were very happy and not only them; in general, it needs to be said that 80 per cent of Jews were very happy because they were proud to have a chevau-léger, from Gora Kalwaria, because I was a cavalryman; in addition, I was a tailor by profession, a far cry from cavalry. However, I was a very capable soldier and, I must stress the fact that, during regimental field drills, the corporal said to other soldiers: ‘Follow Prajs’ example and see how well he has is riding his horse at the front of the formation’. I have to say it because I’m proud of myself."
+        }
+      ],
+      "tags": [],
+      "uuid": "6ed3e6dd-ec1a-4002-a3b2-cfc575313cda"
+    },
+    {
+      "start_time": 100,
+      "end_time": 101.999,
+      "annotation": [
+        {
+          "text": "Obviously, you also carried a sabre, didn’t you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "792f2864-fb85-497b-afb3-8d520e3bec89"
+    },
+    {
+      "start_time": 102,
+      "end_time": 110,
+      "annotation": [
+        {
+          "text": "Yes, I did. A sabre and a carbine, and I was a section leader because I had a section under my command, I had a machine gun; at the time, it was called RKM, a light machine gun, and I had one of those."
+        }
+      ],
+      "tags": [],
+      "uuid": "80573d35-6e17-42f8-a66a-3c424ee697de"
+    },
+    {
+      "start_time": 120,
+      "end_time": 126.016,
+      "annotation": [
+        {
+          "text": "As far as I understand that that was your last leave at Christmas before the start of the war?"
+        }
+      ],
+      "tags": [],
+      "uuid": "61ad13c7-f786-4783-9ed1-bbf2a72e2998"
+    },
+    {
+      "start_time": 127,
+      "end_time": 135,
+      "annotation": [
+        {
+          "text": "Yes, no soldier would be granted a leave later in 1939. Starting from March 1939, all leaves were cancelled because everyone, more or less, felt that the situation was not good."
+        }
+      ],
+      "tags": [],
+      "uuid": "04fb10a9-5f53-4c93-a42c-66394a003cb1"
+    },
+    {
+      "start_time": 138,
+      "end_time": 140.467,
+      "annotation": [
+        {
+          "text": "Did you write letters to your family?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d8bd399c-f930-4ca1-8eb2-91c1477e1b48"
+    },
+    {
+      "start_time": 143,
+      "end_time": 151,
+      "annotation": [
+        {
+          "text": "We exchanged letters with my family until the very last moment, until 1939; it’s just that my family did not receive the letters I had sent to them in 1939 informing them I was on my way to the frontline with the regiment."
+        }
+      ],
+      "tags": [],
+      "uuid": "08ed82f8-80f9-439d-9c07-b3822673755d"
+    },
+    {
+      "start_time": 156,
+      "end_time": 161.999,
+      "annotation": [
+        {
+          "text": "I wanted to go back to that pre-war period or, you know, did your mother write anything to you about the atmosphere at the time?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7d640369-e319-4a07-9998-9ec9c6dcc1f6"
+    },
+    {
+      "start_time": 162,
+      "end_time": 163.4,
+      "annotation": [
+        {
+          "text": "Yes, she did. Very much so."
+        }
+      ],
+      "tags": [],
+      "uuid": "e5cbf3c6-1221-4b89-a2d0-a2cb332b4f45"
+    },
+    {
+      "start_time": 163.401,
+      "end_time": 171,
+      "annotation": [
+        {
+          "text": "What I mean are the matters related, let’s say, to a greater extent to the possible breakout of the war. Did she feel herself in any danger?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8d5433fb-2431-4300-843a-76e29e334cc0"
+    },
+    {
+      "start_time": 168,
+      "end_time": 176,
+      "annotation": [
+        {
+          "text": "Well, in general all Jews in 1939 were terrified by the prospect of a war. This is why a very large group of them had emigrated to Russia.  We need to state the truth, those who emigrated,  whether it was right or not, they did, after all, stay alive. I do not mean to make political comments, about certain times, nobody supported Stalin’s crimes and nobody would support them, I don’t want to get political, because it was a crime, a genocide. Those Jews who had emigrated to Russia, some of them did survive, whereas those here did not, with the exception of myself who was kept in hiding by the Pokorski family, because my mother in law had referred me to those people and they had agreed to keep me safe and she had even risked her life for me, which I’m going to talk about later."
+        }
+      ],
+      "tags": [],
+      "uuid": "50baf732-d064-44e5-86df-bc9e24603a01"
+    },
+    {
+      "start_time": 233,
+      "end_time": 235.533,
+      "annotation": [
+        {
+          "text": "You didn’t get married before the war?"
+        }
+      ],
+      "tags": [],
+      "uuid": "279d2014-34f1-4596-a36e-3ae9302310c6"
+    },
+    {
+      "start_time": 236,
+      "end_time": 238.6,
+      "annotation": [
+        {
+          "text": "No, I got married after the war. I did."
+        }
+      ],
+      "tags": [],
+      "uuid": "1b83ba70-fee6-488f-a9f2-a277f3060c52"
+    },
+    {
+      "start_time": 239,
+      "end_time": 247,
+      "annotation": [
+        {
+          "text": "I understand. You said that many had emigrated, also from Gora Kalwaria?\nSubject:00:04:04 Yes, some 100 or 150 persons also emigrated from Gora Kalwaria and about 30 persons made it back alive from Russia."
+        }
+      ],
+      "tags": [],
+      "uuid": "e3ca2924-1e71-4c47-8656-f663566ffc75"
+    },
+    {
+      "start_time": 252,
+      "end_time": 255.456,
+      "annotation": [
+        {
+          "text": "So maybe let’s now go over to the breakout of the war."
+        }
+      ],
+      "tags": [],
+      "uuid": "4d7195ee-1706-44ec-89e4-5b47b7ed3f1e"
+    },
+    {
+      "start_time": 257,
+      "end_time": 258,
+      "annotation": [
+        {
+          "text": "OK."
+        }
+      ],
+      "tags": [],
+      "uuid": "325acd35-8f74-4023-b09b-649a98862e3e"
+    },
+    {
+      "start_time": 258.001,
+      "end_time": 261.608,
+      "annotation": [
+        {
+          "text": "On September 1st, you were with your regiment in Suwalki. Is that right?"
+        }
+      ],
+      "tags": [],
+      "uuid": "bf8171e4-6c25-4307-a35b-cd2f0c7ebae2"
+    },
+    {
+      "start_time": 262,
+      "end_time": 270,
+      "annotation": [
+        {
+          "text": "My regiment, our regiment. We were mobilized back on August 23rd. After roll call, everybody was handed live ammunition and we set off in the direction of that village, the village of Raczki was its name, near Suwalki.  We stayed there for a few days. We cleaned our horses, there was the evening bugle call, as usual during military exercises."
+        }
+      ],
+      "tags": [],
+      "uuid": "fddb01a2-4609-421f-91e3-8fc0dc8f74ea"
+    },
+    {
+      "start_time": 301,
+      "end_time": 302.28,
+      "annotation": [
+        {
+          "text": "In the barracks?"
+        }
+      ],
+      "tags": [],
+      "uuid": "28381e11-7457-4bcf-9e59-1bf4bea52b7c"
+    },
+    {
+      "start_time": 303,
+      "end_time": 309.144,
+      "annotation": [
+        {
+          "text": "We usually slept at local farmhouses because we had left the regimental barracks on August 23rd."
+        }
+      ],
+      "tags": [],
+      "uuid": "1baf3667-e7fa-4215-bb87-4bf868d78e5c"
+    },
+    {
+      "start_time": 313,
+      "end_time": 313.999,
+      "annotation": [
+        {
+          "text": "On horseback?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f5c62ad7-5801-4ff3-beb0-bb2b394ac3db"
+    },
+    {
+      "start_time": 314,
+      "end_time": 322,
+      "annotation": [
+        {
+          "text": "On horseback, all on horseback. On the first, on the first of September in the morning we got up at five as usual and none of us, soldiers, knew at the time that the war had started.  During breakfast, it was not the regiment’s commander but the squadron’s commanding officer at the time, given that the regiment was divided into smaller units as was the usual practice for the maneuvers because we could not all be in one location, who said: ‘Listen up soldiers! The war has started’. We were already hearing explosions because the railway station in Suwalki had been shelled in the morning. We knew what to do right away, we were advancing in battle formation from that moment onwards. We were told not to disperse. I mean we advanced in battle formation only. On the second of September, during the night, two squadrons, the fourth and the second under the command of Major Witkowski, were given the order to advance in the direction of the East Prussia towards Koenigsberg, today’s Kaliningrad, right? Koenigsberg. We set off at night in full battle formation, I mean, those two squadrons, horses and everything. We reached the village of Reuss, today’s Cimochy. There, we entered the German land. We advanced, left the horses in the wood behind a hill, and went to battle on foot. We did not encounter any resistance when entering Reuss. I think that we penetrated 5 to 7 km deep into the German territory. Depending from which direction, from Grajewo it would be some 7 km to the village of Reuss. We even went as far as..., I can’t remember, and later we stopped because we actually entered, what do you call it, or else"
+        }
+      ],
+      "tags": [],
+      "uuid": "cc6e59d8-8a1f-4bdf-83ab-ffbc44764df1"
+    },
+    {
+      "start_time": 466,
+      "end_time": 474,
+      "annotation": [
+        {
+          "text": "How do you say it, what do you call it, a bar not a bar, sort of a restaurant, no, something like that. People were even having a party there. We were surprised that there was no, that there were no guard posts at all, nobody was standing guard.  At that point, we heard that one of our chevaux-légers had crawled up to that building where it the party was taking place. It must have been a club not a restaurant, not a bar, just a club because they were partying and dancing. And he threw in a grenade. There was havoc. I don’t know. Szyciński ? was the surname of that soldier who had thrown in the grenade, I remember it as if it were today, a senior chevau-leger. So havoc ensued and panic spread at that point. We took two Germans captive. We did. Of course, I was already present at the time because I had been summoned by the commanding officer to interpret for him as I spoke some German and could act as an interpreter. So we held them captive and later, we spent a few hours there, in the early hours the order came to retreat From that moment onward, the whole tragedy unfolded. In general, we could not stop anywhere during the day. We could not stop anywhere because planes were dropping bombs all the time. It was virtually impossible to... anywhere. We had to stick to woods, hide in woods and could only start marching in the evenings."
+        }
+      ],
+      "tags": [],
+      "uuid": "c3ada597-b7c7-4ef8-8320-4fed65497a24"
+    },
+    {
+      "start_time": 556,
+      "end_time": 558.2,
+      "annotation": [
+        {
+          "text": "What general direction did you take?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6683d652-1175-4f66-b9dc-5721a8cb5041"
+    },
+    {
+      "start_time": 558.201,
+      "end_time": 560.6,
+      "annotation": [
+        {
+          "text": "Direction? We were all told to go east."
+        }
+      ],
+      "tags": [],
+      "uuid": "c81a0797-80cf-4f44-aaa9-f67ce0f1350b"
+    },
+    {
+      "start_time": 562,
+      "end_time": 563,
+      "annotation": [
+        {
+          "text": "- East?\n- East."
+        }
+      ],
+      "tags": [],
+      "uuid": "a82362dc-1186-4c0f-988c-2cecd64f707a"
+    },
+    {
+      "start_time": 563.003,
+      "end_time": 566.328,
+      "annotation": [
+        {
+          "text": "It was already sort of the beginning of the retreat."
+        }
+      ],
+      "tags": [],
+      "uuid": "12fe8463-5e6c-40cd-94a1-670ed0fd25bd"
+    },
+    {
+      "start_time": 565,
+      "end_time": 566.999,
+      "annotation": [
+        {
+          "text": "Yes, the general retreat. Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "5e2f92c3-6e01-48d5-b7e5-5f9f927e0fc4"
+    },
+    {
+      "start_time": 567,
+      "end_time": 568.999,
+      "annotation": [
+        {
+          "text": "When was it, more or less? What day?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4da3cf23-ca1e-49e9-9286-84a3faab6daa"
+    },
+    {
+      "start_time": 569,
+      "end_time": 577,
+      "annotation": [
+        {
+          "text": "It was, more or less, well, we started retreating, not only withdrawing from the frontline, we were moving in the direction of Zambrow and in general through the surrounding area because everybody was marching, during the night, yes, I remember different locations, I remember Wisniewo, I remember those other locations inaudible and we reached Zambrow."
+        }
+      ],
+      "tags": [],
+      "uuid": "87e99d58-3b17-44c2-9e4d-ee3173c45a64"
+    },
+    {
+      "start_time": 591,
+      "end_time": 592.12,
+      "annotation": [
+        {
+          "text": "When was that?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6cb4c08b-1f1c-41c4-aa8c-32f8a8ce73fb"
+    },
+    {
+      "start_time": 593,
+      "end_time": 601,
+      "annotation": [
+        {
+          "text": "On the 11th or maybe on the 10th. There was also... because the Germans were already there in that..., there was a major skirmish there and one of our soldiers probably died. We did not take any prisoners because that group was stronger. The regiment held out, the regiment was still operating and did not disperse at that point."
+        }
+      ],
+      "tags": [],
+      "uuid": "f35e9bcf-6b68-4f00-9216-b3977c9fba44"
+    },
+    {
+      "start_time": 615,
+      "end_time": 616.68,
+      "annotation": [
+        {
+          "text": "Did you keep your horses?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf1c4859-6154-499e-b44b-619eaaf590b3"
+    },
+    {
+      "start_time": 616,
+      "end_time": 624,
+      "annotation": [
+        {
+          "text": "We still had our horses, and everything, the regiment was still combat-ready, had its commander and all squadrons. It was not until September 13th, the night of September 12th to 13th that we arrived in Olszewo, a village situated between Bransk and Lapy.  It was there that we encountered fierce resistance from the Germans.  Heavy fighting erupted and there was a major exchange of fire. Very many, very many of our soldiers died there, more than twenty. The commanding officer of our regiment was still with us, he was wounded near Olszewo and so was I, among others.  My immediate commanding officer, cavalry cadet Glusek, that was his name, died two meters away from me. I was covering him with my machine gun. I don’t know how it happened. Apparently, the Germans must have... a shrapnel exploded and I was wounded in my neck, leg and hand. I still have the scars. And he just collapsed and never got up. He was standing maybe two meters away from me. After that, I was no longer capable of fighting. They took me to, what was his..., no, no in inaudible, his name was, his name was, I also forgot that but maybe I can recall it later."
+        }
+      ],
+      "tags": [],
+      "uuid": "520e258b-5ba3-49ce-b947-c4e77d5f8f08"
+    },
+    {
+      "start_time": 712,
+      "end_time": 716.48,
+      "annotation": [
+        {
+          "text": "Well, it doesn’t matter. Where did they take you? To a field hospital?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d49b6e5b-f632-4c01-9359-e827617421a7"
+    },
+    {
+      "start_time": 714,
+      "end_time": 715.733,
+      "annotation": [
+        {
+          "text": "No, no, to the encampment."
+        }
+      ],
+      "tags": [],
+      "uuid": "535b9c65-7461-4d5a-99d8-b6c590412439"
+    },
+    {
+      "start_time": 715,
+      "end_time": 716,
+      "annotation": [
+        {
+          "text": "Encampment?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e89e1523-59df-4b4a-8211-0da704b3c39b"
+    },
+    {
+      "start_time": 716.001,
+      "end_time": 724,
+      "annotation": [
+        {
+          "text": "Enampment. Yes, to a physician, a standard procedure. I forgot the name of the orderly. And another one. They took me to a physician to..., at the time lieutenant Gerula was the head physician for our entire brigade. They took me to him. He tended to my wounds because they were not that horrific. Sure, I had multiple injuries but not life-threatening ones. He sent me back to the encampent. That was on September 13th or 14th. The encampment no longer followed the regiment. The regiment went more to the east, later reached Klodzko and engaged the enemy there. They fought until October 5th, until the end. I wasn’t with the regiment during that period because I was wounded and we were sent in the direction of Grodno.  Our part of the unit went as far as Szczuczyn, Nowogrodzki. And there and there until September 17th. And we remained there, we were met by that army, we were disarmed by the Soviet Army and taken into captivity, no, I wasn’t taken prisoner on that day yet.  But we were already... Major Diaczenko disbanded our unit.  Everybody was on their own and, as it was not possible to reach Warsaw, we went east."
+        }
+      ],
+      "tags": [],
+      "uuid": "44636d65-d9cd-41b4-8e7e-ca7fe96e84e9"
+    },
+    {
+      "start_time": 810,
+      "end_time": 811.567,
+      "annotation": [
+        {
+          "text": "Please tell me: Was it the 17th?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f3df9fce-4576-448a-a827-237fd668d870"
+    },
+    {
+      "start_time": 811.568,
+      "end_time": 812.68,
+      "annotation": [
+        {
+          "text": "It was September 17th."
+        }
+      ],
+      "tags": [],
+      "uuid": "0bb397c8-35f4-420e-829d-1d9d477b47a1"
+    },
+    {
+      "start_time": 812.681,
+      "end_time": 816.624,
+      "annotation": [
+        {
+          "text": "September, the Soviet Union declared war, engaged in the war, yes, against Poland."
+        }
+      ],
+      "tags": [],
+      "uuid": "74f5ee98-385b-48b9-9c76-9f08fc69133e"
+    },
+    {
+      "start_time": 816.625,
+      "end_time": 821.136,
+      "annotation": [
+        {
+          "text": "Well, at the time I was already, I was no longer taking part in combat because I had been wounded."
+        }
+      ],
+      "tags": [],
+      "uuid": "f4c54007-30d3-4a7f-8d75-a81cd5979b53"
+    },
+    {
+      "start_time": 821.137,
+      "end_time": 822.867,
+      "annotation": [
+        {
+          "text": "Did you know about it at all? But you knew?"
+        }
+      ],
+      "tags": [],
+      "uuid": "1dc470ea-889e-4c93-b9ea-007d149f4ec2"
+    },
+    {
+      "start_time": 822,
+      "end_time": 823.18,
+      "annotation": [
+        {
+          "text": "What do you mean?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd722bb1-3a89-4f52-94f6-44cec7c30728"
+    },
+    {
+      "start_time": 823.181,
+      "end_time": 827.16,
+      "annotation": [
+        {
+          "text": "It was no surprise to you that suddenly the Soviet Army units...?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cbb52f1f-290e-4b9a-b6a1-ad1c3028b7ec"
+    },
+    {
+      "start_time": 825,
+      "end_time": 833,
+      "annotation": [
+        {
+          "text": "Well, it was a surprise, surprise, we went out and heard right away that the army, that is the Soviet troops entered that..., crossed the border and were moving in that direction capturing the whole... They were approaching, they were supposed to reach the Vistula river. That was... at the time. Obviously, our commanding officer, Witkowski, told us that we were not to fight with the Russians but surrender to them. But I was wounded at the time so I was not armed any longer but I was still in my uniform and they took us into captivity. I stayed there 2 or 3 days maybe."
+        }
+      ],
+      "tags": [],
+      "uuid": "aa01f1f1-3b3f-47b6-9a37-7dab52309c9d"
+    },
+    {
+      "start_time": 869,
+      "end_time": 870.68,
+      "annotation": [
+        {
+          "text": "The Red Army, but where?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e3b1d053-dd04-41da-a7cc-a13c1606047e"
+    },
+    {
+      "start_time": 871,
+      "end_time": 874.196,
+      "annotation": [
+        {
+          "text": "The Red Army. In Szczuczyn, in Szczuczyn Nowogrodzki."
+        }
+      ],
+      "tags": [],
+      "uuid": "c7d4c5d3-a309-42f6-bbf0-10ee8a2559c0"
+    },
+    {
+      "start_time": 874.197,
+      "end_time": 876.134,
+      "annotation": [
+        {
+          "text": "Did they set up camp in Szczuczyn?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5eff22a3-f62c-47ba-8aea-a2ab7f499c96"
+    },
+    {
+      "start_time": 876.135,
+      "end_time": 877.68,
+      "annotation": [
+        {
+          "text": "Szczuczyn Nowogrodzki."
+        }
+      ],
+      "tags": [],
+      "uuid": "f311f82b-77ef-40ce-983a-d8f053ae1d7c"
+    },
+    {
+      "start_time": 877,
+      "end_time": 878,
+      "annotation": [
+        {
+          "text": "POW camp?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0a7f14eb-8f10-4ebe-849a-270d3364bb41"
+    },
+    {
+      "start_time": 878.001,
+      "end_time": 886,
+      "annotation": [
+        {
+          "text": "Yes, not far from Liga. It was not a POW camp. They had just brought and, I mean, were bringing all that military personnel and took them away for internment because we were not far away, we were in... near Minsk,  Niehorele  or whatever this place is called. We were planting trees there and later the exchange of prisoners took place. Yes and I at the time during that exchange... it was in December."
+        }
+      ],
+      "tags": [],
+      "uuid": "1674816f-4c20-472c-a13b-5a3d1d20f080"
+    },
+    {
+      "start_time": 904,
+      "end_time": 905.36,
+      "annotation": [
+        {
+          "text": "Exchange of POWs?"
+        }
+      ],
+      "tags": [],
+      "uuid": "61ebbf79-0b9f-4c99-b258-5cbd9a7ec2a3"
+    },
+    {
+      "start_time": 905.361,
+      "end_time": 912,
+      "annotation": [
+        {
+          "text": "Exchange of POWs. I mean the Russians returned the Germans and the Poles wishing to return to Poland, and they took back the Belarusians and the Ukrainians."
+        }
+      ],
+      "tags": [],
+      "uuid": "7ac36e9d-9856-412f-a2db-7b24514f26ec"
+    },
+    {
+      "start_time": 913,
+      "end_time": 914.999,
+      "annotation": [
+        {
+          "text": "The exchange was between whom?"
+        }
+      ],
+      "tags": [],
+      "uuid": "62d40747-8e15-4476-8c67-27c655445d10"
+    },
+    {
+      "start_time": 915,
+      "end_time": 918.264,
+      "annotation": [
+        {
+          "text": "The Russians, between the Russians and the Germans."
+        }
+      ],
+      "tags": [],
+      "uuid": "f05e788b-0c95-4ab7-bfc9-9bfbed4f4cb2"
+    },
+    {
+      "start_time": 916,
+      "end_time": 917.68,
+      "annotation": [
+        {
+          "text": "That was in December."
+        }
+      ],
+      "tags": [],
+      "uuid": "8acaa085-5797-446b-bd22-aa34e9126261"
+    },
+    {
+      "start_time": 918,
+      "end_time": 919.14,
+      "annotation": [
+        {
+          "text": "It was December."
+        }
+      ],
+      "tags": [],
+      "uuid": "770534a5-b229-4197-a427-56fe5c18af6d"
+    },
+    {
+      "start_time": 919.141,
+      "end_time": 921.92,
+      "annotation": [
+        {
+          "text": "This means that you spent in fact a few months in captivity."
+        }
+      ],
+      "tags": [],
+      "uuid": "b74c44b4-dae6-4883-982a-3f18dc637912"
+    },
+    {
+      "start_time": 921.921,
+      "end_time": 929,
+      "annotation": [
+        {
+          "text": "Yes, I was interned those few months in Russia, behind Minsk, 40 kilometres beyond Minsk. We were clearing and planting forests there."
+        }
+      ],
+      "tags": [],
+      "uuid": "9d5429fb-fa76-410a-9013-4be3eba51203"
+    },
+    {
+      "start_time": 930,
+      "end_time": 933.136,
+      "annotation": [
+        {
+          "text": "And how was it? How did those Russians treat you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "bc94ea40-bbb3-41c5-9dd7-285dd496fd9e"
+    },
+    {
+      "start_time": 931,
+      "end_time": 939,
+      "annotation": [
+        {
+          "text": "As far as their attitude goes, I will not, I will not say things that did not take place because as long as you did your allocated share of tree planting, so much and so much to plant, and logged it nicely, you were given, as far as possible, a portion of bread to live on, some 40 decagrams of bread, if I recall, and a soup. In the morning, we would get a cup of coffee and tinned food, tinned fish or other, nothing special but, being a prisoner, you could live on that."
+        }
+      ],
+      "tags": [],
+      "uuid": "73f3cb5f-4c25-41f9-921f-90f2cecad3b1"
+    },
+    {
+      "start_time": 961,
+      "end_time": 965.288,
+      "annotation": [
+        {
+          "text": "The Russians treated you in the same way as soldiers and civilians?"
+        }
+      ],
+      "tags": [],
+      "uuid": "63043abe-0fcf-41c2-9f69-964083485d24"
+    },
+    {
+      "start_time": 966,
+      "end_time": 974,
+      "annotation": [
+        {
+          "text": "No difference here. We were all prisoners, we were interned and we were not allowed to leave the area. A foreman, or whatever he was called, would take us into the wood in the morning and would walk us back to the camp in the evening, so much and so much, just like I told you. I could not manage my daily quota but there were two fellow soldiers from somewhere in Silesia or elsewhere.  I don’t even remember their names, they helped me leave captivity so I managed to make that quota and was eligible to claim the lunch, that is the soup given to those who made the quotas."
+        }
+      ],
+      "tags": [],
+      "uuid": "8ce8d7ec-f893-4c9d-ad5a-1a7dce1af7a0"
+    },
+    {
+      "start_time": 1005,
+      "end_time": 1009.992,
+      "annotation": [
+        {
+          "text": "Did you know what was happening during the period leading up to December 1939?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6edfd822-5bed-456a-a97d-31669bd55c20"
+    },
+    {
+      "start_time": 1010,
+      "end_time": 1011.68,
+      "annotation": [
+        {
+          "text": "No, absolutely nothing."
+        }
+      ],
+      "tags": [],
+      "uuid": "d2064563-695b-460b-af10-3e62819c2987"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1014.2,
+      "annotation": [
+        {
+          "text": "In Poland, family, nothing, Germany?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d0c77621-dce0-4caf-a8f7-7e4a46645219"
+    },
+    {
+      "start_time": 1014.201,
+      "end_time": 1022,
+      "annotation": [
+        {
+          "text": "I knew nothing but they, but they didn’t know about me and I didn’t know about them. I didn’t write any letters because there was no way to write them."
+        }
+      ],
+      "tags": [],
+      "uuid": "87e44dee-2881-46d9-85fc-844ec490aa95"
+    },
+    {
+      "start_time": 1024,
+      "end_time": 1026.999,
+      "annotation": [
+        {
+          "text": "Did you know that Warsaw had been captured, for instance, that the Germans...?"
+        }
+      ],
+      "tags": [],
+      "uuid": "340d87d3-ee11-46f0-830b-15384467b2ae"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1028.02,
+      "annotation": [
+        {
+          "text": "Yes, we knew."
+        }
+      ],
+      "tags": [],
+      "uuid": "de8c2be8-a5a5-4fe8-a10d-437079fd1bdb"
+    },
+    {
+      "start_time": 1028.021,
+      "end_time": 1030.2,
+      "annotation": [
+        {
+          "text": "How did you know? Because that..."
+        }
+      ],
+      "tags": [],
+      "uuid": "267555fe-260a-45ce-9b20-1e8bc03d3c9b"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1030.5,
+      "annotation": [
+        {
+          "text": "Because we could not get here."
+        }
+      ],
+      "tags": [],
+      "uuid": "37d039d0-9eba-4f7c-b060-64b9c0c1daaa"
+    },
+    {
+      "start_time": 1030.501,
+      "end_time": 1032.134,
+      "annotation": [
+        {
+          "text": "Were the Russians saying that? Or?"
+        }
+      ],
+      "tags": [],
+      "uuid": "02ef7d92-f686-40a6-a3d9-d5e923c5077d"
+    },
+    {
+      "start_time": 1032.135,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "text": "The Russians told us that Warsaw had surrendered: ‘Don’t worry, we are taking you into captivity now and later we will fight the Germans together’. Those, in general, were their inaudible"
+        }
+      ],
+      "tags": [],
+      "uuid": "d198933d-4240-4f54-8d95-6280638b9757"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1045.944,
+      "annotation": [
+        {
+          "text": "The prisoners were swapped in December, right?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e4bc1c56-ae38-46ea-bdad-a7f65ea75b24"
+    },
+    {
+      "start_time": 1049,
+      "end_time": 1054.696,
+      "annotation": [
+        {
+          "text": "Yes, the swap was later. I returned here to, to Warsaw and, thereafter, to Gora Kalwaria."
+        }
+      ],
+      "tags": [],
+      "uuid": "b395c230-3649-42fe-8b8d-31582e92df19"
+    },
+    {
+      "start_time": 16,
+      "end_time": 20.16,
+      "annotation": [
+        {
+          "text": "But how did it happen? You mean you were given civilian clothing?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5bff1087-6e96-48d9-851f-6a00636fdf9a"
+    },
+    {
+      "start_time": 1057,
+      "end_time": 1065,
+      "annotation": [
+        {
+          "text": "No, yes, I received civilian clothing from an acquaintance. I simply got a plain jacket from an acquaintance back in Szczuczyn. Because I had my own pants and boots. He gave me a cap and a jacket and I kept my army-issue sweater. I still had a blanket and so I managed somehow in the end."
+        }
+      ],
+      "tags": [],
+      "uuid": "9aae0954-3dcb-4c9e-9aa8-d4dac944f56d"
+    },
+    {
+      "start_time": 1079,
+      "end_time": 1081.536,
+      "annotation": [
+        {
+          "text": "And you decided to return home to Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "99777316-83c8-4a0a-82a5-b8a636dc6acd"
+    },
+    {
+      "start_time": 1081.537,
+      "end_time": 1087.336,
+      "annotation": [
+        {
+          "text": "To Gora Kalwaria. Of course, I later regretted that I had gone back after seeing what was going on."
+        }
+      ],
+      "tags": [],
+      "uuid": "088d60dc-7d29-45cb-a85f-a615a10481a7"
+    },
+    {
+      "start_time": 1084,
+      "end_time": 1086.6,
+      "annotation": [
+        {
+          "text": "But how did you travel there? By train?"
+        }
+      ],
+      "tags": [],
+      "uuid": "19fc4ec1-9758-4dcc-acce-e67817f9475a"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1095,
+      "annotation": [
+        {
+          "text": "I travelled normally, from Lapy. I got to Lapy from Bialystok and from there to Warsaw and from Warsaw to Gora Kalwaria, normally by train. When I arrived in December, everybody inaudible was baffled that I came back in one piece and was still alive.  We had a meeting of various residents of Gora Kalwaria, the Jews and the Poles, right away. They asked me what the situation was like and I told them my story and how things were in general."
+        }
+      ],
+      "tags": [],
+      "uuid": "c433b894-d2f5-4b61-b5c9-67b9fa81aa70"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1116.334,
+      "annotation": [
+        {
+          "text": "Were there any Germans in Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e182fd02-efc3-48a6-b3e9-2f1b0b8ea72b"
+    },
+    {
+      "start_time": 1116.335,
+      "end_time": 1118.467,
+      "annotation": [
+        {
+          "text": "There were. There were Volksdeutsche."
+        }
+      ],
+      "tags": [],
+      "uuid": "809e83a7-d4e3-46db-bf07-2115e0ef08be"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1120.36,
+      "annotation": [
+        {
+          "text": "But were there..."
+        }
+      ],
+      "tags": [],
+      "uuid": "5b71228f-4b0f-402b-b178-05fa8af982d9"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1120.68,
+      "annotation": [
+        {
+          "text": "Rather large colonies."
+        }
+      ],
+      "tags": [],
+      "uuid": "b0e6f836-43d3-4558-ab66-98c1a2be7afa"
+    },
+    {
+      "start_time": 1121,
+      "end_time": 1125.016,
+      "annotation": [
+        {
+          "text": "Were there any repressions against the Jews during that period?"
+        }
+      ],
+      "tags": [],
+      "uuid": "60395b77-00de-48ab-bedd-6fe51ae8f7b8"
+    },
+    {
+      "start_time": 1125.017,
+      "end_time": 1127.228,
+      "annotation": [
+        {
+          "text": "Not before the war, not before the war. After the war."
+        }
+      ],
+      "tags": [],
+      "uuid": "5bdd9ffb-4ab4-42e6-b115-5b06895adae5"
+    },
+    {
+      "start_time": 1127.229,
+      "end_time": 1131.999,
+      "annotation": [
+        {
+          "text": "No, I’m talking about that first period in 1939, let’s say from September to December, when you came to be there?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cdc2857b-153c-46fd-b51a-80b03e06459c"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1133,
+      "annotation": [
+        {
+          "text": "Where?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2fc7cd70-32ca-4d0f-9cb1-f8dcc8fc3e1a"
+    },
+    {
+      "start_time": 1133.001,
+      "end_time": 1139.04,
+      "annotation": [
+        {
+          "text": "In Gora Kalwaria, did the Jewish population or your mother tell you anything about the arrival of the Germans?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a63d42c2-ad44-4384-9cb1-7bb547773847"
+    },
+    {
+      "start_time": 1137,
+      "end_time": 1145,
+      "annotation": [
+        {
+          "text": "Sure, they did. Volksdeutsche joined straightaway what do you call them... They joined the blue..., black police and were in that Schutzpolizei, whatever it was called, and the repressions began right away. The Jews had to report, those aged 16 to 60, had to report for work. I also wrote about that. That was was obligatory. And immediately one of those Jews, a young boy, Mojsze Cybula was his name, Moszek Cebula took a crumb of bread and was killed by a German. Thereafter, Pinio Rawski was also killed when leaving the synagogue by the Germans, too. That all happened during the period. And very many young persons fled Gora Kalwaria at that point. Still in Sept..., still in October."
+        }
+      ],
+      "tags": [],
+      "uuid": "b7c0fd55-3b6b-4950-a9ef-9afacfad6550"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1191.45,
+      "annotation": [
+        {
+          "text": "And tzaddik Elster Alter from Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "480574ba-0296-4f6d-aa74-c081ba5586ca"
+    },
+    {
+      "start_time": 1191.451,
+      "end_time": 1194.264,
+      "annotation": [
+        {
+          "text": "The tzaddik from Gora Kalwaria emigrated to Warsaw."
+        }
+      ],
+      "tags": [],
+      "uuid": "b4afd4d2-55d9-422b-84c1-94f4f32a4465"
+    },
+    {
+      "start_time": 1195,
+      "end_time": 1197.952,
+      "annotation": [
+        {
+          "text": "You mean he fled, left for Warsaw and later moved to America?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e6092290-8802-4b1c-874c-8ce365177033"
+    },
+    {
+      "start_time": 1197.953,
+      "end_time": 1203.36,
+      "annotation": [
+        {
+          "text": "They took him to Warsaw. He was offered protection in Warsaw and he could not be seen at all, in general."
+        }
+      ],
+      "tags": [],
+      "uuid": "1123c950-b1b9-4dc8-9157-5cf7fbe71e8d"
+    },
+    {
+      "start_time": 1203.361,
+      "end_time": 1206.52,
+      "annotation": [
+        {
+          "text": "What do you mean... who took him? The Germans took him?"
+        }
+      ],
+      "tags": [],
+      "uuid": "213783cb-62a9-443f-9d83-1ef4febc563b"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1206.933,
+      "annotation": [
+        {
+          "text": "No, he was taken by the Jews."
+        }
+      ],
+      "tags": [],
+      "uuid": "8a445e26-f2f1-46cf-9c9a-0046c082eb19"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1209.12,
+      "annotation": [
+        {
+          "text": "The Jews? Yes?"
+        }
+      ],
+      "tags": [],
+      "uuid": "39d7e312-b598-4d2a-b32c-f10beafc52f5"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1210.4,
+      "annotation": [
+        {
+          "text": "The Jews took him, yes, at the time."
+        }
+      ],
+      "tags": [],
+      "uuid": "a3dea51c-aaca-4b9c-97df-763cbe5524df"
+    },
+    {
+      "start_time": 1209,
+      "end_time": 1211.333,
+      "annotation": [
+        {
+          "text": "But what happened to him afterward?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ab7041a-1533-40a9-aca2-ad7c4eb5d20d"
+    },
+    {
+      "start_time": 1211.334,
+      "end_time": 1214.096,
+      "annotation": [
+        {
+          "text": "He later lived in Warsaw, I don’t know where he lived in Warsaw."
+        }
+      ],
+      "tags": [],
+      "uuid": "f29b0328-1743-494c-bec7-c52b70c8deb8"
+    },
+    {
+      "start_time": 1215,
+      "end_time": 1216.68,
+      "annotation": [
+        {
+          "text": "No, he left for America."
+        }
+      ],
+      "tags": [],
+      "uuid": "cea97754-e861-48eb-a699-75a04f83a4b4"
+    },
+    {
+      "start_time": 1216,
+      "end_time": 1224,
+      "annotation": [
+        {
+          "text": "He, no, he left for Warsaw in 1939. From Warsaw he was there in that..., he was probably in hiding in a shoemaker’s workshop. When the Germans searched the premises, not specifically for the tzaddik but in general, they entered a room and saw him sitting on a stool holding a hammer. The Germans did not go after craftsmen, shoemakers etc. in the beginning. And he stayed there for some time. Thereafter, as far as his emigration, he didn’t travel to America but was taken to Trieste. He was assisted by the Italian embassy, specifically by a Pole by the name of Stefan Porajski,  a cousin of our president Moscicki.  He worked at the Italian embassy and issued paperwork with the help of the Italian ambassador. They bribed the Gestapo or SS personnel. I don’t recall whom exactly. In fall 1942, they ordered a whole train car to Rome. And, thus, thus the rabbi with his family got out of Warsaw."
+        }
+      ],
+      "tags": [],
+      "uuid": "d52990ba-665c-439f-91e9-4e2605f0a354"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1304,
+      "annotation": [
+        {
+          "text": "I see and..."
+        }
+      ],
+      "tags": [],
+      "uuid": "93bffe62-33d0-4b0a-820b-0eda4ceadc1c"
+    },
+    {
+      "start_time": 1049,
+      "end_time": 1050.867,
+      "annotation": [
+        {
+          "text": "And he travelled to Trieste."
+        }
+      ],
+      "tags": [],
+      "uuid": "df46a780-b831-4488-9e59-437e8b3948c2"
+    },
+    {
+      "start_time": 1305,
+      "end_time": 1308.999,
+      "annotation": [
+        {
+          "text": "And you, your family and in general all residents of Gora Kalwaria, Jewish residents, of course..."
+        }
+      ],
+      "tags": [],
+      "uuid": "d83d8850-9ba8-47ca-b7c8-1fc79c89de90"
+    },
+    {
+      "start_time": 1309,
+      "end_time": 1310.4,
+      "annotation": [
+        {
+          "text": "We were forcibly relocated."
+        }
+      ],
+      "tags": [],
+      "uuid": "1e5ac0d1-3b46-42bc-a323-46eb0ffd086c"
+    },
+    {
+      "start_time": 1310.401,
+      "end_time": 1315.999,
+      "annotation": [
+        {
+          "text": "But no, my question is whether you didn’t feel betrayed given that your, sort of, spiritual leader..."
+        }
+      ],
+      "tags": [],
+      "uuid": "bbf7cfb9-bdec-47ca-986e-46ed0631ab40"
+    },
+    {
+      "start_time": 1316,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "text": "It’s hard to say. It depends on your point of view. It depends what they thought, what their point of view was. If somebody is a believer, if somebody in general thinks that it, that it was actually divine retribution or something else, I myself..."
+        }
+      ],
+      "tags": [],
+      "uuid": "059f949b-dcd4-45f9-a5ac-8bf239ebaf6c"
+    },
+    {
+      "start_time": 1332,
+      "end_time": 1338.464,
+      "annotation": [
+        {
+          "text": "No, I’m talking about something else, you know, because, for instance, part of the Jewish leadership."
+        }
+      ],
+      "tags": [],
+      "uuid": "88ab2249-a7f9-46c9-a29e-aa6120cd380b"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1336,
+      "annotation": [
+        {
+          "text": "Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "1815a124-a843-4df7-9647-c17826e61a4d"
+    },
+    {
+      "start_time": 1337,
+      "end_time": 1339.733,
+      "annotation": [
+        {
+          "text": "When the war had started, they fled east."
+        }
+      ],
+      "tags": [],
+      "uuid": "2f717ca5-551a-4eea-b15c-803e1b0f0bb9"
+    },
+    {
+      "start_time": 1340,
+      "end_time": 1341.7,
+      "annotation": [
+        {
+          "text": "Yes, some of them, some of them did."
+        }
+      ],
+      "tags": [],
+      "uuid": "cde8e687-6993-4ad0-a10a-ca440117fedf"
+    },
+    {
+      "start_time": 1341.701,
+      "end_time": 1349,
+      "annotation": [
+        {
+          "text": "Revisionists, Begin... the rabbi from Gora Kalwaria was an example of somebody who, sort of, fled, abandoned... But there were cases of people who returned, for example, Antek Cukierman."
+        }
+      ],
+      "tags": [],
+      "uuid": "32ca1f8d-a8b0-41f0-a652-e1ebcc33a1dd"
+    },
+    {
+      "start_time": 1350,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "text": "Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "d52a2b4e-c756-4c1d-b093-b84bdc31cc89"
+    },
+    {
+      "start_time": 1350,
+      "end_time": 1352.4,
+      "annotation": [
+        {
+          "text": "Who returned from Vilnius to Warsaw."
+        }
+      ],
+      "tags": [],
+      "uuid": "4d9917ee-459a-4ded-abc7-e025f800f975"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1352,
+      "annotation": [
+        {
+          "text": "Yes, he did."
+        }
+      ],
+      "tags": [],
+      "uuid": "12d5c2f1-ecdc-4f2c-8736-69a2eb872264"
+    },
+    {
+      "start_time": 1352.001,
+      "end_time": 1360,
+      "annotation": [
+        {
+          "text": "And the question is whether, whether the Jewish community from Gora Kalwaria did not feel abandoned by their leader when in need, whether there was no inaudible"
+        }
+      ],
+      "tags": [],
+      "uuid": "558f8e3b-4c0c-455e-a4a1-14792a078c0b"
+    },
+    {
+      "start_time": 1362,
+      "end_time": 1370,
+      "annotation": [
+        {
+          "text": "I’m not going to say what I don’t know but there is no doubt that a portion of the Jewish population was certainly upset that the tzaddik was leaving. I mean that he was leaving Gora Kalwaria at all. But others..., it needs to be said that he left via the Vistula river. He reached the river and got to Warsaw somehow on a timber float, not by train but by the Vistula river.  His followers and, specifically, that that that entourage of his, decided to evacuate him, right. And he, the rabbi, even wanted to say himself as I read in his memoirs that he wasn’t exactly pleased that he was leaving. But he was right to leave because when the Germans arrived, they went looking for him immediately."
+        }
+      ],
+      "tags": [],
+      "uuid": "39a0349e-d4ff-4773-8610-e795853f5f77"
+    },
+    {
+      "start_time": 29,
+      "end_time": 33.928,
+      "annotation": [
+        {
+          "text": "Good. So tell me now: you return to Gora Kalwaria in December. Is that right?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d697c9f1-52ca-4856-9028-611aae19a531"
+    },
+    {
+      "start_time": 1413,
+      "end_time": 1414,
+      "annotation": [
+        {
+          "text": "Yes, it is."
+        }
+      ],
+      "tags": [],
+      "uuid": "e3a01643-47b1-450f-a354-f66bd6eb87b4"
+    },
+    {
+      "start_time": 1414.001,
+      "end_time": 1416.999,
+      "annotation": [
+        {
+          "text": "It was December. What did you see in Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a20d89e4-d5bd-490f-ba98-e5cbc92d9132"
+    },
+    {
+      "start_time": 1417,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "text": "What did I see? It was a tragedy. Because Germans in general, like I said, among other things, I was made to clear roads. I had to remove snow from roads for free. I had to go to work and, in general, carry out various dirty jobs like many other people."
+        }
+      ],
+      "tags": [],
+      "uuid": "4beac568-50d4-4d00-99b7-5affc8ebb5ea"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1443.252,
+      "annotation": [
+        {
+          "text": "Tell me, when you went back to Gora Kalwaria, were there armbands already? Or not yet?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e30027fe-4541-46ae-a4ee-fe2c47ccfc54"
+    },
+    {
+      "start_time": 1443.253,
+      "end_time": 1445.2,
+      "annotation": [
+        {
+          "text": "Yes, there were armbands already."
+        }
+      ],
+      "tags": [],
+      "uuid": "4ff7b360-c5a6-4075-9ccd-61cd91b24769"
+    },
+    {
+      "start_time": 1444,
+      "end_time": 1445.999,
+      "annotation": [
+        {
+          "text": "There were? And you put on an armband?"
+        }
+      ],
+      "tags": [],
+      "uuid": "1185a577-011d-4134-aff9-6663b2dbea13"
+    },
+    {
+      "start_time": 1446,
+      "end_time": 1447,
+      "annotation": [
+        {
+          "text": "Sure I did."
+        }
+      ],
+      "tags": [],
+      "uuid": "a9a1e8e3-8209-4ed1-a3e4-f8babfab7775"
+    },
+    {
+      "start_time": 1447.001,
+      "end_time": 1448.8,
+      "annotation": [
+        {
+          "text": "Because everybody knew you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c62d960a-a819-416b-9c11-60bdb40e9716"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1449,
+      "annotation": [
+        {
+          "text": "Well, yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "c5d4e55a-0fb9-4068-ad6d-5d8600634e2a"
+    },
+    {
+      "start_time": 1450,
+      "end_time": 1453.968,
+      "annotation": [
+        {
+          "text": "What did your mother and fam… and your brother and sister say?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8238b243-383f-4945-a2d9-0e588bdc23fe"
+    },
+    {
+      "start_time": 1452,
+      "end_time": 1453.4,
+      "annotation": [
+        {
+          "text": "The same as everybody else."
+        }
+      ],
+      "tags": [],
+      "uuid": "f3b4d62e-15ac-4228-93fe-d9b30fc7b76c"
+    },
+    {
+      "start_time": 1453.401,
+      "end_time": 1455.944,
+      "annotation": [
+        {
+          "text": "What did they tell you about the first period?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5e3ded21-0bf2-4a1c-b401-5112f9ddad5c"
+    },
+    {
+      "start_time": 1456,
+      "end_time": 1464,
+      "annotation": [
+        {
+          "text": "My mother was rather unhappy. She kept saying: ‘Pity you didn’t tell me you were coming, you should have stayed where you were because now you can see what is awaiting us here’. But we stayed almost the whole year in Gora Kalwaria and it wasn’t until February 25th or 26th that the general forced relocation took place."
+        }
+      ],
+      "tags": [],
+      "uuid": "58eb8c70-90cd-4142-8a4e-c9b9121ef305"
+    },
+    {
+      "start_time": 1478,
+      "end_time": 1479,
+      "annotation": [
+        {
+          "text": "1941?"
+        }
+      ],
+      "tags": [],
+      "uuid": "fba6af5b-016a-4d7f-8edc-b6091fa81c5d"
+    },
+    {
+      "start_time": 1480,
+      "end_time": 1485.568,
+      "annotation": [
+        {
+          "text": "1941. February 25th or 26th, 1941. The order came that all Jews were to leave the town."
+        }
+      ],
+      "tags": [],
+      "uuid": "f4f20526-8fa9-4f19-a368-56186f5bf569"
+    },
+    {
+      "start_time": 1488,
+      "end_time": 1489.2,
+      "annotation": [
+        {
+          "text": "And until then?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a7104176-1e06-4127-9a21-199dfe8983ed"
+    },
+    {
+      "start_time": 1490,
+      "end_time": 1491.68,
+      "annotation": [
+        {
+          "text": "To the Warsaw ghetto."
+        }
+      ],
+      "tags": [],
+      "uuid": "3914790b-cff1-46dd-beb3-7ad86a61f6c6"
+    },
+    {
+      "start_time": 1492,
+      "end_time": 1493.999,
+      "annotation": [
+        {
+          "text": "No, I mean until February 1941. How was it?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5fad2c38-ebe7-4a69-b2e0-812232b0cedf"
+    },
+    {
+      "start_time": 1494,
+      "end_time": 1502,
+      "annotation": [
+        {
+          "text": "By February, Germans had set up the ghetto in Gora Kalwaria in July 1940. They were setting up the ghetto. The Polish population had to move into the Jewish flats and the Jews had to move into the Polish flats where the ghetto was."
+        }
+      ],
+      "tags": [],
+      "uuid": "16356dc2-44ae-4f7d-9c9c-adcae8a742c0"
+    },
+    {
+      "start_time": 1515,
+      "end_time": 1520.248,
+      "annotation": [
+        {
+          "text": "Because residents, I understand, the Polish and Jewish residents mixed in general?"
+        }
+      ],
+      "tags": [],
+      "uuid": "379b2c43-c803-43b5-a5b9-fd9d302e5eee"
+    },
+    {
+      "start_time": 1521,
+      "end_time": 1523.999,
+      "annotation": [
+        {
+          "text": "They were mixed so some had to leave and others came."
+        }
+      ],
+      "tags": [],
+      "uuid": "5e42d415-d247-4fba-90c7-098a9267ebdb"
+    },
+    {
+      "start_time": 1524,
+      "end_time": 1525,
+      "annotation": [
+        {
+          "text": "In July?"
+        }
+      ],
+      "tags": [],
+      "uuid": "53f3af9a-1c32-4c30-9bfd-1d28e40f24ff"
+    },
+    {
+      "start_time": 1525,
+      "end_time": 1526,
+      "annotation": [
+        {
+          "text": "In July."
+        }
+      ],
+      "tags": [],
+      "uuid": "e1a8fd6a-fe0d-46f1-977b-bfa71a8db3e1"
+    },
+    {
+      "start_time": 1526.001,
+      "end_time": 1528.167,
+      "annotation": [
+        {
+          "text": "The ghetto was set up in July 1940."
+        }
+      ],
+      "tags": [],
+      "uuid": "d10b9fb8-7b9f-44d9-9d0a-455e51ad3dd0"
+    },
+    {
+      "start_time": 1528.168,
+      "end_time": 1530.467,
+      "annotation": [
+        {
+          "text": "Starting from July, from July onward."
+        }
+      ],
+      "tags": [],
+      "uuid": "eec3652c-fa96-4e18-920b-7a7cefebcba6"
+    },
+    {
+      "start_time": 1529,
+      "end_time": 1531.067,
+      "annotation": [
+        {
+          "text": "And what was it like until July?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3f8bb6c1-fb0d-4309-abf2-f2c6f940d950"
+    },
+    {
+      "start_time": 1531.068,
+      "end_time": 1539,
+      "annotation": [
+        {
+          "text": "The Jews could still go outside the town, when possible, they could buy food until July. Only work was compulsory. They had to report for work: 60, 100 or 50 persons, as many as requested by the Germans."
+        }
+      ],
+      "tags": [],
+      "uuid": "cd4ac7aa-f99c-46b8-8dfb-17debed8ab6c"
+    },
+    {
+      "start_time": 1549,
+      "end_time": 1550,
+      "annotation": [
+        {
+          "text": "But who?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e22c4086-33ad-452d-a70e-6808dd4bbe0a"
+    },
+    {
+      "start_time": 1549,
+      "end_time": 1550.68,
+      "annotation": [
+        {
+          "text": "Aged 16 to thir... to 60."
+        }
+      ],
+      "tags": [],
+      "uuid": "c24346ce-e0b4-4057-94b3-a6e2ecdffbd7"
+    },
+    {
+      "start_time": 1551,
+      "end_time": 1553.45,
+      "annotation": [
+        {
+          "text": "Who decided about the persons going to work?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8ab832c1-17a5-4836-873f-acff71044088"
+    },
+    {
+      "start_time": 1553.451,
+      "end_time": 1559.168,
+      "annotation": [
+        {
+          "text": "Well, the mayor. The mayor of the town of Gora Kalwaria. At the time, it was a German called Janke."
+        }
+      ],
+      "tags": [],
+      "uuid": "a0e36783-0abf-4670-990f-12d3126f6bd0"
+    },
+    {
+      "start_time": 1559.169,
+      "end_time": 1562.228,
+      "annotation": [
+        {
+          "text": "There was no Judenrat Jewish Council in Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7985f74c-88f4-4bf0-b4ec-4af377cf7c19"
+    },
+    {
+      "start_time": 1562.229,
+      "end_time": 1565.712,
+      "annotation": [
+        {
+          "text": "There was and the Judenrat designated the people for work."
+        }
+      ],
+      "tags": [],
+      "uuid": "197a26d6-166e-4aba-b58d-ac710c3068af"
+    },
+    {
+      "start_time": 1564,
+      "end_time": 1565,
+      "annotation": [
+        {
+          "text": "Designated."
+        }
+      ],
+      "tags": [],
+      "uuid": "1e370741-bec7-4f4f-a306-7e6dae91417c"
+    },
+    {
+      "start_time": 1565.001,
+      "end_time": 1566.22,
+      "annotation": [
+        {
+          "text": "Yes, the Judenrat."
+        }
+      ],
+      "tags": [],
+      "uuid": "2566e71e-e6a6-462c-bd1d-2e1dab30e43d"
+    },
+    {
+      "start_time": 1566.221,
+      "end_time": 1568.467,
+      "annotation": [
+        {
+          "text": "Who were the members of the Judenrat?"
+        }
+      ],
+      "tags": [],
+      "uuid": "619b1210-3cee-4d92-b3e2-5235cc30bf30"
+    },
+    {
+      "start_time": 1567,
+      "end_time": 1568.68,
+      "annotation": [
+        {
+          "text": "Members of the Judenrat?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f56f88b7-bf58-4224-b8dc-269de964cafe"
+    },
+    {
+      "start_time": 1569,
+      "end_time": 1570.26,
+      "annotation": [
+        {
+          "text": "Yes, who were they?"
+        }
+      ],
+      "tags": [],
+      "uuid": "05a4b47c-4405-4d3f-ae68-67108d7b4ee6"
+    },
+    {
+      "start_time": 1570.261,
+      "end_time": 1578,
+      "annotation": [
+        {
+          "text": "Well, there were the Orthodox Jews... there were the Hasidic Jews and the progressive Jews, the same leaders that were there before"
+        }
+      ],
+      "tags": [],
+      "uuid": "780c53c6-034f-417b-8610-1c44dfb6eb29"
+    },
+    {
+      "start_time": 1575,
+      "end_time": 1576.68,
+      "annotation": [
+        {
+          "text": "Meaning those were..."
+        }
+      ],
+      "tags": [],
+      "uuid": "960841b1-21f0-401f-834c-970a9e3d600e"
+    },
+    {
+      "start_time": 1577,
+      "end_time": 1581.784,
+      "annotation": [
+        {
+          "text": "It was a Jewish community so it was the leadership of the community, still activelater."
+        }
+      ],
+      "tags": [],
+      "uuid": "bd2da4f8-4ea6-4458-b38f-e35ec56c1d9c"
+    },
+    {
+      "start_time": 1581.785,
+      "end_time": 1583.467,
+      "annotation": [
+        {
+          "text": "Were they relatively known activists?"
+        }
+      ],
+      "tags": [],
+      "uuid": "231bab7d-420c-452b-b63e-ea7833d619df"
+    },
+    {
+      "start_time": 1583.468,
+      "end_time": 1590.468,
+      "annotation": [
+        {
+          "text": "Activists, known activists from every organization. The majority were the Orthodox Jews because they were the largest group."
+        }
+      ],
+      "tags": [],
+      "uuid": "02941ae6-e4c1-4379-a8d0-df7ee4697bc2"
+    },
+    {
+      "start_time": 1590.469,
+      "end_time": 1595.999,
+      "annotation": [
+        {
+          "text": "Did it happen in the same way as in other towns and cities? When the Germans arrived in Gora Kalwaria, they summoned one of the Jewish elders?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0b521058-c7e5-418f-b0c7-52764d387175"
+    },
+    {
+      "start_time": 1596,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "text": "Yes, yes, yes, just the same, they summoned the elder and said that the Jews were to comply with all orders and regulations issued by the Germans. Otherwise, there was death penalty even though the ghetto was not in place yet."
+        }
+      ],
+      "tags": [],
+      "uuid": "df18e9cc-3efd-4ab5-a8b0-47e71681a2b6"
+    },
+    {
+      "start_time": 1609,
+      "end_time": 1610.6,
+      "annotation": [
+        {
+          "text": "And compulsory work."
+        }
+      ],
+      "tags": [],
+      "uuid": "52bc2b10-954d-4e95-93b6-c8b7a53bc9c2"
+    },
+    {
+      "start_time": 1611,
+      "end_time": 1613.9,
+      "annotation": [
+        {
+          "text": "Compulsory. Work was compulsory, compulsory."
+        }
+      ],
+      "tags": [],
+      "uuid": "c56c48f2-d2bd-4189-853f-8ed96276cf6a"
+    },
+    {
+      "start_time": 1615,
+      "end_time": 1618.328,
+      "annotation": [
+        {
+          "text": "You mean 60 persons? Were all involved in that work?"
+        }
+      ],
+      "tags": [],
+      "uuid": "df5748c4-28d5-400d-b9c8-5f7c4cb41acd"
+    },
+    {
+      "start_time": 1617,
+      "end_time": 1625,
+      "annotation": [
+        {
+          "text": "Everybody, there was no difference. Everybody, each person designated inaudible by the Judenrat had to report... for work in front of the town hall starting from 7 am. The Germans would then come and take them to perform various onerous jobs. It was predominantly dirty work such as cleaning toilets, stables etc."
+        }
+      ],
+      "tags": [],
+      "uuid": "94e8c844-0c26-4060-a2a4-c37606789b93"
+    },
+    {
+      "start_time": 1642,
+      "end_time": 1648.08,
+      "annotation": [
+        {
+          "text": "It is not... Did the Judenrat designate all persons or were there some people who did not work?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3bc22fbe-0563-42b3-a312-e194aa9c06f5"
+    },
+    {
+      "start_time": 1649,
+      "end_time": 1652.136,
+      "annotation": [
+        {
+          "text": "In rare cases. Probably the sick and the elderly."
+        }
+      ],
+      "tags": [],
+      "uuid": "5f6ae7ed-f3f2-416f-a946-42d43bb5cc59"
+    },
+    {
+      "start_time": 1653,
+      "end_time": 1655.434,
+      "annotation": [
+        {
+          "text": "Did you have any permanent job at the time?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6793dc3-3515-4d92-a9c7-4f97bafafa92"
+    },
+    {
+      "start_time": 1655.435,
+      "end_time": 1657.4,
+      "annotation": [
+        {
+          "text": "Did I have a permanent job? Well, as as..."
+        }
+      ],
+      "tags": [],
+      "uuid": "e3875bda-c825-4bd5-aeae-bdcf615f67a1"
+    },
+    {
+      "start_time": 1657.401,
+      "end_time": 1659.667,
+      "annotation": [
+        {
+          "text": "In addition to forced labor assignments."
+        }
+      ],
+      "tags": [],
+      "uuid": "69beb612-1626-4549-bd82-5adb596e16b9"
+    },
+    {
+      "start_time": 1658,
+      "end_time": 1666,
+      "annotation": [
+        {
+          "text": "A tailor, I sewed in my free time because customers would come to me. The Catholics came to me as long as they were allowed. I sewed for them whenever I could. Of course, I charged very low rates but at least I could sew."
+        }
+      ],
+      "tags": [],
+      "uuid": "6fcf4645-e6ed-4d1e-afa9-e08cc64761d9"
+    },
+    {
+      "start_time": 1670,
+      "end_time": 1671.6,
+      "annotation": [
+        {
+          "text": "And where did you..."
+        }
+      ],
+      "tags": [],
+      "uuid": "0ed9fa0e-5251-43b4-87d4-866944cab2ed"
+    },
+    {
+      "start_time": 1672,
+      "end_time": 1673.26,
+      "annotation": [
+        {
+          "text": "During that period."
+        }
+      ],
+      "tags": [],
+      "uuid": "d63cb9ba-595e-43f8-8cb8-736363d3a642"
+    },
+    {
+      "start_time": 1674,
+      "end_time": 1675,
+      "annotation": [
+        {
+          "text": "Yes, yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "93898362-834c-4163-998c-14acc1dd3524"
+    },
+    {
+      "start_time": 1675.001,
+      "end_time": 1677.292,
+      "annotation": [
+        {
+          "text": "Were you also involved in that forced labor assignments?"
+        }
+      ],
+      "tags": [],
+      "uuid": "09868619-0eb5-4d44-817f-061724d6f6c5"
+    },
+    {
+      "start_time": 1677.293,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "text": "Well, of course. When I was designated for work, I had to report at 7 am and work until 4 or 5 pm. I still had some free time so I could, I had to do something."
+        }
+      ],
+      "tags": [],
+      "uuid": "d392a708-fac8-4313-b15c-28f8b668e15a"
+    },
+    {
+      "start_time": 1689,
+      "end_time": 1690.1,
+      "annotation": [
+        {
+          "text": "And how was it?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8b67e488-c236-46c0-829d-59d031ae24f3"
+    },
+    {
+      "start_time": 1690.101,
+      "end_time": 1691.68,
+      "annotation": [
+        {
+          "text": "It was hard, believe me."
+        }
+      ],
+      "tags": [],
+      "uuid": "daf23706-5918-4fc9-84ed-0f7365b60e86"
+    },
+    {
+      "start_time": 1692,
+      "end_time": 1693.933,
+      "annotation": [
+        {
+          "text": "What kind of work did you do?"
+        }
+      ],
+      "tags": [],
+      "uuid": "545622a4-12d4-4713-808c-3f03b69459ee"
+    },
+    {
+      "start_time": 1693,
+      "end_time": 1701,
+      "annotation": [
+        {
+          "text": "I had to go and clear snow from roads. I once had to go to the barracks and take out some garbage. One time they took me to the stables because they knew that I had been in the army and that I am familiar with the job. I was told to clean those... I had to remove horse manure from stables. Well, I did all that. Obviously, later on they took us into the ghetto, then from the ghetto..."
+        }
+      ],
+      "tags": [],
+      "uuid": "5802c00a-9dde-4cc6-b19f-738c5d9156cb"
+    },
+    {
+      "start_time": 1721,
+      "end_time": 1722.68,
+      "annotation": [
+        {
+          "text": "How about your mother?"
+        }
+      ],
+      "tags": [],
+      "uuid": "fb88430a-536a-40c6-8be0-2b33f57a6fe3"
+    },
+    {
+      "start_time": 1723,
+      "end_time": 1731,
+      "annotation": [
+        {
+          "text": "My mother was an elderly woman. She was suffering from poor health so they didn’t take her to work. She stayed at home as far as possible. When she felt well enough, she continued to sew as long as she was allowed to. And later she couldn’t sew, the customers stopped coming because it was forbidden."
+        }
+      ],
+      "tags": [],
+      "uuid": "8aa30b1f-f990-4f5d-bbe5-d9ccb436a5b2"
+    },
+    {
+      "start_time": 1738,
+      "end_time": 1742.224,
+      "annotation": [
+        {
+          "text": "During that period until July 1940, was there hunger, for example?"
+        }
+      ],
+      "tags": [],
+      "uuid": "dfce0728-b419-40e8-9af6-5114f4f52151"
+    },
+    {
+      "start_time": 1743,
+      "end_time": 1744.867,
+      "annotation": [
+        {
+          "text": "We were hungry from day one."
+        }
+      ],
+      "tags": [],
+      "uuid": "8c9ee2cb-cffb-4c45-9eb5-ebfd102f44b8"
+    },
+    {
+      "start_time": 1744,
+      "end_time": 1744.999,
+      "annotation": [
+        {
+          "text": "From day one."
+        }
+      ],
+      "tags": [],
+      "uuid": "ec8f187d-ca69-4325-a7c7-9b087d3f5e53"
+    },
+    {
+      "start_time": 1745,
+      "end_time": 1753,
+      "annotation": [
+        {
+          "text": "In Gora Kalwaria, 80% of the Jewish population were poor. Just poor people. Those 20% were, more or less, craftsmen and merchants and such. They were slightly better off. You could count rich people on the fingers of your hands only. There were maybe five or six rich persons."
+        }
+      ],
+      "tags": [],
+      "uuid": "5978c7fa-cca0-4ac2-80aa-4671c8a299c9"
+    },
+    {
+      "start_time": 1763,
+      "end_time": 1767.304,
+      "annotation": [
+        {
+          "text": "Did the Judenrat organize any help for the poor? Did they hand out food?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2dbf15b9-8267-45fb-a3df-e0c07f348e5b"
+    },
+    {
+      "start_time": 1767.305,
+      "end_time": 1768.867,
+      "annotation": [
+        {
+          "text": "Well, they arranged lunches."
+        }
+      ],
+      "tags": [],
+      "uuid": "a784a51e-b49d-468a-b5a2-89ae8c86f14b"
+    },
+    {
+      "start_time": 1768,
+      "end_time": 1769,
+      "annotation": [
+        {
+          "text": "Lunches?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e73296c8-99e6-4f05-9fd1-4bc871f8ce50"
+    },
+    {
+      "start_time": 1769.001,
+      "end_time": 1777,
+      "annotation": [
+        {
+          "text": "From the moment they had organized themselves, the Judenrat was established and they started offering lunches but what difference would those lunches make? What that lunch, that little soup, could change for those poor?"
+        }
+      ],
+      "tags": [],
+      "uuid": "50dbb3d9-0b62-4617-8e0f-8c1ad008a3c5"
+    },
+    {
+      "start_time": 1784,
+      "end_time": 1785,
+      "annotation": [
+        {
+          "text": "For all?"
+        }
+      ],
+      "tags": [],
+      "uuid": "52675498-0266-4f81-acde-a2f187edda62"
+    },
+    {
+      "start_time": 1785.001,
+      "end_time": 1787.4,
+      "annotation": [
+        {
+          "text": "Whoever wanted could get that lunch."
+        }
+      ],
+      "tags": [],
+      "uuid": "db15e735-7f7d-4fce-b583-d9ffde5da19e"
+    }
+  ]
+}

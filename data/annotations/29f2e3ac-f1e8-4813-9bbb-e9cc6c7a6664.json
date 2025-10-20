@@ -1,0 +1,1877 @@
+{
+  "event_id": "8b41c048-8dfc-4d58-8fc4-da97aff26c96",
+  "source_id": "f0a51614-9dee-4055-a8bd-d66c950dfaba",
+  "set": "English Transcript [Transcript]",
+  "annotations": [
+    {
+      "start_time": 30,
+      "end_time": 32,
+      "annotation": [
+        {
+          "text": "Interviewer: Good. So, we can now talk freely."
+        }
+      ],
+      "tags": [],
+      "uuid": "a4c82406-b862-4ac4-b371-275d5cb40a46"
+    },
+    {
+      "start_time": 32,
+      "end_time": 33,
+      "annotation": [
+        {
+          "text": "Subject: Right now?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2d3da936-5940-4738-90a8-819d3880397f"
+    },
+    {
+      "start_time": 33,
+      "end_time": 35,
+      "annotation": [
+        {
+          "text": "Interviewer: I mean no, it’s just for..."
+        }
+      ],
+      "tags": [],
+      "uuid": "fc2e139c-0355-454e-999a-d7a545722be8"
+    },
+    {
+      "start_time": 35,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Subject: When they say so, I will speak normally, yes, obviously, I’m touched, there’s no doubt, it’s not on yet, I think..."
+        }
+      ],
+      "tags": [],
+      "uuid": "61edbf12-9384-4706-b0cb-55d53d796e52"
+    },
+    {
+      "start_time": 44,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Interviewer: No, no."
+        }
+      ],
+      "tags": [],
+      "uuid": "394e6f05-8490-4f9b-8f0d-2b8be456811f"
+    },
+    {
+      "start_time": 44,
+      "end_time": 63,
+      "annotation": [
+        {
+          "text": "Interviewer: Here we go."
+        }
+      ],
+      "tags": [],
+      "uuid": "31ebc9fa-38d1-4bc0-977c-94038c99e9e2"
+    },
+    {
+      "start_time": 63,
+      "end_time": 129,
+      "annotation": [
+        {
+          "text": "Subject: I come from a small town situated to the south of Warsaw. It’s called Gora Kalwaria. Like in all small towns in Poland, there was a fairly large Jewish community living in Gora Kalwaria. One can say that Gora Kalwaria was inhabited by Catholics in 50% and Jews in 50%. However, Gora Kalwaria differed from other towns... small provincial towns in that it was where the famous tzaddik from the Alter family lived and where very large conventions took place. Especially for holidays such as Yom Kippur, Rosh Hashanah, which is the New Year and Shavuot. Very many people would then come to Gora Kalwaria on a pilgrimage to see that tzaddik. That was precisely what distinguished Gora Kalwaria from other towns in Poland."
+        }
+      ],
+      "tags": [],
+      "uuid": "0cbe3e4b-51e2-44d4-81d0-a76d3749a9cd"
+    },
+    {
+      "start_time": 129,
+      "end_time": 134,
+      "annotation": [
+        {
+          "text": "Interviewer: I’m very sorry. Can you tell us your name, please?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3359b888-23c1-4aac-afe4-080a421ed77f"
+    },
+    {
+      "start_time": 134,
+      "end_time": 142,
+      "annotation": [
+        {
+          "text": "Subject: Sure. My name is Henryk Prajs [Prais]. I was born in Gora Kalwaria. I am 78 as we speak."
+        }
+      ],
+      "tags": [],
+      "uuid": "bc8a98d6-6f75-442c-8a9a-ca98ed9869a0"
+    },
+    {
+      "start_time": 142,
+      "end_time": 146,
+      "annotation": [
+        {
+          "text": "Interviewer: You were born in the year one thousand..."
+        }
+      ],
+      "tags": [],
+      "uuid": "d745c99d-e286-4037-a9b7-28964cadacca"
+    },
+    {
+      "start_time": 146,
+      "end_time": 244,
+      "annotation": [
+        {
+          "text": "Subject: In what year? One thousand nine hundred and sixteen, 30 December 1916. That’s more or less it. I was born in a poor family. I cannot say we were rich because I didn’t have a father at all. My father was killed by bandits, specifically bandits. It was a mugging, in nineteen twenty-one, I think, or twenty-two. I was very young. How old could I have been at the time? Well [inaudible], I could have been two or three years old, no more than that. So, this could have even been in 1918, yes. So, I don’t remember my father. I was raised. We were three children. Our mother was a seamstress. She tried very hard to give us any minimum education she could in the form of elementary school. At the time, it was called common school. I went to school as soon as I turned seven. I have very fond memories of my school time. Teachers were very friendly to us, in general to Jewish children. Overall, Gora Kalwaria was specific as there was no anti-Semitism during the pre-war period. The Polish and Jewish communities lived very well together."
+        }
+      ],
+      "tags": [],
+      "uuid": "e9cd49f3-21a4-4be5-9820-619433237ece"
+    },
+    {
+      "start_time": 244,
+      "end_time": 246,
+      "annotation": [
+        {
+          "text": "Interviewer: Do you come from a religious family?"
+        }
+      ],
+      "tags": [],
+      "uuid": "1139f331-bd95-4f02-8c6a-fa9fd11eecd3"
+    },
+    {
+      "start_time": 246,
+      "end_time": 253,
+      "annotation": [
+        {
+          "text": "Subject: Myself? No. I come from a non-religious family. Mine was a progressive Jewish family. So it was."
+        }
+      ],
+      "tags": [],
+      "uuid": "77e76f38-9854-406a-a169-f81d99088d59"
+    },
+    {
+      "start_time": 253,
+      "end_time": 253,
+      "annotation": [
+        {
+          "text": "Interviewer: OK."
+        }
+      ],
+      "tags": [],
+      "uuid": "746a0b6b-9373-4dcd-9528-10f58a4585cd"
+    },
+    {
+      "start_time": 253,
+      "end_time": 304,
+      "annotation": [
+        {
+          "text": "Subject: So I was not a Hasidic Jew. I was normal like any other Jewish child. I attended the Polish general [elementary] education school and at the same time I learned Jewish language at the Jewish school, the so-called heder. Simultaneously, I learned some Hebrew as it was called at the time and ivrit at present. It used to be called Hebrew. This is how I have come to know some Hebrew. I was a fairly good student as far as it was possible. I completed 6 grades of elementary... general education school. I could not continue schooling because my family did not have enough money. We did not have money, so I learned... I learned the profession of a tailor. I studied it for a few years. Later..."
+        }
+      ],
+      "tags": [],
+      "uuid": "167eb433-1042-4c1d-97c4-fab661a447e0"
+    },
+    {
+      "start_time": 304,
+      "end_time": 306,
+      "annotation": [
+        {
+          "text": "Interviewer: But where? Also in Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "fba56281-0464-4a71-9dd6-84a9557bc6e7"
+    },
+    {
+      "start_time": 306,
+      "end_time": 312,
+      "annotation": [
+        {
+          "text": "Subject: Yes, in Gora Kalwaria. My master tailor’s name was Cybula. Precisely Cybula, that was his name."
+        }
+      ],
+      "tags": [],
+      "uuid": "52875b43-c6ae-44aa-a5e9-457198c620d9"
+    },
+    {
+      "start_time": 312,
+      "end_time": 314,
+      "annotation": [
+        {
+          "text": "Interviewer: He was a Pole?"
+        }
+      ],
+      "tags": [],
+      "uuid": "054d8a93-e54a-4db9-a6ec-74e423ad6327"
+    },
+    {
+      "start_time": 314,
+      "end_time": 343,
+      "annotation": [
+        {
+          "text": "Subject: No, he was Jewish, yes. I learned the profession there, I worked as his apprentice for maybe three years. Afterwards, I worked for Gorecki who was a Catholic. Gorecki. I don’t even recall his first name, but his last name was Gorecki. I worked in his workshop for 2 years probably and I also worked for Jasinski for 2 years as a tailor. And then came the army period."
+        }
+      ],
+      "tags": [],
+      "uuid": "8815ee55-ef83-4d7f-ac33-defeb1025d02"
+    },
+    {
+      "start_time": 343,
+      "end_time": 351,
+      "annotation": [
+        {
+          "text": "Interviewer: Please tell me one more thing, you were talking about Gorka Kalwaria, how many residents were there when you were born and during your childhood?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a475d8e3-d44a-46d0-b4ad-25817e12c35e"
+    },
+    {
+      "start_time": 351,
+      "end_time": 369,
+      "annotation": [
+        {
+          "text": "Subject: How many residents were there? Overall, Gora Kalwaria had approx. 7,000 residents. Of those, there were some 3,000 Jews and some 4,000 Poles. I mean in total Gora Kalwaria with the, how do you call them, sub...."
+        }
+      ],
+      "tags": [],
+      "uuid": "1c0829d0-ecb6-42e6-8ae0-e479a47c6982"
+    },
+    {
+      "start_time": 369,
+      "end_time": 370,
+      "annotation": [
+        {
+          "text": "Interviewer: With peripheries?"
+        }
+      ],
+      "tags": [],
+      "uuid": "98ad1a68-ac7a-40bd-8351-11b1838e44be"
+    },
+    {
+      "start_time": 370,
+      "end_time": 378,
+      "annotation": [
+        {
+          "text": "Subject: Yes yes but they are called, sub... no, not an auberge, it’s called, you know those, those, not just Gora Kalwaria but those"
+        }
+      ],
+      "tags": [],
+      "uuid": "8706a6fc-0d96-4e29-8abd-c6dc228ea9e6"
+    },
+    {
+      "start_time": 378,
+      "end_time": 379,
+      "annotation": [
+        {
+          "text": "Interviewer: Peripheries?"
+        }
+      ],
+      "tags": [],
+      "uuid": "403bf4e2-3870-4d00-a0de-b2b9d44af99e"
+    },
+    {
+      "start_time": 379,
+      "end_time": 380,
+      "annotation": [
+        {
+          "text": "Subject: Right, peripheries, no but"
+        }
+      ],
+      "tags": [],
+      "uuid": "a8bf3e57-8055-430a-98e0-c5913b03dc21"
+    },
+    {
+      "start_time": 380,
+      "end_time": 381,
+      "annotation": [
+        {
+          "text": "Interviewer: Mountains"
+        }
+      ],
+      "tags": [],
+      "uuid": "6fecce07-a4b8-4be0-97ec-bd4d8743bb68"
+    },
+    {
+      "start_time": 381,
+      "end_time": 381,
+      "annotation": [
+        {
+          "text": "Subject: May, may, may be [that could be it, maybe]"
+        }
+      ],
+      "tags": [],
+      "uuid": "bb0e5063-b748-4e0f-a274-f76c52c9b8de"
+    },
+    {
+      "start_time": 381,
+      "end_time": 383,
+      "annotation": [
+        {
+          "text": "Interviewer: Outskirts of Gora Kalwaria,"
+        }
+      ],
+      "tags": [],
+      "uuid": "aa5b5c57-d80b-4f2f-a004-ec0c9a79ce0d"
+    },
+    {
+      "start_time": 383,
+      "end_time": 384,
+      "annotation": [
+        {
+          "text": "Subject: Oh, yes, this is what I meant."
+        }
+      ],
+      "tags": [],
+      "uuid": "7997982e-9611-4192-92dc-26f4bb8402e3"
+    },
+    {
+      "start_time": 384,
+      "end_time": 388,
+      "annotation": [
+        {
+          "text": "Interviewer: So there were 3,000 Jewish residents?"
+        }
+      ],
+      "tags": [],
+      "uuid": "1dbea762-b0ac-4f48-9f54-0d0ca4aa9ca8"
+    },
+    {
+      "start_time": 388,
+      "end_time": 388,
+      "annotation": [
+        {
+          "text": "Subject: How many were there? That’s correct."
+        }
+      ],
+      "tags": [],
+      "uuid": "7e6be043-4d7f-42a2-b379-542b4ae3fe37"
+    },
+    {
+      "start_time": 388,
+      "end_time": 393,
+      "annotation": [
+        {
+          "text": "Interviewer: Three thousand. And what were the orientations among them? As far as I understand, there was, after all, a very strong Hasidic group."
+        }
+      ],
+      "tags": [],
+      "uuid": "00b64662-21ca-40cf-848e-85381dc0f9b8"
+    },
+    {
+      "start_time": 393,
+      "end_time": 420,
+      "annotation": [
+        {
+          "text": "Subject: Well, there were very many craftsmen. Among other things, I wrote so in my memoirs. Predominantly Gora Kalwaria because there were no factories at the time, none. There were just small shops and craftsmen, namely tailoring, shoemaking, boot-making, knit cap making, saddle-making and such, as well as carpentry and baking. This is what the whole of Gora Kalwaria was made of because no other (...)"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6d7f5f2-ebc6-4e32-9185-7cd45a61d2bc"
+    },
+    {
+      "start_time": 420,
+      "end_time": 420,
+      "annotation": [
+        {
+          "text": "Interviewer: How many religious Jews, Hasidic Jews, were there?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5f2c8815-0244-4164-99ca-e12a078f7a5f"
+    },
+    {
+      "start_time": 420,
+      "end_time": 464,
+      "annotation": [
+        {
+          "text": "Subject: Religious ones? When it comes to religious Jews, there were few. I mean there were more progressive Jews the way I described it, simple Jews. As our great writer, Sholom Aleichem, once wrote, ‘we come from folk’. Those Jews were religious, no doubt they were religious, but they were progressive. They did not wear those Orthodox clothes but dressed normally like Europeans.  Jews, those Hasidic Jews could have been in Gora Kalwaria (...) if there were three thousand Jews, roughly 1,000 were followers but no, not followers of Gora, not followers of the tzaddik, let me stress that, but just regular followers of Hasidic Judaism."
+        }
+      ],
+      "tags": [],
+      "uuid": "3f31eaed-cfd2-43d6-a2a5-2a7cdb255e98"
+    },
+    {
+      "start_time": 464,
+      "end_time": 465,
+      "annotation": [
+        {
+          "text": "Interviewer: Various orientations"
+        }
+      ],
+      "tags": [],
+      "uuid": "e09fce73-166f-4c33-9eec-b13bdabfdf52"
+    },
+    {
+      "start_time": 465,
+      "end_time": 477,
+      "annotation": [
+        {
+          "text": "Subject: Yes, yes, yes, different orientations because just like they were part of, they had their rabbi in Kozienice, in Klodzko and in Gora Kalwaria there were also, I mean there were supporters of that tzaddik from Gora Kalwaria."
+        }
+      ],
+      "tags": [],
+      "uuid": "56723edc-6cac-432d-82fd-ef8a57758b79"
+    },
+    {
+      "start_time": 477,
+      "end_time": 481,
+      "annotation": [
+        {
+          "text": "Interviewer: And how many supporters were there of that tzaddik from Gora Kalwaria, more or less?"
+        }
+      ],
+      "tags": [],
+      "uuid": "93fa10e7-05a8-481d-8a82-5f29e59447a3"
+    },
+    {
+      "start_time": 481,
+      "end_time": 486,
+      "annotation": [
+        {
+          "text": "Subject: Well, I can say that there were no more than five hundred."
+        }
+      ],
+      "tags": [],
+      "uuid": "3601c96d-6ae9-4a96-a911-705783057723"
+    },
+    {
+      "start_time": 486,
+      "end_time": 486,
+      "annotation": [
+        {
+          "text": "Interviewer: Five hundred."
+        }
+      ],
+      "tags": [],
+      "uuid": "621b9883-78ec-41fb-b13f-b9c94faf9851"
+    },
+    {
+      "start_time": 486,
+      "end_time": 491,
+      "annotation": [
+        {
+          "text": "Subject: He did not have more than 500 followers in Gora Kalwaria."
+        }
+      ],
+      "tags": [],
+      "uuid": "7a708699-7486-469f-a5d3-0c52680d2111"
+    },
+    {
+      "start_time": 491,
+      "end_time": 499,
+      "annotation": [
+        {
+          "text": "Interviewer: Because you are aware that looking at it today, Gora Kalwaria Chasidism are undoubtedly among the main groups in Israel and America."
+        }
+      ],
+      "tags": [],
+      "uuid": "7c0608b5-9e94-4285-abb3-ad5aef45cc35"
+    },
+    {
+      "start_time": 499,
+      "end_time": 532,
+      "annotation": [
+        {
+          "text": "Subject: Yes, one of the main groups, and that’s because Jews, predominantly orthodox Jewscame to Gora Kalwaria from all over Poland. Actually, a lot of Jews from Lodz, very many, from Krakow and in general from all cities in Poland came to Gora Kalwaria to the tzaddik and that’s where his greatness comes from. There is no doubt about that. He was a wise man because very many and even Catholics came to him with various questions, with different how to say it, how to define it"
+        }
+      ],
+      "tags": [],
+      "uuid": "a6829aae-df33-4fcb-80eb-c7d3e2ebaf8f"
+    },
+    {
+      "start_time": 532,
+      "end_time": 536,
+      "annotation": [
+        {
+          "text": "Interviewer: Questions, kushiyot."
+        }
+      ],
+      "tags": [],
+      "uuid": "da5d8b4f-1702-469a-9c49-9e264faa27ec"
+    },
+    {
+      "start_time": 536,
+      "end_time": 536,
+      "annotation": [
+        {
+          "text": "Subject: How?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b7635ad3-8951-4982-a208-03e6db21ee7d"
+    },
+    {
+      "start_time": 536,
+      "end_time": 538,
+      "annotation": [
+        {
+          "text": "Interviewer: Puzzles, questions, problems."
+        }
+      ],
+      "tags": [],
+      "uuid": "41b12818-0957-4585-82df-e0df73bfa518"
+    },
+    {
+      "start_time": 538,
+      "end_time": 567,
+      "annotation": [
+        {
+          "text": "Subject: No, no, questions but still you can say it differently, you can define it differently, guidance, sort of guidance, guidance in general they wanted to do this and that with his knowledge. Among others, there was that well known resident of Gora Kalwaria. His last name was Lech. I don’t recall his first name. He never did anything without the approval of the tzaddik from Gora Kalwaria. Whether he wanted to build or buy something, he always had to come specifically to the tzaddik for advice, yes, advice."
+        }
+      ],
+      "tags": [],
+      "uuid": "277ef22f-3b90-43ab-a631-f53f53d9f1d4"
+    },
+    {
+      "start_time": 567,
+      "end_time": 569,
+      "annotation": [
+        {
+          "text": "Interviewer: Did you meet that tzaddik in the street?"
+        }
+      ],
+      "tags": [],
+      "uuid": "25062a24-4575-4c1b-a4ae-7715be3702d7"
+    },
+    {
+      "start_time": 569,
+      "end_time": 570,
+      "annotation": [
+        {
+          "text": "Subject: Lech?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8c610702-6551-4189-a5d2-78368909dc98"
+    },
+    {
+      "start_time": 570,
+      "end_time": 571,
+      "annotation": [
+        {
+          "text": "Interviewer: No, the tzaddik from Gora Kalwaria, Elster [Alter]?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c01f9f95-469a-4d17-b15a-d848cfa85f30"
+    },
+    {
+      "start_time": 571,
+      "end_time": 573,
+      "annotation": [
+        {
+          "text": "Subject: The tzaddik, he never ventured out, he didn’t make an appearance."
+        }
+      ],
+      "tags": [],
+      "uuid": "89a131b4-2806-4508-9eed-57467050ace4"
+    },
+    {
+      "start_time": 573,
+      "end_time": 573,
+      "annotation": [
+        {
+          "text": "Interviewer: He didn’t go out."
+        }
+      ],
+      "tags": [],
+      "uuid": "32c2a62c-5c54-493b-a58c-380235ea60c4"
+    },
+    {
+      "start_time": 573,
+      "end_time": 599,
+      "annotation": [
+        {
+          "text": "Subject: No, he did not walk around Gora Kalwaria. He did not come out. However, for his followers, he would stroll back and forth on his balcony for 10 or 15 minutes for his followers every Saturday at 3pm. He came out for them. He never spoke a word just made an appearance. His followers stood in the yard and watched him. Obviously, they were happy to be able to see the tzaddik"
+        }
+      ],
+      "tags": [],
+      "uuid": "a95b99dc-a7dc-4e91-9709-23cad297efde"
+    },
+    {
+      "start_time": 599,
+      "end_time": 601,
+      "annotation": [
+        {
+          "text": "Interviewer: And what did his house look like?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4e871930-7b09-4eb1-8045-c34d58f373ae"
+    },
+    {
+      "start_time": 601,
+      "end_time": 603,
+      "annotation": [
+        {
+          "text": "Subject: Pardon?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9c7125aa-9fb5-49bd-8964-4bd1aaa32c4e"
+    },
+    {
+      "start_time": 603,
+      "end_time": 604,
+      "annotation": [
+        {
+          "text": "Interviewer: What did that tzaddik’s house look like?"
+        }
+      ],
+      "tags": [],
+      "uuid": "568ae3f1-26ae-4627-812d-192716618795"
+    },
+    {
+      "start_time": 604,
+      "end_time": 607,
+      "annotation": [
+        {
+          "text": "Subject: What did his house look like? I hardly..."
+        }
+      ],
+      "tags": [],
+      "uuid": "5deac84f-83e7-4145-9854-a84cea290289"
+    },
+    {
+      "start_time": 607,
+      "end_time": 609,
+      "annotation": [
+        {
+          "text": "Interviewer: What I meant is, from the outside, was the house large or small?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2c586b5f-00d7-47e8-bc13-031cb124887f"
+    },
+    {
+      "start_time": 609,
+      "end_time": 612,
+      "annotation": [
+        {
+          "text": "Subject: Oh, you can see that house from the outside that house till the present day."
+        }
+      ],
+      "tags": [],
+      "uuid": "1efdde6e-62cc-4326-878e-c48b1acef39c"
+    },
+    {
+      "start_time": 612,
+      "end_time": 612,
+      "annotation": [
+        {
+          "text": "Interviewer: Can you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "67e578e2-3090-4fb0-b5a7-d51769932641"
+    },
+    {
+      "start_time": 612,
+      "end_time": 632,
+      "annotation": [
+        {
+          "text": "Subject: Yes. There’s no doubt that he lived a slightly better life than an average Jew from Gora Kalwaria.  Before the war, if a Jewish resident lived in a room with a kitchen in Gora Kalwaria, he was considered successful. I must say that myself I grew up in one flat. There was a workshop in that flat and in general my mother did her sewing in the workshop."
+        }
+      ],
+      "tags": [],
+      "uuid": "03717d74-8e5f-47df-a7dc-c806130cd077"
+    },
+    {
+      "start_time": 632,
+      "end_time": 633,
+      "annotation": [
+        {
+          "text": "Interviewer: In a single room?"
+        }
+      ],
+      "tags": [],
+      "uuid": "09549d46-0304-487a-ab02-41d2a6a1935d"
+    },
+    {
+      "start_time": 633,
+      "end_time": 668,
+      "annotation": [
+        {
+          "text": "Subject: In that room. I don’t even want to talk about that. Compared to the present times, that was sad. As far as the tzaddik is concerned, he must have had a number of rooms. The synagogue, still in existence today, was fairly impressive. Nowadays, many pilgrims come from all over the world to see it. Obviously, his followers and not only his followers but Jews in general. This is, they say, proof of recognition of greatness of the tzaddik from Gora Kalwaria."
+        }
+      ],
+      "tags": [],
+      "uuid": "7f8940c5-d703-46fd-bcb4-bcccf6934ba1"
+    },
+    {
+      "start_time": 668,
+      "end_time": 674,
+      "annotation": [
+        {
+          "text": "Interviewer: As the resident of Gora Kalwaria, were you proud that the famous tzaddik lived there? Did you care about it at all?"
+        }
+      ],
+      "tags": [],
+      "uuid": "295ddde0-c7a4-4586-a1df-ecbdbf4f1af5"
+    },
+    {
+      "start_time": 674,
+      "end_time": 836,
+      "annotation": [
+        {
+          "text": "Subject: As far as, as far as, not only me but, in general, it must be said that all residents of Gora Kalwaria, we were maybe not proud, but we were all pleased because Gora Kalwaria during those holidays, as I stressed in the beginning, Yom Kippur, Rosh Hashanah and Shavuot, many people came to Gora Kalwaria.  Please note that [the pilgrims] rented flats there from poorer people. Among others, even though it was a single room my mother rented it out to earn a little money. And, among other things, the town hall also made some money as those who came to Gora Kalwaria had to pay one zloty per head to the town hall. During that that time when, let’s say that up to two thousand [pilgrims] arrived, the estimates would be larger. Not true. Because Gora Kalwaria had 7,000 residents and it could not accommodate more that than up to 2,000 persons. Because where would those people stay? [Inaudible]. They supplemented the state budget, which is the budget of Gora Kalwaria. The mayor was a very righteous man by the name of Dziejko[?] who was truly held in high esteem by all Jews, not only by us. He was also a philosemite. For instance, he insisted that Jews put forward their own candidates for councillors during the election to the town council. We also had a very good police chief, in the final years. His name was Janica. It needs to be said that he, unfortunately, Gora Kalwaria also went through different times when Falanga [ultranationalist, patriotic and antisemitic political movement in Poland] was active in the years 1937-8. In 1939, the war psychosis was already there, and such excesses were less common. But the Jewish stands at fairs were still being destroyed and [people were told] ‘don’t buy from a Jew’. And they came from nearby towns like Warka, Grojec, Karczew or Otwock. The police chief stressed, ‘Watch out Jews, you mustn't give in, defend yourselves by any means. That police chief, he was just a very good man. Unfortunately, he died in Katyn. The entire population deplored the fact that he had been killed there. We couldn’t help him in any way because during that time who would... nobody even knew it. He had left Gora Kalwaria like all policemen who went east and died there, the poor soul. We mourn his death till the present day. Whoever remembers Janica, mourns his death. Now, as far as I’m concerned, well, at the time..."
+        }
+      ],
+      "tags": [],
+      "uuid": "b6512219-41c2-48bb-aeb4-2c6a3b6dcecf"
+    },
+    {
+      "start_time": 836,
+      "end_time": 841,
+      "annotation": [
+        {
+          "text": "Interviewer: Please tell us what were the relations between the local Jewish and Polish communities like in general?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c8d48b10-5595-4a75-9cce-0923668fbc59"
+    },
+    {
+      "start_time": 841,
+      "end_time": 853,
+      "annotation": [
+        {
+          "text": "Subject: As regards those relations, like I stressed, they were very good. Very good. When it comes to anti-Semitism, Gora Kalwaria did not know... did not experience anti-Semitism at all. There was no such thing. No, in general, anti-Semitism was not present among the residents of Gora Kalwaria."
+        }
+      ],
+      "tags": [],
+      "uuid": "9f90ea2f-dd09-4e41-bff2-6e4c81450751"
+    },
+    {
+      "start_time": 853,
+      "end_time": 857,
+      "annotation": [
+        {
+          "text": "Interviewer: Was Polish spoken at your home?"
+        }
+      ],
+      "tags": [],
+      "uuid": "fec2f926-8bed-4a60-b0d2-34a12d5d126c"
+    },
+    {
+      "start_time": 857,
+      "end_time": 858,
+      "annotation": [
+        {
+          "text": "Subject: At our home?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cba7861c-c208-4d16-b480-d73113036432"
+    },
+    {
+      "start_time": 858,
+      "end_time": 859,
+      "annotation": [
+        {
+          "text": "Interviewer: At home."
+        }
+      ],
+      "tags": [],
+      "uuid": "995a3c17-7ca1-4179-8c77-30e8c26f8ce0"
+    },
+    {
+      "start_time": 859,
+      "end_time": 863,
+      "annotation": [
+        {
+          "text": "Subject: Was Polish spoken? We spoke both Polish and Yiddish."
+        }
+      ],
+      "tags": [],
+      "uuid": "c69c9d83-baef-4d58-879d-513300a888e8"
+    },
+    {
+      "start_time": 863,
+      "end_time": 865,
+      "annotation": [
+        {
+          "text": "Interviewer: And what was your first language?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6074d2a3-5d95-415b-ad38-eb2d19a542aa"
+    },
+    {
+      "start_time": 865,
+      "end_time": 866,
+      "annotation": [
+        {
+          "text": "Subject: Yiddish, of course."
+        }
+      ],
+      "tags": [],
+      "uuid": "558d6f0e-163c-4794-ba11-af6c577f46a9"
+    },
+    {
+      "start_time": 866,
+      "end_time": 866,
+      "annotation": [
+        {
+          "text": "Interviewer: Yiddish."
+        }
+      ],
+      "tags": [],
+      "uuid": "9adf249a-6c3c-453e-b020-fd8474807860"
+    },
+    {
+      "start_time": 866,
+      "end_time": 923,
+      "annotation": [
+        {
+          "text": "Subject: Yiddish. No doubt about that. But afterward, as part of my upbringing, because a lot of persons lived in our immediate neighbourhood, almost 50 per cent of Poles and 50 per cent of Jews. So, I had friends like Bronek Wozniak, Jozek, like Olek Rytko and, in general, Maniek Jarosz. As I underline with all respect due to those persons, when, for example, I came back from that misfortune, I mean, the area where I was kept in hiding, I went to Mr. Rytko first. His first name was Franciszek, a shoemaker. By the way, he kept various Jewish books safe. That was a big thing, really big. He even kept a photo of my grandfather. He stored things that nobody could even imagine. He was not afraid. He had kept them safe, and he later returned everything to me and I, in turn, took them to Warsaw to the Religious Congregation in 1946."
+        }
+      ],
+      "tags": [],
+      "uuid": "0df6f066-555f-4a3a-9a7c-e70c7ad66d55"
+    },
+    {
+      "start_time": 923,
+      "end_time": 931,
+      "annotation": [
+        {
+          "text": "Interviewer: And in school? I understand that you said there were Polish and Jewish boys."
+        }
+      ],
+      "tags": [],
+      "uuid": "8e7a4f01-bd11-4b08-8212-6664262766e0"
+    },
+    {
+      "start_time": 931,
+      "end_time": 931,
+      "annotation": [
+        {
+          "text": "Subject: Yes, yes, less, less."
+        }
+      ],
+      "tags": [],
+      "uuid": "d016b9d6-21d1-42ef-9b27-574a4f85f84f"
+    },
+    {
+      "start_time": 931,
+      "end_time": 933,
+      "annotation": [
+        {
+          "text": "Interviewer: There were more Jews at that school?"
+        }
+      ],
+      "tags": [],
+      "uuid": "32ebea8e-ebc6-4107-902c-0cd2319ecd1b"
+    },
+    {
+      "start_time": 933,
+      "end_time": 956,
+      "annotation": [
+        {
+          "text": "Subject: I cannot [inaudible]. There were less Jewish boys, very few. Of course, children from those progressive Jewish families went to the Polish school. But those from the Hasidic families did not really. Instead, teachers would go to their homes, teach them in Polish but [such pupils] were few. There were more girls, more girls went to the Polish elementary school."
+        }
+      ],
+      "tags": [],
+      "uuid": "60fea276-ff49-49f7-ba84-dd50308d1740"
+    },
+    {
+      "start_time": 956,
+      "end_time": 959,
+      "annotation": [
+        {
+          "text": "Interviewer: I see. Please tell us something about your siblings. You had a sister and a brother?"
+        }
+      ],
+      "tags": [],
+      "uuid": "91398725-123c-4d0e-ae3e-1cf4ba60b7ad"
+    },
+    {
+      "start_time": 959,
+      "end_time": 963,
+      "annotation": [
+        {
+          "text": "Subject: I had a sister. Well, a sister. And my brother was shot dead."
+        }
+      ],
+      "tags": [],
+      "uuid": "be5cbda8-2a64-42ff-ab50-aa36fb16309c"
+    },
+    {
+      "start_time": 963,
+      "end_time": 965,
+      "annotation": [
+        {
+          "text": "Interviewer: No but in the period before the war, they, you were the oldest child?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f85a52de-b21b-4eda-a0aa-56357613b339"
+    },
+    {
+      "start_time": 965,
+      "end_time": 1009,
+      "annotation": [
+        {
+          "text": "Subject: My sister completed seven classes of elementary school in Gora Kalwaria before the war, just like me. I say elementary because I use the post-war language. It used to be called the common school. She was a very good pupil. She was very gifted because, in general, once she had graduated, she travelled to Warsaw. She worked at 14 Radzyminska Street. There was a small soap factory and she kept accounting ledgers for them. She was a diligent student. I was a mediocre pupil. I mean I had very good grades in Polish, history and German. I was not that good at maths, but I never had to repeat a grade. I was no trouble at all. Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "0c90aab4-1689-4474-98b5-3c3f85a2d92f"
+    },
+    {
+      "start_time": 1009,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "text": "Interviewer: And your brother?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d012dbae-60b2-492b-98cf-2b18d636a259"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "text": "Subject: My brother completed the same number of grades as me. My brother completed six grades, just like me. Till the seventh grade, the same as me, he went, I was already in the army at the time, he was an apprentice saddler. No, I wasn’t in the army yet because I was still working as a apprentice tailor. And he was training to become a saddler. He was a saddler. With Poloniecki."
+        }
+      ],
+      "tags": [],
+      "uuid": "f72eeedc-4a96-4052-a8af-37194159867b"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1041,
+      "annotation": [
+        {
+          "text": "Interviewer: I understand. Please tell me what year were you called up to join the army?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a6093495-a078-47e8-83f8-f09aa0004f5e"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1043,
+      "annotation": [
+        {
+          "text": "Subject: In 1937."
+        }
+      ],
+      "tags": [],
+      "uuid": "b33f3beb-200d-4a49-a1ad-d9aae0068051"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1044,
+      "annotation": [
+        {
+          "text": "Interviewer: So you were 21 at the time?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a869e92d-e9e6-421d-84ba-bf211e09bec6"
+    },
+    {
+      "start_time": 1044,
+      "end_time": 1090,
+      "annotation": [
+        {
+          "text": "Subject: In nineteen [thirty-seven], yes, yes. Nineteen [thirty-seven], I joined the army on November 4th, I went to Suwalki.  It was, it was an elite regiment, 3rd Cavalry Regiment. There were only three such units in Poland. The 1st Cavalry Regiment was stationed in Szwolezerow Street in Warsaw, it was named, because this will not [inaudible] just like that after Jozef Pilsudski. The 2nd Cavalry Regiment was based in Starogard Gdanski, its commander was..., named after Dwernicki. And the 3rd Cavalry Regiment was in Suwalki, named after Jan Hipolit Kozietulski, the one who had captured the Somosierra mountain pass."
+        }
+      ],
+      "tags": [],
+      "uuid": "9fb8bf32-3a37-40b4-bf5d-37cd45a059ae"
+    },
+    {
+      "start_time": 1090,
+      "end_time": 1091,
+      "annotation": [
+        {
+          "text": "Interviewer: Somosierra."
+        }
+      ],
+      "tags": [],
+      "uuid": "bc3f3f94-4180-4f9c-9796-4a086d5daa7e"
+    },
+    {
+      "start_time": 1091,
+      "end_time": 1091,
+      "annotation": [
+        {
+          "text": "Subject: Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "8fc094ff-67f8-47bf-9825-a1782912dc7f"
+    },
+    {
+      "start_time": 1091,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "text": "Interviewer: And you were in Suwalki?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e555a45-b1f0-4d6f-8d7a-5e3344045818"
+    },
+    {
+      "start_time": 1093,
+      "end_time": 1124,
+      "annotation": [
+        {
+          "text": "Subject: That regiment was stationed in Suwalki. Of course, as I was a fairly capable soldier, I was selected to join a military academy for non-commissioned officers. I graduated from that academy. I completed an eight-month assignment in the same regiment. I was promoted to a corporal at the end of it. Afterward, instead of returning home in 1939... unfortunately, the war broke out in September.  Then"
+        }
+      ],
+      "tags": [],
+      "uuid": "e42355b1-972b-4b25-9905-2c0c0e36b3d9"
+    },
+    {
+      "start_time": 1124,
+      "end_time": 1127,
+      "annotation": [
+        {
+          "text": "Interviewer: Before we get there, please tell me you were, I mean, you joined the cavalry regiment."
+        }
+      ],
+      "tags": [],
+      "uuid": "6627fb83-0164-4569-a4cf-593a94aa336c"
+    },
+    {
+      "start_time": 1127,
+      "end_time": 1128,
+      "annotation": [
+        {
+          "text": "Subject: Yes, I did."
+        }
+      ],
+      "tags": [],
+      "uuid": "6ebde413-105f-4ed9-b331-84c9e78d6d10"
+    },
+    {
+      "start_time": 1128,
+      "end_time": 1132,
+      "annotation": [
+        {
+          "text": "Interviewer: I mean you were one of few Jews in the unit? Or were there many?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3e4c7c02-b31f-4ee5-819f-5bec09d4117f"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1138,
+      "annotation": [
+        {
+          "text": "Subject: There were four of us, four Jews, yes, not four but in each squadron, there were four persons of Jewish heritage."
+        }
+      ],
+      "tags": [],
+      "uuid": "20aa1ddb-489a-4b5a-93e4-6473e1db1996"
+    },
+    {
+      "start_time": 1138,
+      "end_time": 1139,
+      "annotation": [
+        {
+          "text": "Interviewer: Why? Such were the guidelines?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9545ba11-8fa5-4402-aeb1-033a44bcfe59"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1142,
+      "annotation": [
+        {
+          "text": "Subject: Well, that’s how it was exactly, whether there was a limit in general or not, I wouldn’t know that."
+        }
+      ],
+      "tags": [],
+      "uuid": "122ba75c-0f13-4dd0-90f2-0b870128189a"
+    },
+    {
+      "start_time": 1142,
+      "end_time": 1143,
+      "annotation": [
+        {
+          "text": "Interviewer: It could have been a coincidence."
+        }
+      ],
+      "tags": [],
+      "uuid": "4948119b-9526-4460-b664-638865788d86"
+    },
+    {
+      "start_time": 1143,
+      "end_time": 1165,
+      "annotation": [
+        {
+          "text": "Subject: That’s how it was more or less. There were 4 squadrons and there were four Jews in each and every squadron. In my squadron, there was myself, Henryk Prajs [Prais], Jan Kylberg, Jakub Feldman and the fourth one was... I don’t remember the fourth one."
+        }
+      ],
+      "tags": [],
+      "uuid": "8ac8e13f-7d37-4391-af7a-e46b117d9d36"
+    },
+    {
+      "start_time": 1165,
+      "end_time": 1168,
+      "annotation": [
+        {
+          "text": "Interviewer: You don’t remember. What were you relations with fellow soldiers?"
+        }
+      ],
+      "tags": [],
+      "uuid": "17275707-6e64-4067-9adb-023a21a2bcba"
+    },
+    {
+      "start_time": 1168,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "text": "Subject: They were very good. I was much liked. I can stress it hundred per cent till the present day. Among others, I had a friend called Jozef Wolski during the war. When we were on the frontline, we would tell one another, ‘Listen Heniek, if you make it through the war and I’m killed, let my family know’. He lived near the town of Sieradz.  He said, ‘If I’m killed, let my family know’. Afterward, we split obviously because I followed the squadron in the direction in the direction in the south direction as we were told to go through Czerwony Bor."
+        }
+      ],
+      "tags": [],
+      "uuid": "b93f0a70-bb1e-425e-8bc8-fe6db7ce8f64"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "text": "Interviewer: But you’re already talking about the war period, aren’t you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7db206e-6c84-4ee6-b17f-a22f7d45f83e"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "text": "Subject: The war period."
+        }
+      ],
+      "tags": [],
+      "uuid": "6e1abd52-75be-412c-bea3-4092d91f150d"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1219,
+      "annotation": [
+        {
+          "text": "Interviewer: So let’s concentrate on your military service. When you came, for instance, home on leave, to Gora Kalwaria, did you stay for long and how was it?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4cf5b257-5884-4d8d-9b30-f4fa7defab57"
+    },
+    {
+      "start_time": 1219,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "text": "Subject: Yes, very much so. I was well respected and admired. [My uniform] would turn heads. I was a cavalryman and, as such, I stood out because soldiers from other formations would wear four-cornered caps and we were issued with round caps with yellow headbands. So, I was proudly carrying a sabre. Well, this is all I can say [inaudible]."
+        }
+      ],
+      "tags": [],
+      "uuid": "6e6241de-d832-4d40-8882-f2613bec3f26"
+    },
+    {
+      "start_time": 1242,
+      "end_time": 1244,
+      "annotation": [
+        {
+          "text": "Interviewer: Was there a rabbi in these cavalry units?"
+        }
+      ],
+      "tags": [],
+      "uuid": "120df663-b10e-4c4b-9e22-ae31ba047ea9"
+    },
+    {
+      "start_time": 1244,
+      "end_time": 1292,
+      "annotation": [
+        {
+          "text": "Subject: Yes, there was. There was a rabbi, but he was one for the entire brigade, the Bialystok brigade or rather a garrison not a brigade because the brigade was the autonomous Suwalki brigade. No, it was just the Bialystok garrison. It was a rabbi with a grade of captain by the name of... I don’t recall his surname. But he was there. He would come to our unit to hold religious, of course, but also social and even political discussions. He said that Jews had to be loyal to the state because the state came first, the army came first. He would celebrate a service every Sunday. Every Sunday, they would take us to a synagogue for a prayer with the rabbi."
+        }
+      ],
+      "tags": [],
+      "uuid": "538cac8a-dbb9-48e8-a50d-ea0a898f2e34"
+    },
+    {
+      "start_time": 1292,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "text": "Interviewer: On Sunday and not on Saturday?"
+        }
+      ],
+      "tags": [],
+      "uuid": "bec2cfb0-b6ae-47f2-9ffa-a050196a2e3c"
+    },
+    {
+      "start_time": 1294,
+      "end_time": 1310,
+      "annotation": [
+        {
+          "text": "Subject: Every Sunday, not Saturday, on Sunday only. Catholics were led to a Catholic church, Russian Orthodox soldiers to a Russian Orthodox church, Protestants to a kirche, and Jews to a synagogue."
+        }
+      ],
+      "tags": [],
+      "uuid": "31348b17-3b0f-44af-b494-b1602759978f"
+    },
+    {
+      "start_time": 1310,
+      "end_time": 1313,
+      "annotation": [
+        {
+          "text": "Interviewer: What do you mean by ‘led’? You mean you walked?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ffce6860-3d4f-4741-9bb2-a76c55b643c9"
+    },
+    {
+      "start_time": 1313,
+      "end_time": 1323,
+      "annotation": [
+        {
+          "text": "Subject: Yes, they led us, every unit had a senior officer who would lead the group. There were also four Germans only and four Protestants as well."
+        }
+      ],
+      "tags": [],
+      "uuid": "a9dcc936-1693-4b1e-b66b-808b3f6d7e31"
+    },
+    {
+      "start_time": 1323,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "text": "Interviewer: And if you didn’t want to go to the synagogue or..."
+        }
+      ],
+      "tags": [],
+      "uuid": "2b380c53-d6b8-4977-b1e2-bb140262eb02"
+    },
+    {
+      "start_time": 1325,
+      "end_time": 1326,
+      "annotation": [
+        {
+          "text": "Subject: It was not compulsory, no."
+        }
+      ],
+      "tags": [],
+      "uuid": "abdfdc80-eed4-41b2-8223-af5b99f0081e"
+    },
+    {
+      "start_time": 1326,
+      "end_time": 1327,
+      "annotation": [
+        {
+          "text": "Interviewer: We were not coerced."
+        }
+      ],
+      "tags": [],
+      "uuid": "61b9d41c-0fb0-48c0-8d09-09b4a7542a9b"
+    },
+    {
+      "start_time": 1327,
+      "end_time": 1343,
+      "annotation": [
+        {
+          "text": "Subject: No, no. That was not compulsory. The same during the morning prayer. If the ‘Kiedy ranne wstają zorze’ [When morning dawn is breaking] song was sung in the morning and the ‘Wszystkie nasze dzienne sprawy...’ [All our daily matters] song in the evening. The Jews were not obliged [to join in]. Whoever wished to join the ranks, could do so. If not, they could step out and step away. That was [inaudible]."
+        }
+      ],
+      "tags": [],
+      "uuid": "64c6e642-6a57-43a6-9300-582c9eefdd95"
+    },
+    {
+      "start_time": 1343,
+      "end_time": 1349,
+      "annotation": [
+        {
+          "text": "Interviewer: As I understand it, the life of a Jewish soldier was very similar to the life of a Polish soldier."
+        }
+      ],
+      "tags": [],
+      "uuid": "6aa7ad1c-f9f4-4213-b627-b7368221c175"
+    },
+    {
+      "start_time": 1349,
+      "end_time": 1362,
+      "annotation": [
+        {
+          "text": "Subject: Very much so, very much so. There was no difference at all during the drills. Similarly, if you were capable, you would be distinguished in the same way as anybody else. In general, you did not feel any different in the military at all."
+        }
+      ],
+      "tags": [],
+      "uuid": "d6c831bd-1930-407b-8e86-9679320c48c2"
+    },
+    {
+      "start_time": 1362,
+      "end_time": 1367,
+      "annotation": [
+        {
+          "text": "Interviewer: How long was military service during that time? Two years?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0021369a-b30c-403a-b741-a4416f0528ae"
+    },
+    {
+      "start_time": 1367,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "text": "Subject: Two years."
+        }
+      ],
+      "tags": [],
+      "uuid": "11874068-d55a-413c-9edc-649597bf90b1"
+    },
+    {
+      "start_time": 1368,
+      "end_time": 1371,
+      "annotation": [
+        {
+          "text": "Interviewer: Two years. Because you enlisted in 1937. You were supposed to serve until..."
+        }
+      ],
+      "tags": [],
+      "uuid": "22cff14d-ef20-49a2-b161-d892faac7b5f"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1374,
+      "annotation": [
+        {
+          "text": "Subject: In 1937. I was twenty-one."
+        }
+      ],
+      "tags": [],
+      "uuid": "626ee7e1-00c7-4380-841c-ca4e8e7e2416"
+    },
+    {
+      "start_time": 1374,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "text": "Interviewer: Yes, you were."
+        }
+      ],
+      "tags": [],
+      "uuid": "181de6d6-6377-4b30-8f9c-8c815d85ade2"
+    },
+    {
+      "start_time": 1375,
+      "end_time": 1381,
+      "annotation": [
+        {
+          "text": "Subject: Almost 21 because I celebrate my anniversary on December 30th, but this is irrelevant. Yes, what counts only is the month, the year counts."
+        }
+      ],
+      "tags": [],
+      "uuid": "91341699-0168-495a-8b75-f452709a107f"
+    },
+    {
+      "start_time": 1381,
+      "end_time": 1385,
+      "annotation": [
+        {
+          "text": "Interviewer: So you mean you were supposed to join the army reserve in 1939?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ff15964a-f89e-4d66-9130-b3ffb60664c9"
+    },
+    {
+      "start_time": 1385,
+      "end_time": 1388,
+      "annotation": [
+        {
+          "text": "Subject: I was meant to join the reserve as soon as 1939."
+        }
+      ],
+      "tags": [],
+      "uuid": "87b69059-9f9c-47bf-9f94-ecc45975d836"
+    },
+    {
+      "start_time": 1388,
+      "end_time": 1389,
+      "annotation": [
+        {
+          "text": "Interviewer: Meaning that war caught you already..."
+        }
+      ],
+      "tags": [],
+      "uuid": "599d3103-0c01-40ac-9113-8a34ba1461a2"
+    },
+    {
+      "start_time": 1389,
+      "end_time": 1394,
+      "annotation": [
+        {
+          "text": "Subject: War caught me right away precisely in [inaudible] instead. From the very start, right away, our regiment."
+        }
+      ],
+      "tags": [],
+      "uuid": "4a86ea9c-0326-4aec-b591-f4f984a65a0c"
+    },
+    {
+      "start_time": 1394,
+      "end_time": 1396,
+      "annotation": [
+        {
+          "text": "Interviewer: You were a soldier when the war broke out?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ca40f27b-157a-42f5-9774-acda059c15fd"
+    },
+    {
+      "start_time": 1396,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "text": "Subject: Yes, I was. I was in active duty. I held the rank of a corporal. Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "388a4413-1df1-4876-b083-5118c7a6f922"
+    },
+    {
+      "start_time": 1399,
+      "end_time": 1405,
+      "annotation": [
+        {
+          "text": "Interviewer: What was the atmosphere like in the town of Kalwaria, in Gora Kalwaria before the war?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9b86ae02-1563-48e6-bef0-4f118549b2c9"
+    },
+    {
+      "start_time": 1405,
+      "end_time": 1427,
+      "annotation": [
+        {
+          "text": "Subject: It’s hard to say because I was no longer there during that period. But the same psychosis was felt everywhere. Everybody was aware of it in general. When I returned to Gora Kalwaria during that period, in December [1939], everybody already thought that I had been killed. I could not let them know because I was in captivity, I was interned by the Russians in... in Russia."
+        }
+      ],
+      "tags": [],
+      "uuid": "72122cb1-3b3b-4037-9965-24dd9d63ce9d"
+    },
+    {
+      "start_time": 1427,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "text": "Interviewer: Am I to understand that people felt, well, it was clear to them since summer 1939 that the war would break out?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b7fb8538-f8f4-4ba8-9ca3-2e1b4b1a48ce"
+    },
+    {
+      "start_time": 1434,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "text": "Subject: Yes, we knew that too in our regiment because, as I wrote it in my memoirs, because we were surprised because when it comes to Beck’s speech. I no longer recall if it was in March or when he said that [inaudible], we knew already. In the army, we felt that the mood was changing. We were already issued with helmets. Some of us went to dig those..."
+        }
+      ],
+      "tags": [],
+      "uuid": "21c6a6d7-c106-4c61-bf2d-97ffb7c3d352"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1463,
+      "annotation": [
+        {
+          "text": "Interviewer: Trenches."
+        }
+      ],
+      "tags": [],
+      "uuid": "e707327c-85d9-4749-ac1f-b865a335bfe7"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "text": "Subject: Trenches. We laid barbed wire, so we felt it. And later, just as all over Poland, we, like everybody in the country, it was clear, we are even I even mentioned that in my memoirs that Beck [Polish minister of foreign affairs] had said that not only we would not give up Gdansk but we would not part with a button from our uniforms. But, unfortunately, during the war we learned that it was, how do you say it, that it was not real.  I’m not going to talk about the other..."
+        }
+      ],
+      "tags": [],
+      "uuid": "c3951bdc-255c-4b2c-a0a5-348b09078ccf"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1502,
+      "annotation": [
+        {
+          "text": "Interviewer: As a Polish soldier, did you firmly believe in victory and in the great superiority of the Polish armed forces at the time?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cb8a4287-5709-40b4-8eda-381af702b935"
+    },
+    {
+      "start_time": 1502,
+      "end_time": 1533,
+      "annotation": [
+        {
+          "text": "Subject: We did not believe in victory maybe but in [fighting] spirit, and each of us simply felt strong attachment to our homeland. At the time, we marched firmly convinced that we would defeat the enemy. Additionally, when England and France declared war on Germany, we actually thought that we would win and that we would not give in.  Well, it turned out otherwise later on. Well."
+        }
+      ],
+      "tags": [],
+      "uuid": "d733c6db-f178-46b9-878f-8a45ae1add34"
+    },
+    {
+      "start_time": 1533,
+      "end_time": 1548,
+      "annotation": [
+        {
+          "text": "Interviewer: What was primarily your and your fellow Jews’ attitude [toward] Germans and what were your concerns? What I mean really is whether your and your fellow soldiers’ attitude toward Germans was different from Poles’ attitude toward Germans?"
+        }
+      ],
+      "tags": [],
+      "uuid": "58319183-2547-4bee-b043-230d7ec9f207"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1567,
+      "annotation": [
+        {
+          "text": "Subject: In the regiment itself, I can confidently say that there was no difference in 100%. I had fellow soldiers who were Protestants- Bertold, Zoller, Pratz[?] and Mann. I recall their names clearly. We lived together very well."
+        }
+      ],
+      "tags": [],
+      "uuid": "e69bf44f-fdf2-4fc0-bf18-ae3e302f8d3e"
+    },
+    {
+      "start_time": 1567,
+      "end_time": 1568,
+      "annotation": [
+        {
+          "text": "Interviewer: Yes, but..."
+        }
+      ],
+      "tags": [],
+      "uuid": "75f4b0c4-c93f-4bc9-a040-ac31ced66f30"
+    },
+    {
+      "start_time": 1568,
+      "end_time": 1570,
+      "annotation": [
+        {
+          "text": "Subject: In the regiment, at the time when we were living in the barracks."
+        }
+      ],
+      "tags": [],
+      "uuid": "005984ab-1747-417d-9931-3f480bf4dbfd"
+    },
+    {
+      "start_time": 1570,
+      "end_time": 1573,
+      "annotation": [
+        {
+          "text": "Interviewer: It’s not what I meant. In 1933, Hitler came to power."
+        }
+      ],
+      "tags": [],
+      "uuid": "f2351e09-e65c-4f81-a7bb-307403d3e43a"
+    },
+    {
+      "start_time": 1573,
+      "end_time": 1577,
+      "annotation": [
+        {
+          "text": "Subject: And one has to say that those Germans stayed [with the regiment] till the very end. No, no, they didn’t betray us."
+        }
+      ],
+      "tags": [],
+      "uuid": "d4e78011-7b63-4f9a-beb6-acb1244dc394"
+    },
+    {
+      "start_time": 1577,
+      "end_time": 1578,
+      "annotation": [
+        {
+          "text": "Interviewer: I see."
+        }
+      ],
+      "tags": [],
+      "uuid": "d2141b58-94a3-4510-8c8b-25f46264433b"
+    },
+    {
+      "start_time": 1578,
+      "end_time": 1593,
+      "annotation": [
+        {
+          "text": "Subject: The Germans stayed with us till the very end, when Poland, we, our regiment surrendered. They stayed until the last moment. However, when we had moved east all Ukrainians and Belarusians deserted."
+        }
+      ],
+      "tags": [],
+      "uuid": "e0ce0f63-1917-4856-ac82-4a1b572eba11"
+    },
+    {
+      "start_time": 1593,
+      "end_time": 1602,
+      "annotation": [
+        {
+          "text": "Interviewer: I understand but today from the perspective of 50 and more years from the war’s breakout, it’s being said, firstly, when Hitler came to power in 1933..."
+        }
+      ],
+      "tags": [],
+      "uuid": "8d0e3aaf-0951-4222-a8e6-0e7f16cd86a6"
+    },
+    {
+      "start_time": 1602,
+      "end_time": 1603,
+      "annotation": [
+        {
+          "text": "Subject: That’s right."
+        }
+      ],
+      "tags": [],
+      "uuid": "ad504ea1-c5b2-448e-ad0c-dae4ff833fee"
+    },
+    {
+      "start_time": 1603,
+      "end_time": 1616,
+      "annotation": [
+        {
+          "text": "Interviewer: That all Jews, majority of Jews sort of knew what Hitler had in store for them. With that in mind, I would like to ask you whether... for instance, you were 17 in 1933, weren’t you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d19e3b8-0196-4305-ac1b-cabadcfc1e66"
+    },
+    {
+      "start_time": 1616,
+      "end_time": 1617,
+      "annotation": [
+        {
+          "text": "Subject: Yes. No. Older."
+        }
+      ],
+      "tags": [],
+      "uuid": "264c57f2-0687-4fff-9643-287b06042dac"
+    },
+    {
+      "start_time": 1617,
+      "end_time": 1637,
+      "annotation": [
+        {
+          "text": "Interviewer: You were older, 16 or 17. After the Zbaszyn incident. After the Diamond Night, Kristallnacht, were your concerns about the Germans greater than those of your Polish friends?"
+        }
+      ],
+      "tags": [],
+      "uuid": "77190070-8c71-4f33-9b6f-fd3a9dc5f53c"
+    },
+    {
+      "start_time": 1637,
+      "end_time": 1697,
+      "annotation": [
+        {
+          "text": "Subject: There’s no doubt that at the time no Jews, I emphasize, nobody, imagined that something like that would happen, even in Germany. We knew about that night; we were aware of persecutions. We heard about Mein Kampf, the book he had published. And, in general, it needs to be said that many people were already emigrating back in 1930s and not only in Poland.  There were kibbutzs in Gora Kalwaria, too. I myself belonged to Hapoel.  I was a member of Polaei Tziyon.  We were all thinking of emigrating, but emigrating was not that easy. First of all, the certificate was hard to come by. It really was. Had we all known what was going to happen, there is no doubt whatsoever that we all would have emigrated to Israel or elsewhere. Maybe not all because older people would have probably stayed behind. But then who could have imagined that something like that would happen. This is what it’s all about."
+        }
+      ],
+      "tags": [],
+      "uuid": "230bd239-b30b-41bf-85c7-aa423f6f3ea3"
+    },
+    {
+      "start_time": 1697,
+      "end_time": 1709,
+      "annotation": [
+        {
+          "text": "Interviewer: I understand but you mentioned that you had sort of a Zionist orientation, you were a member of Hashomer Hatzair. Is that the worldview that you had from your teenage years?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0247349a-e212-481c-bea4-10c143d5ea89"
+    },
+    {
+      "start_time": 1709,
+      "end_time": 1718,
+      "annotation": [
+        {
+          "text": "Subject: From my youngest years... since I was 13, I was part of it.  I was first a scout and then a regular member."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd9f32e3-9bf8-4d6b-a7ea-47bbe4e3faf3"
+    },
+    {
+      "start_time": 1718,
+      "end_time": 1720,
+      "annotation": [
+        {
+          "text": "Interviewer: You mean Hatzair or?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f5db1c90-aff6-40d2-885c-51f44ffb013c"
+    },
+    {
+      "start_time": 1720,
+      "end_time": 1721,
+      "annotation": [
+        {
+          "text": "Subject: No, Poalei Tziyon."
+        }
+      ],
+      "tags": [],
+      "uuid": "bc486d21-0c58-4f37-808f-09e88d8079a8"
+    },
+    {
+      "start_time": 1721,
+      "end_time": 1721,
+      "annotation": [
+        {
+          "text": "Interviewer: Poalei Tziyon. Yes?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d4f2b047-0855-4346-9073-15687d9c6dcf"
+    },
+    {
+      "start_time": 1721,
+      "end_time": 1723,
+      "annotation": [
+        {
+          "text": "Subject: The right wing of Poalei Tziyon. Right."
+        }
+      ],
+      "tags": [],
+      "uuid": "38014d84-6de6-44af-9113-12529a0307f0"
+    },
+    {
+      "start_time": 1723,
+      "end_time": 1723,
+      "annotation": [
+        {
+          "text": "Interviewer: Right?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4bb05ed8-3e8a-466c-878f-d719ef9c0950"
+    },
+    {
+      "start_time": 1723,
+      "end_time": 1725,
+      "annotation": [
+        {
+          "text": "Subject: Yes, Ber Borochov’s. A supporter of Ber Borochov."
+        }
+      ],
+      "tags": [],
+      "uuid": "aecb9b1e-6e91-481d-85cf-4d7059765043"
+    },
+    {
+      "start_time": 1725,
+      "end_time": 1728,
+      "annotation": [
+        {
+          "text": "Interviewer: And that organization was large in Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "74cd5d37-6f55-4e55-960f-f3813fef7243"
+    },
+    {
+      "start_time": 1728,
+      "end_time": 1755,
+      "annotation": [
+        {
+          "text": "Subject: In general, there were various organizations in Gora Kalwaria. There was the Communist party, there was also Bund, Bund was the smallest party, and the Zionists were those, including the Mizrahi movement, who were part of the Orthodox Jews, there was Shomer Haleumi, Herzl’s organization, right-wing Zionists and, effectively, Poalei Tziyon, just the right wing of Poalei Tziyon. There was no left wing of Poalei Tziyon."
+        }
+      ],
+      "tags": [],
+      "uuid": "571e0a31-37f9-4838-bf78-9a0e50fa09be"
+    },
+    {
+      "start_time": 1755,
+      "end_time": 1757,
+      "annotation": [
+        {
+          "text": "Interviewer: And you had been a member of that organization until the time you joined the army?"
+        }
+      ],
+      "tags": [],
+      "uuid": "43669576-b217-49f0-b5d5-b35f134ba392"
+    },
+    {
+      "start_time": 1757,
+      "end_time": 1759,
+      "annotation": [
+        {
+          "text": "Subject: I was a member of that organization. That’s correct."
+        }
+      ],
+      "tags": [],
+      "uuid": "db6564ae-c900-46d0-94f1-628a52b8ecd6"
+    },
+    {
+      "start_time": 1759,
+      "end_time": 1760,
+      "annotation": [
+        {
+          "text": "Interviewer: Until, until you enlisted?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6396f027-ce01-4ea5-b04c-e5d71be1d94f"
+    },
+    {
+      "start_time": 1760,
+      "end_time": 1761,
+      "annotation": [
+        {
+          "text": "Subject: Until I joined the army."
+        }
+      ],
+      "tags": [],
+      "uuid": "beedbf3e-1fc2-472c-a859-1130646b77c1"
+    },
+    {
+      "start_time": 1761,
+      "end_time": 1763,
+      "annotation": [
+        {
+          "text": "Interviewer: Good. [inaudible]."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ec4143d-21f1-4f37-a10d-c7c4673e61d9"
+    },
+    {
+      "start_time": 1763,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "text": "Subject: My friends even came out to send me off."
+        }
+      ],
+      "tags": [],
+      "uuid": "dd08d7cb-6d99-4579-8311-392c0125e4b3"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1801.04,
+      "annotation": [
+        {
+          "text": "Interviewer: Let’s have a short break."
+        }
+      ],
+      "tags": [],
+      "uuid": "ba7577da-1205-41b5-a03c-5ae21b2a1605"
+    }
+  ]
+}

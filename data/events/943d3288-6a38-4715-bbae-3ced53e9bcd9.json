@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "d7dfb785-c0e7-4745-83ba-8a6840373f0b": {
+      "label": "AV File 5",
+      "file_url": "https://aviary-p-fortunoff.s3.wasabisys.com/collection_resource_files/resource_files/000/075/154/original/open-uri20200406-773-a2592g.mov?1586172468",
+      "duration": 878.04,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-20T15:16:03.047Z",
+  "created_by": "saracarl",
+  "label": "Media File 5 of 5 - open-uri20200406-773-a2592g.mov",
+  "updated_at": "2025-10-20T15:16:03.047Z",
+  "updated_by": "saracarl",
+  "rights_statement": ""
+}

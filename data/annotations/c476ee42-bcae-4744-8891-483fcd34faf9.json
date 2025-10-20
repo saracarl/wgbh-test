@@ -1,0 +1,986 @@
+{
+  "event_id": "943d3288-6a38-4715-bbae-3ced53e9bcd9",
+  "source_id": "d7dfb785-c0e7-4745-83ba-8a6840373f0b",
+  "set": "English Transcript [Transcript]",
+  "annotations": [
+    {
+      "start_time": 37,
+      "end_time": 40,
+      "annotation": [
+        {
+          "text": "Subject: Yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "10d75e2b-f6db-40d0-8dec-5545a85651b0"
+    },
+    {
+      "start_time": 40,
+      "end_time": 42,
+      "annotation": [
+        {
+          "text": "Interviewer: So you went back to Gora Kalwaria in 1945?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b27d439c-aaa9-47f1-a3e8-cbe7a90d9b47"
+    },
+    {
+      "start_time": 42,
+      "end_time": 43,
+      "annotation": [
+        {
+          "text": "Subject: Me?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a3e45658-b6ae-4760-b6d6-800c886282a1"
+    },
+    {
+      "start_time": 43,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Interviewer: You went back, didn't you? In 1945?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b6423b76-dd56-4a9d-a4ef-52b647e2ea67"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "text": "Subject: Yes, yes. I did."
+        }
+      ],
+      "tags": [],
+      "uuid": "c0ca9821-db19-4366-97a5-a4955746d2ac"
+    },
+    {
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "text": "Interviewer: But why?"
+        }
+      ],
+      "tags": [],
+      "uuid": "67cbaa36-17bd-4bd2-9eb6-0897e73dfb2b"
+    },
+    {
+      "start_time": 46,
+      "end_time": 50,
+      "annotation": [
+        {
+          "text": "Subject: Why did I go back? Well, it was my hometown. I was born there."
+        }
+      ],
+      "tags": [],
+      "uuid": "857e1d14-df4c-4eea-82cd-72dfbd35f098"
+    },
+    {
+      "start_time": 50,
+      "end_time": 53,
+      "annotation": [
+        {
+          "text": "Interviewer: And you learned that there were Jews in Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d3b75dd0-96d2-4325-8f7f-c3c710e5cbfe"
+    },
+    {
+      "start_time": 53,
+      "end_time": 64,
+      "annotation": [
+        {
+          "text": "Subject: Yes, I was still there when about 15 or more persons returned from Russia and later emigrated, some to Israel and some to America."
+        }
+      ],
+      "tags": [],
+      "uuid": "525cbf25-8cce-4440-8b0c-d25131cddcaa"
+    },
+    {
+      "start_time": 64,
+      "end_time": 67,
+      "annotation": [
+        {
+          "text": "Interviewer: And that prompted you to come here? That was the only reason?"
+        }
+      ],
+      "tags": [],
+      "uuid": "30e3acb1-1492-4bb9-bb6a-9aa8fd9ae9d4"
+    },
+    {
+      "start_time": 67,
+      "end_time": 75,
+      "annotation": [
+        {
+          "text": "Subject: No, that was not the only reason. I came because I later brought here that family and I still had an uncle there who also made it through the German occupation here."
+        }
+      ],
+      "tags": [],
+      "uuid": "7e2a89b5-0f25-4ef2-8add-57e0d92ec37e"
+    },
+    {
+      "start_time": 75,
+      "end_time": 76,
+      "annotation": [
+        {
+          "text": "Interviewer: In Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "553c4862-a975-46b4-b8b4-5336a5461986"
+    },
+    {
+      "start_time": 76,
+      "end_time": 79,
+      "annotation": [
+        {
+          "text": "Subject: In Gora Kalwaria. He lived through the occupation in Zawichost."
+        }
+      ],
+      "tags": [],
+      "uuid": "e41ca291-e49d-4f5f-82cf-f3e103e29c65"
+    },
+    {
+      "start_time": 79,
+      "end_time": 82,
+      "annotation": [
+        {
+          "text": "Interviewer: And not your mother and siblings?"
+        }
+      ],
+      "tags": [],
+      "uuid": "142f6236-34fd-40d4-b98a-a8faaebebcc8"
+    },
+    {
+      "start_time": 82,
+      "end_time": 83,
+      "annotation": [
+        {
+          "text": "Subject: Nobody more."
+        }
+      ],
+      "tags": [],
+      "uuid": "eaa1d1f5-9665-425d-9320-726d401d0467"
+    },
+    {
+      "start_time": 83,
+      "end_time": 86,
+      "annotation": [
+        {
+          "text": "Interviewer: I understand but you didn't try to look for them?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5c6a54c0-6b1a-41c2-8601-211fa319dfd3"
+    },
+    {
+      "start_time": 86,
+      "end_time": 87,
+      "annotation": [
+        {
+          "text": "Subject: What do you mean I didn't look for them?"
+        }
+      ],
+      "tags": [],
+      "uuid": "0b645e60-2f25-4773-aee2-8ca33ec18b39"
+    },
+    {
+      "start_time": 87,
+      "end_time": 87,
+      "annotation": [
+        {
+          "text": "Interviewer: So how was it?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d075a9aa-737f-4e36-ac3f-5725f9a632bb"
+    },
+    {
+      "start_time": 87,
+      "end_time": 106,
+      "annotation": [
+        {
+          "text": "Subject: I looked everywhere for them, I asked people I knew. My mother was ill. She most certainly was. She may have died in the Warsaw ghetto. I don't know. I knew about my brother but I don't know where my sister died, whether in Treblinka or in Majdanek. I don't know what had happened to my sister. I have her photo from school. It's a nice photo. She was a very gifted and good-looking girl."
+        }
+      ],
+      "tags": [],
+      "uuid": "a59f9751-a712-4663-81e4-6d05f8e65fc8"
+    },
+    {
+      "start_time": 106,
+      "end_time": 111,
+      "annotation": [
+        {
+          "text": "Interviewer: Did you go to the [Central] Committee of Jews in Poland after the war looking for them?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b2f97b11-4d4f-451f-b9b5-714f4bd92da9"
+    },
+    {
+      "start_time": 111,
+      "end_time": 120,
+      "annotation": [
+        {
+          "text": "Subject: I looked everywhere. I definitely looked for them with the help of  the Institute and I wrote to Israel, to Ben Yehuda Street, everywhere. No no no, they would also have been looking for me."
+        }
+      ],
+      "tags": [],
+      "uuid": "0cf0a4d4-48fa-475e-855f-d77259f7b983"
+    },
+    {
+      "start_time": 120,
+      "end_time": 127,
+      "annotation": [
+        {
+          "text": "Interviewer: And you got married in Podwierzbie or already in Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3370da0c-56b1-4792-a65e-5930967cd1f8"
+    },
+    {
+      "start_time": 127,
+      "end_time": 128,
+      "annotation": [
+        {
+          "text": "Subject: No, I got married in Kalwaria."
+        }
+      ],
+      "tags": [],
+      "uuid": "39d82bfb-78d7-4bda-9711-23fee60a83fe"
+    },
+    {
+      "start_time": 128,
+      "end_time": 131,
+      "annotation": [
+        {
+          "text": "Interviewer: That means that you came to Kalwaria in 1945?"
+        }
+      ],
+      "tags": [],
+      "uuid": "76d90e0d-6175-4881-887d-4f6dca75edc8"
+    },
+    {
+      "start_time": 131,
+      "end_time": 131,
+      "annotation": [
+        {
+          "text": "Subject: Yes, yes."
+        }
+      ],
+      "tags": [],
+      "uuid": "f3e01c8b-7c53-4703-b2fa-6e1302fc1c25"
+    },
+    {
+      "start_time": 131,
+      "end_time": 133,
+      "annotation": [
+        {
+          "text": "Interviewer: Where to exactly? Your home?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b555a9d6-6fe8-484a-94bb-7c05e1fb2b43"
+    },
+    {
+      "start_time": 133,
+      "end_time": 173,
+      "annotation": [
+        {
+          "text": "Subject: Well, not to my home. No. I just arrived in Gora Kalwaria. First, I went to see my neighbor. Rytko. I talked to him and spent the night there. The following day I started searching because my house was no longer there. The Germans demolished it. The Germans or somebody else or the Poles. [inaudible] I don't know. Anyway, there was no joy in that house. There was nothing in there but poverty. Old beds and an old wardrobe. It was a small wooden house. I rented a flat for myself. I lived properly. There was no problem."
+        }
+      ],
+      "tags": [],
+      "uuid": "9842fa3d-2e1a-4eed-94d9-e9832817491e"
+    },
+    {
+      "start_time": 173,
+      "end_time": 175,
+      "annotation": [
+        {
+          "text": "Interviewer: You rented a house or a flat?"
+        }
+      ],
+      "tags": [],
+      "uuid": "638e8372-1708-45d4-8b8b-b143df5f6d20"
+    },
+    {
+      "start_time": 175,
+      "end_time": 176,
+      "annotation": [
+        {
+          "text": "Subject: No, at somebody's place."
+        }
+      ],
+      "tags": [],
+      "uuid": "0691818e-feb8-422c-88e8-a1eae92a69c9"
+    },
+    {
+      "start_time": 176,
+      "end_time": 178,
+      "annotation": [
+        {
+          "text": "Interviewer: In a large apartment building?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c431ffcf-3204-4e4c-9c66-a1f17ef2b11d"
+    },
+    {
+      "start_time": 178,
+      "end_time": 205,
+      "annotation": [
+        {
+          "text": "Subject: No. There were no buildings like that in Gora Kalwaria. There are some nowadays but at the time there were none. No, it was a farmhouse. In a small house. I had [inaudible] and I started to sew. There was one more tailor. His name was Pelc [?]. He returned from Auschwitz. And we... we set up a tailor's shop together. I worked with him for some time and then it just went on."
+        }
+      ],
+      "tags": [],
+      "uuid": "004f4478-36e4-450b-a54d-da111102400c"
+    },
+    {
+      "start_time": 205,
+      "end_time": 207,
+      "annotation": [
+        {
+          "text": "Interviewer: How many Jews were there at the time?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5244ff48-5ebb-4aa3-ae46-370200791ecf"
+    },
+    {
+      "start_time": 207,
+      "end_time": 208,
+      "annotation": [
+        {
+          "text": "Subject: And later. How many Jews?"
+        }
+      ],
+      "tags": [],
+      "uuid": "89ee4a66-f0d3-4094-80f2-3e21738ca686"
+    },
+    {
+      "start_time": 208,
+      "end_time": 209,
+      "annotation": [
+        {
+          "text": "Interviewer: At the time."
+        }
+      ],
+      "tags": [],
+      "uuid": "f9595068-06c3-4434-a05b-1077695eae06"
+    },
+    {
+      "start_time": 209,
+      "end_time": 217,
+      "annotation": [
+        {
+          "text": "Subject: I don't know how many there may have been in total. All of those who returned from Russia, from Auschwitz, those who had gone into hiding. Some twenty persons maybe."
+        }
+      ],
+      "tags": [],
+      "uuid": "92d59162-1f8d-43f4-8ee6-d7e41c485549"
+    },
+    {
+      "start_time": 217,
+      "end_time": 218,
+      "annotation": [
+        {
+          "text": "Interviewer: OK."
+        }
+      ],
+      "tags": [],
+      "uuid": "cc7728be-e324-4163-bf4a-8a5ebc3ca510"
+    },
+    {
+      "start_time": 218,
+      "end_time": 226,
+      "annotation": [
+        {
+          "text": "Subject: And out of those, only four are still alive. There are Jewish residents [of Gora Kalwaria] living here till the present day."
+        }
+      ],
+      "tags": [],
+      "uuid": "12fd10c0-805c-4cee-a3bd-5c454251fa54"
+    },
+    {
+      "start_time": 226,
+      "end_time": 228,
+      "annotation": [
+        {
+          "text": "Interviewer: Apart from you, there are four persons still alive?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a36abb81-6321-4ab2-a507-53e921fbeae3"
+    },
+    {
+      "start_time": 228,
+      "end_time": 252,
+      "annotation": [
+        {
+          "text": "Subject: They are still there. Feliks Karpman, Henryk Majewski and Wladyslaw Helman. They are around, they still are around but they are not very active. Karpman is a bit more active than the others. The others are less involved. You can't force them. But they admit to being Jews. It doesn't matter any more. I was fond of my mother-in-law. She loved me dearly."
+        }
+      ],
+      "tags": [],
+      "uuid": "5445b6ec-4303-4737-b54f-8731b3772aa0"
+    },
+    {
+      "start_time": 252,
+      "end_time": 253,
+      "annotation": [
+        {
+          "text": "Interviewer: Mother-in-law?"
+        }
+      ],
+      "tags": [],
+      "uuid": "56297901-836d-4b32-8c4e-0133a2c28e66"
+    },
+    {
+      "start_time": 253,
+      "end_time": 254,
+      "annotation": [
+        {
+          "text": "Subject: Mother-in-law."
+        }
+      ],
+      "tags": [],
+      "uuid": "bd2885d1-cec0-4194-a9ea-32b0acef36ca"
+    },
+    {
+      "start_time": 254,
+      "end_time": 256,
+      "annotation": [
+        {
+          "text": "Interviewer: And when did you get married?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7bcda03f-3e72-47cf-9d83-3fb9a7156687"
+    },
+    {
+      "start_time": 256,
+      "end_time": 263,
+      "annotation": [
+        {
+          "text": "Subject: I married the daughter, her daughter. Just like she asked me to. She gave us a sense of purpose, so we could find our way"
+        }
+      ],
+      "tags": [],
+      "uuid": "31f623e6-1364-4df1-bb8d-a3f1e277b836"
+    },
+    {
+      "start_time": 263,
+      "end_time": 266,
+      "annotation": [
+        {
+          "text": "Interviewer: You mean your mother in law is originally from Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cb299770-e9b4-43b3-8c5d-fe152671fe17"
+    },
+    {
+      "start_time": 266,
+      "end_time": 268,
+      "annotation": [
+        {
+          "text": "Subject: Yes, yes, yes, yes. She was my neighbor."
+        }
+      ],
+      "tags": [],
+      "uuid": "9c67ef49-4b09-40a1-80d9-4bb650745ad1"
+    },
+    {
+      "start_time": 268,
+      "end_time": 269,
+      "annotation": [
+        {
+          "text": "Interviewer: Oh, your neighbor."
+        }
+      ],
+      "tags": [],
+      "uuid": "f80b331a-b9de-4b4f-bfdb-b1a193ccca6e"
+    },
+    {
+      "start_time": 269,
+      "end_time": 299,
+      "annotation": [
+        {
+          "text": "Subject: Yes, we lived... We made a very good married couple and spent 41 years together. We have a beautiful daughter who lives in Piaseczno. We have three sweet grandchildren. Michal has met them, too. Mateusz, Ola and Jula. Ola recently travelled to Israel. She was delighted. The younger one, Jula, will probably go there this year. They are active. They go to... they belong to Shalom. That..."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e02b9f4-b8db-48eb-b682-6e35f092552d"
+    },
+    {
+      "start_time": 299,
+      "end_time": 300,
+      "annotation": [
+        {
+          "text": "Interviewer: I understand."
+        }
+      ],
+      "tags": [],
+      "uuid": "9b1a9637-4d78-473a-82df-59aedd68c5b0"
+    },
+    {
+      "start_time": 300,
+      "end_time": 322,
+      "annotation": [
+        {
+          "text": "Subject: They are part of it. They do different... they take part in those trips to Sobibor [?] etc. They have this great honor that... they are proud of their grandfather. They love him. I love them too very much. My wife passed away and it's hard coping with her death. I'm alone at present."
+        }
+      ],
+      "tags": [],
+      "uuid": "9a5166d5-2d1b-4844-a21b-323028324a54"
+    },
+    {
+      "start_time": 322,
+      "end_time": 323,
+      "annotation": [
+        {
+          "text": "Interviewer: Did your wife die a long time ago?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d87d7025-5c9f-4084-a5e4-6a3f3ae7094e"
+    },
+    {
+      "start_time": 323,
+      "end_time": 338,
+      "annotation": [
+        {
+          "text": "Subject: Yes, she did. I live now with somebody. Well, I can call her my wife. She's like my second wife. She is Jewish. Her surname is Slowik. She has a son in America."
+        }
+      ],
+      "tags": [],
+      "uuid": "b3d616cf-74e7-4b26-98de-0e23b767b9cc"
+    },
+    {
+      "start_time": 338,
+      "end_time": 340,
+      "annotation": [
+        {
+          "text": "Interviewer: Where is she from? She also comes from Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "eb0650c6-5976-4d8c-b6b1-0946548ac4a1"
+    },
+    {
+      "start_time": 340,
+      "end_time": 359,
+      "annotation": [
+        {
+          "text": "Subject: No, not at all. She comes from, she was even born in Russia. She came back with her mother from Russia. She lived in Zagan. We met in Warsaw. She was married. Her husband died. She's a widow. Her son belongs to the Bobov's group in America. He is a Hasidic Jew, among other things."
+        }
+      ],
+      "tags": [],
+      "uuid": "144db311-830b-4ced-b992-01bfc692fc67"
+    },
+    {
+      "start_time": 359,
+      "end_time": 360,
+      "annotation": [
+        {
+          "text": "Interviewer: Oh, so he is a Hasidic Jew?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c9c7f77e-c4f0-469a-bb27-a1f357a01aed"
+    },
+    {
+      "start_time": 360,
+      "end_time": 495,
+      "annotation": [
+        {
+          "text": "Subject: Yes, he is a Hasidic Jew. He belongs to that group. She is progressive. She is with me at present. We live a very good life. We love each other. What else can I say. This is our life for all to see. Various groups come to Gora Kalwaria, mostly Hasidic Jews. Lots of young people from Israel, France and the United States. Mostly. In general, to visit the tzaddiks' place. That's what of particular interest to them. The synagogue and the cemetery. What else is there to see? I tell them about the history of Gora Kalwaria. I tell them about everything. But those things have been so well documented that everybody knows about them. Even the youngest Jewish child knows what the Holocaust was. So when they come sometimes, I say certain things because there are some points, for instance [inaudible]. It may even be inappropriate for me to talk about it because in the Jewish religion we pray 'Blessed are you God who have not created me a woman'. And I ask them a question 'Me'ayin ata? Me'ayin at or ata?' [Where are you from?]. And she responds, 'I'm from Holon' or 'I'm from Tel Aviv'. And then I ask her 'Lo. Ima' 'Wo kommst du her?' [Where do you come from?] Like your mother.  They start laughing. Like I started laughing now. It just happens that I know Torah a little, a little because I studied it a bit. I can even speak some Hebrew, too. I talk to them and they are very pleased. You won't find a Jew in the whole of the Warsaw province. People tend to keep to themselves the fact that they are Jewish. From the whole of Warsaw. And Gora Kalwaria is privileged in the sense that everybody knows about us and they respect us.  We are well liked. Everybody likes us in Gora Kalwaria, whoever they are. Even Majewski who is a farmer. He owns many morgens of orchards. He is one of the best growers of fruit in the area. I also got involved in fruit growing some time ago when I stopped working as a tailor. I was a fruit grower. Well, I was."
+        }
+      ],
+      "tags": [],
+      "uuid": "e7476795-6b1d-417b-adfa-3f6e1f9d8b3a"
+    },
+    {
+      "start_time": 495,
+      "end_time": 500,
+      "annotation": [
+        {
+          "text": "Interviewer: Please tell me one more thing, Mrs. Popl... Poplawska, right? Was she awarded the Righteous Among the Nations medal?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2b9493c1-3b7f-4970-b155-838cb0413857"
+    },
+    {
+      "start_time": 500,
+      "end_time": 500,
+      "annotation": [
+        {
+          "text": "Subject: Pokorska."
+        }
+      ],
+      "tags": [],
+      "uuid": "caa41026-ee5b-4048-919a-d07dc94da9aa"
+    },
+    {
+      "start_time": 500,
+      "end_time": 502,
+      "annotation": [
+        {
+          "text": "Interviewer: Pokorska, I'm sorry, Pokorska."
+        }
+      ],
+      "tags": [],
+      "uuid": "f2ecdd6c-8c47-4ed8-899a-e54957d22e28"
+    },
+    {
+      "start_time": 502,
+      "end_time": 504,
+      "annotation": [
+        {
+          "text": "Subject: Pokorska. She received a medal in Yad Vashem."
+        }
+      ],
+      "tags": [],
+      "uuid": "0c54ec26-c96b-45d6-92cf-980d9fb9f8b8"
+    },
+    {
+      "start_time": 504,
+      "end_time": 505,
+      "annotation": [
+        {
+          "text": "Interviewer: When was it?"
+        }
+      ],
+      "tags": [],
+      "uuid": "497540bb-e127-4fd0-a7f6-92055fb04cda"
+    },
+    {
+      "start_time": 505,
+      "end_time": 506,
+      "annotation": [
+        {
+          "text": "Subject: In the 1960s."
+        }
+      ],
+      "tags": [],
+      "uuid": "16e92d18-ccbe-4a2a-883a-d4e40dfebc88"
+    },
+    {
+      "start_time": 506,
+      "end_time": 508,
+      "annotation": [
+        {
+          "text": "Interviewer: In the 1960s. You mean that's when you submitted the application?"
+        }
+      ],
+      "tags": [],
+      "uuid": "90eafc25-6d83-4dd1-b3fb-34575e331d32"
+    },
+    {
+      "start_time": 508,
+      "end_time": 511,
+      "annotation": [
+        {
+          "text": "Subject: Yes, yes, yes. I submitted the application using the standard procedure. Yes, it's there. She's got hers there."
+        }
+      ],
+      "tags": [],
+      "uuid": "2b313d9c-94d2-4b54-9933-1b8e4d5dcb1c"
+    },
+    {
+      "start_time": 511,
+      "end_time": 512,
+      "annotation": [
+        {
+          "text": "Interviewer: And you have"
+        }
+      ],
+      "tags": [],
+      "uuid": "ff71de73-91f3-45c1-9d9d-d9d36bbde8ff"
+    },
+    {
+      "start_time": 512,
+      "end_time": 529,
+      "annotation": [
+        {
+          "text": "Subject: I'm very happy for her. She truly deserves the title. No mother, no Jewish mother would have done more for me than she has. I firmly believe that. I think I may not be the only one to say so but I wish to put it on record."
+        }
+      ],
+      "tags": [],
+      "uuid": "19c0e033-4815-4371-8037-c930d1da9cae"
+    },
+    {
+      "start_time": 529,
+      "end_time": 534,
+      "annotation": [
+        {
+          "text": "Interviewer: And you also have family in Israel in Holon, don't you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4159a091-5d82-4b12-9028-4a01ae1be55d"
+    },
+    {
+      "start_time": 534,
+      "end_time": 537,
+      "annotation": [
+        {
+          "text": "Subject: I have a cousin in Holon."
+        }
+      ],
+      "tags": [],
+      "uuid": "2080e09e-ec13-4f3a-840a-a06370c1e072"
+    },
+    {
+      "start_time": 537,
+      "end_time": 538,
+      "annotation": [
+        {
+          "text": "Interviewer: They lived through the war here in Poland?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d2c2b1ca-2e7b-46c1-9886-d03ef4ade124"
+    },
+    {
+      "start_time": 538,
+      "end_time": 540,
+      "annotation": [
+        {
+          "text": "Subject: No, in Russia."
+        }
+      ],
+      "tags": [],
+      "uuid": "a5459023-b982-4059-b415-ecaba0dc37a3"
+    },
+    {
+      "start_time": 540,
+      "end_time": 543,
+      "annotation": [
+        {
+          "text": "Interviewer: I see. OK."
+        }
+      ],
+      "tags": [],
+      "uuid": "9a97d41b-a18e-4931-8e44-aa808db06b87"
+    },
+    {
+      "start_time": 543,
+      "end_time": 548,
+      "annotation": [
+        {
+          "text": "Subject: I have cousins in Israel in Benej Brak. They survived Auschwitz."
+        }
+      ],
+      "tags": [],
+      "uuid": "b0e74daa-d193-44c3-915c-6c7fdac159e5"
+    },
+    {
+      "start_time": 548,
+      "end_time": 548,
+      "annotation": [
+        {
+          "text": "Interviewer: Are they Hasidic Jews?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e255b282-9632-4ceb-9c21-9df908819160"
+    },
+    {
+      "start_time": 548,
+      "end_time": 549,
+      "annotation": [
+        {
+          "text": "Subject: Yes, they are."
+        }
+      ],
+      "tags": [],
+      "uuid": "301bd714-968c-4201-b300-9fa982fec8cc"
+    },
+    {
+      "start_time": 549,
+      "end_time": 552,
+      "annotation": [
+        {
+          "text": "Interviewer: Are they followers of the rabbi, that tsaddik from Gora Kalwaria?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c716a6ff-050b-4e8c-a6b1-cad294b79042"
+    },
+    {
+      "start_time": 552,
+      "end_time": 558,
+      "annotation": [
+        {
+          "text": "Subject: No, I mean yes, they are Hasidic Jews of the rabbi from Gora Kalwaria. His name is Aron Szyniawer."
+        }
+      ],
+      "tags": [],
+      "uuid": "80fed7da-2f0a-4586-a0b0-23a096975241"
+    },
+    {
+      "start_time": 558,
+      "end_time": 559,
+      "annotation": [
+        {
+          "text": "Interviewer: I see."
+        }
+      ],
+      "tags": [],
+      "uuid": "602e3ace-a424-4610-bdd1-3f8c27f404a9"
+    },
+    {
+      "start_time": 559,
+      "end_time": 566,
+      "annotation": [
+        {
+          "text": "Subject: They have children, too. They are aware of my existence. I met them. I have just returned from Israel. We met there."
+        }
+      ],
+      "tags": [],
+      "uuid": "26095946-1be5-40dc-9a67-0bbdad301522"
+    },
+    {
+      "start_time": 566,
+      "end_time": 568,
+      "annotation": [
+        {
+          "text": "Interviewer: Have you been to Israel recently?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a97d04c-6d37-4db6-ba90-d2c8f0049348"
+    },
+    {
+      "start_time": 568,
+      "end_time": 570,
+      "annotation": [
+        {
+          "text": "Subject: Yes, I have."
+        }
+      ],
+      "tags": [],
+      "uuid": "0c75bdb6-ad84-42f7-92d3-5c2a557f672c"
+    },
+    {
+      "start_time": 570,
+      "end_time": 572,
+      "annotation": [
+        {
+          "text": "Interviewer: How are you welcomed in Israel? After all, you are..."
+        }
+      ],
+      "tags": [],
+      "uuid": "7fe3748c-7260-4986-b878-aa74312e73ed"
+    },
+    {
+      "start_time": 572,
+      "end_time": 573,
+      "annotation": [
+        {
+          "text": "Subject: Very warmly."
+        }
+      ],
+      "tags": [],
+      "uuid": "efad02f4-7459-47d7-8512-18382f0ef04c"
+    },
+    {
+      "start_time": 573,
+      "end_time": 575,
+      "annotation": [
+        {
+          "text": "Interviewer: You come from an almost sacred place for them."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd2212d6-93b9-41eb-bea5-bc28764a3195"
+    },
+    {
+      "start_time": 575,
+      "end_time": 606,
+      "annotation": [
+        {
+          "text": "Subject: True, they welcome me very nicely, I am welcomed wherever I go, I have such disposition that they welcome me warmly everywhere. I no, no, I'm always an optimist and I'm never biased, nothing and never.  When I say something, I like to say it objectively and I don't like to say it intentionally with any bias or hatred toward this or that person. I know about it. I know that in many cases, during the Nazi occupation, maybe not all people treated me decently. No, no, I'm not talking about the period after the war. But I forgive forgive them. I forgive and that's it. Such were the times and maybe they didn't know what they were doing."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ebc4a8c-945a-4faa-981f-7de0764b0c00"
+    },
+    {
+      "start_time": 606,
+      "end_time": 617,
+      "annotation": [
+        {
+          "text": "Interviewer: I have only one more question to conclude, the post-war period, let's say from the Kielce pogrom in 1946  until March 1968.  Did it have any impact on you?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ab5c6ba6-94e8-4709-829d-5593b993ab8e"
+    },
+    {
+      "start_time": 617,
+      "end_time": 687,
+      "annotation": [
+        {
+          "text": "Subject: Yes. There's no doubt about that. I must stress that I felt quite strongly about the events of 1968. I say, I had to make it through the war and live until the time when the Communist party - allegedly communist, since the sort of communism we had was… but that'a a different issue - told Jews to go into hiding or had Jews expelled just because they were Jews. Shame on you! Shame on you, gentlemen, shame on you for March 68 if any of you are still alive. This is a great shame for you! Great shame for your, your state system! And your political system.  Even though Moczar [the Polish minister of interior, a Communist] is no longer alive, if anyone from his fraction is still here they should be ashamed for 1968What we, Jews, had to live through. We who lived in that... You can't even imagine what we were going through at the time. I wish to stress the fact that if it were not for Wyszynski , Cardinal Wyszynski, there would have been a general pogrom against Jews. There would have been a pogrom. But it didn't take place because Wyszynski told people, 'Don't be fooled. It's not Jews, no, Jews are not the guilty ones here'. I don't know if you know it, Michal?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9675fd95-0d51-46f0-9f08-80ca1f5280f3"
+    },
+    {
+      "start_time": 687,
+      "end_time": 695,
+      "annotation": [
+        {
+          "text": "Interviewer: Yes, I do. We're basically done. Unless you wish to say something at the end?"
+        }
+      ],
+      "tags": [],
+      "uuid": "493f1840-8b2f-4f76-83f4-8869692070ed"
+    },
+    {
+      "start_time": 695,
+      "end_time": 823,
+      "annotation": [
+        {
+          "text": "Subject: Well, what can I say to conclude? I wish you plenty of good health. I salute all residents of Gora Kalwaria. I'm truly happy that I can say that about you. I know that you respect me. I'm even emotional when I say it. And I say the same to all people of good will because there's nothing better than a good man. There's nothing better in the world than a man with good disposition when he is, when he is friendly toward people, animals and everything around us. Isn't this much more important than being biased. 'Look, here comes a Jew!' or 'Look, here comes a Gypsy!' [sic] or 'Look, here comes such and such!'. That is just ugly. There was also a man like that by the name of Wysocki in Gora Kalwaria after the war. I bore no grudge against him either. His experiences were similar to many others. I experienced his longing because he had survived. He behaved very decently during the Nazi occupation. He was not afraid of anybody. But he was lonely, lonely. That man died alone. Did I feel sorry for him? As a Jew, I felt sorry for him because it was a man who simply had nobody. He was alone. He died alone, alone. The Protestant cemetery in Gora Kalwaria is in terrible condition. It's a tragedy. Why? If you could see the state of the Jewish cemetery in Gora Kalwaria. It was demolished. It was demolished by no one else but the Poles. Shame on you, Poles, for demolishing that cem... park and building houses on the grounds. I'm on record here. These are the things that simply are not done. You're not allowed to do such things. This is a sacred place. Unfortunately, such were the people. Graves were dug up. If someone had been recently buried, they would have even stripped the body of the linen in early 1945. It's a shame! It's a shame for Catholic faith."
+        }
+      ],
+      "tags": [],
+      "uuid": "990f51a3-bae1-47f8-a292-9a95dde589d0"
+    },
+    {
+      "start_time": 823,
+      "end_time": 828,
+      "annotation": [
+        {
+          "text": "Interviewer: Thank you very much."
+        }
+      ],
+      "tags": [],
+      "uuid": "ce0f7a72-019e-408d-91db-645f7d8096e1"
+    },
+    {
+      "start_time": 828,
+      "end_time": 878.04,
+      "annotation": [
+        {
+          "text": "Subject: I thank you, Michal. I told you what I could. It's good that I can still talk. This is, this is important."
+        }
+      ],
+      "tags": [],
+      "uuid": "91a204b3-9857-4e55-b438-16bce05ebf14"
+    }
+  ]
+}
