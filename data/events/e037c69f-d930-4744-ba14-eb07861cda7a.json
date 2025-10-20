@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "c6428d9b-7dc3-41bb-9a91-54002aa1cb9b": {
+      "label": "VBR MP3",
+      "file_url": "https://archive.org/download/wreck-of-the-old-97_202102/Wreck%20Of%20The%20Old%2097.mp3",
+      "duration": 193.33,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Wreck of the Old 97 from IA"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-20T14:44:06.072Z",
+  "created_by": "saracarl",
+  "label": "Wreck Of The Old 97",
+  "updated_at": "2025-10-20T14:44:06.072Z",
+  "updated_by": "saracarl",
+  "rights_statement": ""
+}
